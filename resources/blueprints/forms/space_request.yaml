@@ -1,0 +1,51 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: space
+            field:
+              type: text
+              display: Space
+              visibility: read_only
+          -
+            handle: company_name
+            field:
+              type: text
+              display: Bedrijfsnaam
+              placeholder: Bedrijfsnaam
+          -
+            handle: name_contact
+            field:
+              type: text
+              display: Contactpersoon
+              placeholder: Contactpersoon
+          -
+            handle: email_address
+            field:
+              input_type: email
+              type: text
+              display: Emailaddres
+              placeholder: Emailaddres
+          -
+            handle: phone_nymber
+            field:
+              input_type: tel
+              type: text
+              display: Telefoonnummer
+              placeholder: Telefoonnummer
+          -
+            handle: number_of_people
+            field:
+              type: text
+              display: 'Aantal personen'
+              placeholder: 'Aantal personen'
+          -
+            handle: full_date
+            field:
+              input_type: date
+              type: text
+              display: Datum
+              placeholder: Datum

@@ -1,0 +1,12 @@
+<div class="{{class}}">
+    {{if event_end }}
+        {{if event_start != event_end }}
+            {{event_start | iso_format("dddd LL")}} - {{event_end | iso_format("dddd LL")}}
+
+        {{else}}
+            {{event_start | iso_format("dddd LL") }}
+        {{/if}}
+    {{else}}
+        {{event_start | iso_format("dddd LL")}}
+    {{/if}}
+</div>

@@ -1,0 +1,30 @@
+title: 'Boxed Content'
+fields:
+  -
+    handle: content
+    field:
+      buttons:
+        - h2
+        - h3
+        - bold
+        - italic
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - quote
+        - anchor
+        - alignleft
+        - aligncenter
+        - alignright
+      smart_typography: true
+      remove_empty_nodes: trim
+      type: bard
+      display: Content
+      toolbar_mode: floating
+  -
+    handle: variant
+    field:
+      inline_label: Dark
+      inline_label_when_true: Light
+      type: toggle
+      display: Variant

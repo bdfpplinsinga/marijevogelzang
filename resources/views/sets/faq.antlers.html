@@ -1,0 +1,22 @@
+<div x-data="{ openFaq: null }" class="faq-section flex flex-col gap-4 mt-8">
+    
+    {{faq_items}}
+    
+    <div class="faq-item border p-6" x-data="{ id: {{index}} }">
+        <button 
+            @click="openFaq = openFaq === id ? null : id" 
+            class="w-full text-left flex justify-between items-center"
+        >
+            <h3 class="font-semibold">{{question}}</h3>
+            <span x-show="openFaq === id">-</span>
+            <span x-show="openFaq !== id">+</span>
+        </button>
+        <div x-show="openFaq === id" x-collapse class="mt-4">
+            {{partial:typography/prose as="div" class="prose  max-w-none"}}
+                {{answer}}
+            {{/partial:typography/prose}}
+        </div>
+    </div>
+
+    {{/faq_items}}
+</div>

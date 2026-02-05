@@ -1,0 +1,78 @@
+title: Streamer
+fields:
+  -
+    handle: heading
+    field:
+      type: text
+      display: Heading
+      width: 66
+  -
+    handle: heading_type
+    field:
+      options:
+        -
+          key: h1
+          value: H1
+        -
+          key: h2
+          value: H2
+        -
+          key: h3
+          value: H3
+      default: h2
+      type: select
+      display: 'Heading Type'
+      width: 33
+  -
+    handle: text_old
+    field:
+      type: textarea
+      display: Text
+  -
+    handle: text
+    field:
+      buttons:
+        - h2
+        - h3
+        - bold
+        - italic
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - anchor
+      toolbar_mode: floating
+      remove_empty_nodes: trim
+      type: bard
+      display: Text
+  -
+    handle: image
+    field:
+      max_files: 1
+      mode: grid
+      container: assets
+      type: assets
+      display: Image
+  -
+    handle: align_content
+    field:
+      options:
+        -
+          key: left
+          value: Left
+        -
+          key: center
+          value: Center
+        -
+          key: right
+          value: Right
+      default: left
+      type: select
+      display: 'Align Content'
+  -
+    handle: link
+    field:
+      type: group
+      display: Link
+      fields:
+        -
+          import: button

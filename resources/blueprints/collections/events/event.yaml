@@ -1,0 +1,93 @@
+title: Event
+tabs:
+  main:
+    display: 'Event Overview'
+    sections:
+      -
+        display: Basics
+        instructions: 'This will be some basic information'
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: summary
+            field:
+              type: textarea
+              display: Summary
+              width: 50
+          -
+            handle: featured_image
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: 'Featured Image'
+              width: 50
+          -
+            handle: event_start
+            field:
+              earliest_date: '2025-05-23'
+              type: date
+              display: 'Event Start'
+              width: 50
+          -
+            handle: event_end
+            field:
+              earliest_date: '2025-05-23'
+              type: date
+              display: 'Event End'
+              width: 50
+      -
+        display: Content
+        instructions: 'This will be the main content of the event'
+        fields:
+          -
+            import: long_form_content
+      -
+        display: 'Page Builder'
+        fields:
+          -
+            import: page_builder
+  event_details:
+    display: 'Event Tickets'
+    sections:
+      -
+        display: Tickets
+        fields:
+          -
+            import: tickets
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: date
+            field:
+              type: date
+              required: true
+              default: now
+              validate:
+                - required
+      -
+        display: 'Event Meta'
+        fields:
+          -
+            handle: categories
+            field:
+              type: terms
+              taxonomies:
+                - categories
+              display: Categories
+              mode: select

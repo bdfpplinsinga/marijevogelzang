@@ -1,0 +1,47 @@
+{
+    "name": "lwekuiper/statamic-activecampaign",
+    "license": "proprietary",
+    "type": "statamic-addon",
+    "require": {
+        "php": "^8.2",
+        "laravel/framework": "^10.0 || ^11.0 || ^12.0",
+        "statamic/cms": "^4.0 || ^5.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^8.0 || ^9.0 || ^10.0"
+    },
+    "description": "Subscribe registrations or contact forms to ActiveCampaign",
+    "authors": [
+        {
+            "name": "Laurens Kuiper",
+            "email": "l@urens.me"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Lwekuiper\\StatamicActivecampaign\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Lwekuiper\\StatamicActivecampaign\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "statamic": {
+            "name": "Statamic ActiveCampaign",
+            "description": "ActiveCampaign integration for Statamic",
+            "editions": ["lite", "pro"]
+        },
+        "laravel": {
+            "providers": [
+                "Lwekuiper\\StatamicActivecampaign\\ServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "pixelfear/composer-dist-plugin": true
+        }
+    }
+}

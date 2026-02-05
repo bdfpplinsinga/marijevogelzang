@@ -1,0 +1,184 @@
+---
+id: home
+blueprint: pages
+title: Home
+template: default
+updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
+updated_at: 1770280631
+page_builder:
+  -
+    id: maca009e
+    heading: 'Food<br> Design<br> Playground'
+    heading_type: h1
+    text: "Een plek waar je anders leert kijken naar iets heel gewoons: eten. Een plek om te proeven, te denken en te maken.\LOm geraakt te worden — via je tong."
+    type: hero
+    enabled: true
+    image: mv67.jpg
+    overlap: false
+  -
+    id: mc0znjgn
+    heading: 'Een verborgen parel'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Verborgen achter een zware houten deur in de Dordtse binnenstad schuilt een plek die ruikt naar verleden en smaakt naar toekomst.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Food Design Playground is gevestigd in een monumentaal pand waar rococo-plafonds fluisteren en de kelder zindert van ideeën. Een thuis voor food design met wisselende programmering. Verwacht pop-up diners, exposities, workshops, lezingen en proeverijen.'
+    image: marijevogelzang(94).jpg
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: mc5uvrni
+    heading: 'Boek je tickets'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hieronder zie je een selectie van onze events. Kijk voor het gehele aanbod bij '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://fooddesignplayground.nl/events'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: events
+          -
+            type: text
+            text: ', of in het menu hierboven.'
+    image: marijevogelzang(39).jpg
+    image_position: right
+    type: image_text
+    enabled: true
+  -
+    id: macgipw0
+    type: events
+    enabled: true
+    selection_method: true
+    number_of_events_to_show: 4
+    events:
+      - ad286d77-704c-43f1-87cc-bb8d45873990
+  -
+    id: macc3vqi
+    heading: 'Food <br> Design Library'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+        content:
+          -
+            type: text
+            text: 'Een bibliotheek vol boeken over food design, eetcultuur, systeem, taal, vormen en filosofie. En een concept shop waar je zintuiglijke cadeaus, bijzondere objecten en eetbare ideeën vindt.'
+    image: img_6963.jpg
+    type: streamer
+    enabled: true
+    align_content: left
+    button:
+      label: 'Lees meer'
+      link_type: entry
+      entry: 74a2d757-3972-497b-8b2c-0b21d52e14d7
+      button_type: button
+    link:
+      label: 'Lees meer'
+      link_type: entry
+      target_blank: false
+      entry: 004c79ef-b878-48ad-9272-0d230402d1d7
+      button_type: inline
+  -
+    id: macdihnx
+    heading: 'wie zit er achter?'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ontwerper, docent, foodfilosoof en speelse rebel. Al meer dan 26 jaar beweeg ik me op het snijvlak van voedsel, design en menselijke emotie. Niet als chef, maar als ontwerper—voor wie eten niet alleen voeding is, maar een drager van betekenis. Iets dat verbindt, herinnert, bevraagt, heelt en transformeert. '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://marijevogelzang.nl'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: 'Studio Marije Vogelzang'
+          -
+            type: text
+            text: ' is gevestigd in Food Design Playground.'
+    image: marijevogelzang(41).jpg
+    type: streamer
+    enabled: true
+    align_content: left
+    button:
+      link_type: entry
+      button_type: button
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+  -
+    id: macifrml
+    heading: 'De plek'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        attrs:
+          textAlign: left
+        content:
+          -
+            type: text
+            text: 'Food Design Playground is geen normaal restaurant. Je kunt hier niet zomaar binnenlopen voor een lunch. We werken op eventbasis — voorstellingen, diners, workshops en andere momenten waarop de deur wijd open staat. En goed om te weten: je hoeft geen ontwerper te zijn om je thuis te voelen. Juist ‘gewone’ mensen met nieuwsgierigheid en een mond zijn hier meer dan welkom.De verschillende ruimtes zijn te huur voor creatieve bijeenkomsten, vergaderingen, diners, lezingen of inspiratiesessies. Met of zonder catering, altijd met karakter.'
+    image: mv57.jpg
+    image_position: right
+    type: image_text
+    enabled: true
+  -
+    id: macmistg
+    newsletter: newsletter
+    type: newsletter
+    enabled: true
+    heading: 'blijf op de hoogte'
+    heading_type: h2
+    text: 'Iedere week kun je bij Food Design Playground terecht voor inspirerende events. Of het nou kindertheater met eten, een inspiratieontbijt, een food-book-club of een audioproverij is. Ontvang de wekelijkse nieuwsbrief zodat je als eerste op de hoogte bent en nooit te laat bent met tickets boeken.'
+    show_socials: false
+  -
+    id: mbtb4buc
+    image: marijevogelzang(58).jpeg
+    aspect_ratio: none
+    type: image
+    enabled: true
+---
+## Welcome to your brand new Statamic site!
+
+Not sure what to do next? Here are a few ideas, but feel free to explore in your own way, in your own time.
+
+- [Jump into the Control Panel](/cp) and edit this page or begin setting up your own collections and blueprints.
+- [Head to the docs](https://statamic.dev) and learn how Statamic works.
+- [Watch some Statamic videos](https://youtube.com/statamic) on YouTube.
+- [Join our Discord chat](https://statamic.com/discord) and meet thousands of other Statamic developers.
+- [Start a discussion](https://github.com/statamic/cms/discussions) and get answers to your questions.
+- [Star Statamic on Github](https://github.com/statamic/cms) if you enjoy using it!

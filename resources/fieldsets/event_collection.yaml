@@ -1,0 +1,25 @@
+title: 'Event Collection'
+fields:
+  -
+    handle: selection_method
+    field:
+      type: toggle
+      display: 'Selection Method'
+      instructions: 'Manually select your events to show'
+      width: 50
+  -
+    handle: number_of_events_to_show
+    field:
+      default: '4'
+      type: integer
+      display: 'Number of events to show'
+      width: 50
+  -
+    handle: events
+    field:
+      collections:
+        - events
+      type: entries
+      display: Events
+      if:
+        selection_method: 'equals true'

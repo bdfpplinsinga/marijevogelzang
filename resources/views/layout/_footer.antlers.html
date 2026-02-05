@@ -1,0 +1,19 @@
+<footer class="flex justify-between  border -mt-px">
+    <a class="px-6 py-4 lg:px-14 lg:py-4 border-r text-gray-700 hover:text-gray-900 hover:bg-[#F8A89F]" href="">
+        {{ partial:snippets/logo class="h-12 w-auto" food_class="fill-current" design_class="fill-current" playground_class="fill-current" }}
+    </a>
+
+    <div class="flex">
+        
+        {{ if social_media:social_media }}
+
+            {{ social_media:social_media }}
+                <a class="px-4 py-4 lg:px-14 lg:py-4 md:border-l flex items-center justify-center" href="{{ prefix }}{{ handle }}" rel="noopener{{ type == 'mastodon' ?= ' me' }}" aria-label="{{ config:app:name }} {{ trans:strings.on }} {{ type | title }}" target="_blank">{{ svg :src="type" attr:class="w-5 h-5 overflow-visible fill-current" attr:alt="" attr:aria-hidden="true" }}</a>
+            {{ /social_media:social_media }}
+            
+        {{ /if }}
+        
+    </div>
+</footer>
+
+

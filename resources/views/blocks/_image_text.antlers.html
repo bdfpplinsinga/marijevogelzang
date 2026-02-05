@@ -1,0 +1,13 @@
+{{ partial:blocks/block class="p-6 xl:p-14" }}
+    <div class="flex flex-col {{block:image_position == 'right' ? 'lg:flex-row' : 'lg:flex-row-reverse' }}   gap-8">
+        <div>
+            {{ block:heading ?= { partial:typography/display :as="block:heading_type" :content="block:heading" } }}
+            {{partial:typography/prose as="div" class="prose lg:prose-lg mt-4 xl:mt-8"}}
+                {{text}}
+            {{/partial:typography/prose}}
+        </div>
+        <figure class=" md:min-w-xs bg-slate-200 border border-black">
+            {{ partial:media/picture :image="block:image" cover="true" lazy="true" sizes="(min-width: 768px) 33vw, 90vw" }}
+        </figure>
+    </div>
+{{ /partial:blocks/block }}

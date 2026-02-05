@@ -1,0 +1,24 @@
+title: 'Image Gallery'
+fields:
+  -
+    handle: images
+    field:
+      min_files: 2
+      mode: grid
+      container: assets
+      type: assets
+      display: Images
+  -
+    handle: gallery_style
+    field:
+      options:
+        -
+          key: slider
+          value: Slider
+        -
+          key: grid
+          value: Grid
+      default: slider
+      type: select
+      display: 'Gallery Style'
+      instructions: 'Please select a gallery style. Default it will be set to a slider, but you can also choose a grid style.'

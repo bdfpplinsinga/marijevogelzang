@@ -1,0 +1,12 @@
+maintenance_enabled: false
+maintenance_page: null
+maintenance_title: 'Soon online'
+maintenance_message:
+  -
+    type: paragraph
+    attrs:
+      textAlign: center
+    content:
+      -
+        type: text
+        text: 'Nog even geduld. We zijn druk bezig iets moois te maken…'

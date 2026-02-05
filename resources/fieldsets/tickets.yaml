@@ -1,0 +1,65 @@
+title: Tickets
+fields:
+  -
+    handle: tickets
+    field:
+      fullscreen: false
+      type: replicator
+      display: Tickets
+      hide_display: true
+      replicator_preview: false
+      sets:
+        new_set_group:
+          display: 'New Set Group'
+          sets:
+            ticket:
+              display: Ticket
+              hide: true
+              fields:
+                -
+                  handle: ticket_name
+                  field:
+                    type: text
+                    display: 'Ticket Name'
+                -
+                  handle: description
+                  field:
+                    type: textarea
+                    display: Description
+                -
+                  handle: price_text
+                  field:
+                    type: text
+                    display: 'Price text'
+                -
+                  handle: ticket_link
+                  field:
+                    type: text
+                    display: 'Ticket Link'
+                -
+                  handle: ticket_system
+                  field:
+                    options:
+                      -
+                        key: none
+                        value: None
+                      -
+                        key: eventbrite
+                        value: Eventbrite
+                      -
+                        key: stager
+                        value: Stager
+                      -
+                        key: samcart
+                        value: Samcart
+                    default: none
+                    type: select
+                    display: 'Ticket System'
+                -
+                  handle: event_id
+                  field:
+                    type: text
+                    display: 'Event ID'
+                    instructions: "In case of Eventbrite events. Please add the event ID here. You can find this in the url of the event on eventbrite. Sometheing like '1400008295499'"
+                    if:
+                      ticket_system: 'equals eventbrite'

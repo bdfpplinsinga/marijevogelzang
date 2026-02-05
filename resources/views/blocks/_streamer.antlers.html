@@ -1,0 +1,26 @@
+{{ if block:align_content == 'right' }}
+    {{ justify = 'justify-end' }}
+{{ elseif block:align_content == 'center' }}
+    {{ justify = 'justify-center' }}
+{{else}}
+    {{ justify = 'justify-start' }}
+{{ /if }}
+
+
+{{ partial:blocks/block }}
+<div class="flex px-6 {{justify}} lg:px-14 py-20 lg:py-40 relative">
+    <div class="lg:w-8/12 bg-white border border-black p-6 lg:p-14 z-10">
+        {{ block:heading ?= { partial:typography/display :as="block:heading_type" :content="block:heading" } }}
+        {{partial:typography/prose as="div" class="prose lg:prose-lg mt-4 xl:mt-8"}}
+            {{text}}
+        {{/partial:typography/prose}}
+       
+        {{block:link}}
+        {{ partial:components/button }}
+       {{/block:link}}
+    </div>
+    <div class="absolute inset-0 z-0">
+        {{ partial:media/picture :image="block:image" cover="true" lazy="true" sizes="(min-width: 768px) 33vw, 90vw" }}
+    </div>
+</div>
+{{ /partial:blocks/block }}

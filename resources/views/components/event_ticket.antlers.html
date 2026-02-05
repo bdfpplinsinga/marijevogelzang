@@ -1,0 +1,37 @@
+<div class="group bg-white -mx-px border border-black p-6 lg:px-14 lg:py-10 flex -mt-px cursor-pointer {{ switch between='| xl:-ml-px' }} flex-col @2xl:flex-row gap-6 relative hover:bg-slate-50 duration-200 transition-background">
+   
+    {{partial:components/vertical_label label="Tickets"}}
+    
+    <div class="">
+        <h3 class="font-bold text-2xl mb-2">{{ticket_name}}</h3>
+        {{description}}
+        
+        <div class="font-bold text-lg  mt-8">
+            {{price_text}}
+
+            {{if ticket_system == 'eventbrite' }}
+                <div id="eventbrite-widget-modal-trigger-{{event_id}}" class="absolute inset-0">
+                    <div class="absolute inline-flex gap-2 bottom-10 right-6">
+                        <span class="sr-only">Lees verder</span>
+                        <span class="opacity-0 -translate-x-4 -rotate-45 duration-300 group-hover:rotate-0 group-hover:opacity-100 group-hover:translate-x-0">
+                            {{ svg src="link-arrow" class="fill-current text-teal size-6" }}
+                        </span>
+                    </div>
+                </div>
+            
+            {{else}}
+                <a class="absolute inset-0" href="{{ticket_link}}"  target="_blank" rel="noopener noreferrer">
+                    <div class="absolute inline-flex gap-2 bottom-10 right-6">
+                        <span class="sr-only">Lees verder</span>
+                        <span class="opacity-0 -translate-x-4 -rotate-45 duration-300 group-hover:rotate-0 group-hover:opacity-100 group-hover:translate-x-0">
+                            {{ svg src="link-arrow" class="fill-current text-teal size-6" }}
+                        </span>
+                    </div>
+                </a>
+            {{/if}}
+            
+        </div>
+        
+    </div>
+</div>
+

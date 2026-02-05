@@ -1,0 +1,93 @@
+title: Space
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            handle: summary
+            field:
+              buttons:
+                - bold
+                - italic
+                - unorderedlist
+                - link
+              type: markdown
+              display: Summary
+          -
+            handle: featured_image
+            field:
+              max_files: 1
+              container: assets
+              type: assets
+              display: 'Featured Image'
+          -
+            import: long_form_content
+      -
+        display: Features
+        fields:
+          -
+            handle: capacity
+            field:
+              type: text
+              display: Capacity
+          -
+            handle: features
+            field:
+              options:
+                -
+                  key: airco
+                  value: null
+                -
+                  key: daglicht
+                  value: null
+                -
+                  key: beamer
+                  value: null
+                -
+                  key: 'gratis wifi'
+                  value: null
+                -
+                  key: 'Flip-over met stiften en papier'
+                  value: null
+              multiple: true
+              type: select
+              display: Features
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+      -
+        display: 'Form Settings'
+        fields:
+          -
+            handle: form_title
+            field:
+              default: 'Request a quote'
+              type: text
+              display: 'Form title'
+          -
+            handle: form_description
+            field:
+              buttons:
+                - bold
+                - italic
+                - link
+              default: 'Please let us know the details of your request. We will contact you as soon as possible.'
+              type: markdown
+              display: 'Form Description'

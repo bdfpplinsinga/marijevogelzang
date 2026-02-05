@@ -1,0 +1,11 @@
+<div class="text-xs">
+    {{if event_end }}
+        {{if event_start != event_end }}
+            {{event_start format="d M"}} - {{event_end format="d M"}}
+        {{else}}
+            {{event_start format="l d M"}}
+        {{/if}}
+    {{else}}
+        {{event_start format="l d M"}}
+    {{/if}}
+</div>

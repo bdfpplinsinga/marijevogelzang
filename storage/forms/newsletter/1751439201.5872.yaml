@@ -1,0 +1,5 @@
+first_name: Fancy
+last_name: 'Van de Vorst'
+emailaddress: fancyvandevorst@gmail.com
+consent:
+  - 'true'

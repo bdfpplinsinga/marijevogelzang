@@ -1,0 +1,257 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@source "../views";
+@source "../../content";
+
+/* Import css files */
+@import "./hamburger";
+
+:root {
+    interpolate-size: allow-keywords;
+}
+
+@theme {
+    --font-sans: 'Poppins', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --color-black:var(--color-slate-900);
+    
+}
+
+@utility prose {
+    --tw-prose-body: var(--color-black);
+    --tw-prose-headings: var(--color-black);
+    --tw-prose-lead: var(--color-black);
+    --tw-prose-links: var(--color-black);
+    --tw-prose-bold: var(--color-black);
+    --tw-prose-counters: var(--color-black);
+    --tw-prose-bullets: var(--color-black);
+    --tw-prose-hr: var(--color-black);
+    --tw-prose-quotes: var(--color-black);
+    --tw-prose-quote-borders: var(--color-primary);
+    --tw-prose-captions: var(--color-black);
+    --tw-prose-code: var(--color-black);
+    --tw-prose-pre-code: var(--color-white);
+    --tw-prose-pre-bg: var(--color-black);
+    --tw-prose-th-borders: var(--color-black);
+    --tw-prose-td-borders: var(--color-black);
+}
+
+@utility prose {
+    
+    ul li {
+        margin:.5em 0;
+    }
+
+    ul li p {
+        margin: 0;
+    }
+
+    a { 
+        font-weight:inherit;
+    }
+}
+
+@layer base {
+    html {
+        color: var(--color-black);
+        font-family: var(--font-sans);
+    }
+
+    /* Used to hide alpine elements before being rendered. */
+    [x-cloak] {
+        display: none !important;
+    }
+
+    /* Better UX. */
+    button {
+        cursor: pointer;
+    }
+}
+
+
+
+.flip-links {
+    --animation-smooth: .8s cubic-bezier(.3, 1, .3, 1);
+    
+    a {
+        display:inline-flex;
+        flex-direction:column;
+        justify-content:center;
+        
+        position: relative;
+
+        div {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: start;
+            overflow: hidden;
+
+            span {
+                display: inline-block;
+                transform: translateY(0em) rotate(0.001deg);
+                transition: text-shadow var(--animation-smooth);
+                text-shadow: 0px 1.2em 0px var(--color-white);
+                line-height: 1.2;
+            }
+        }
+        
+    }
+
+    a:hover {
+
+        span {
+            transform: translateY(-1.2em) rotate(0.001deg);
+            transition: all var(--animation-smooth);
+        }
+
+        &:before {
+            transform: translate(0%, -50%) rotate(0.001deg);
+            transition: all 0.3s ease-in-out;
+            background-color: var(--color-white);
+        }
+    }
+}
+
+.base-links {
+    --animation-smooth: .8s cubic-bezier(.3, 1, .3, 1);
+
+    a div span {
+        transform: translateY(0em) rotate(0.001deg);
+        transition: text-shadow var(--animation-smooth);
+        text-shadow: 0px 3em 0px var(--color-black);
+    }
+        
+    a:hover span {
+        transform: translateY(-3em) rotate(0.001deg);
+        transition: all var(--animation-smooth);
+    }
+        
+}
+
+
+/* custom form fields */
+.field-group {
+    position: relative;
+    padding-block: 2rem;
+    
+    /* If data-type  not checkbox */
+    &:not([data-type="checkboxes"]) {
+    label {
+        opacity: 0;
+        position: absolute;
+        top:50%;
+        transform: translateY(-50%);
+        pointer-events: none;
+        transition: all 0.3s ease-in-out;
+     }
+
+     ::placeholder {
+        color: var(--color-black);
+        position: absolute;
+    }
+
+     &:focus-within {
+
+        ::placeholder {
+            opacity: 0.2;
+        }
+
+        label {
+            opacity:1;
+            position: absolute;
+            top:0%;
+            transform: translateY(50%);
+            pointer-events: none;
+            transition: all 0.3s ease-in-out;
+         }
+        }
+    }
+    &[data-type="checkboxes"] {
+        .field-group__input-wrapper {
+            margin-block-start: 0.5rem;
+            label {
+                display: flex;
+                align-items: center;
+                gap: 0.5rem;
+            }
+            br {
+                display: none;
+            }
+        }
+        input[type="checkbox"] {
+            height: 1rem;
+            width: 1rem;
+            margin: 0;
+            padding: 0;
+            border: 1px solid var(--color-slate-300);
+            border-radius: 0.25em;
+
+            &:checked {
+                background-color: var(--color-black);
+            }
+            
+        }
+    }
+
+    textarea {
+        width: 100%;
+        padding-block: 0.5rem;
+        &:focus {
+            outline: none;
+        }
+    }
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="date"]{
+    width:100%;
+    border: 0px solid var(--color-slate-300);
+    padding: 0.25em 0em;
+    
+    &:focus {
+        outline: none;
+    }
+}
+
+
+
+
+
+.navigation {
+    height: 0;
+    transition: height 0.8s cubic-bezier(0.68,-0.55,0.27,1.55);
+
+    nav {
+        opacity: 0;
+        transform: translateY(-20px);
+        transition: opacity .8s cubic-bezier(.7, 0, .2, 1), transform .8s cubic-bezier(0.68,-0.55,0.27,1.55);
+        
+
+        &.nav-1 {
+            transition-delay: 0.3s;
+        }
+        &.nav-2 {
+            transition-delay: 0.4s;
+        }
+        &.nav-3 {
+            transition-delay: 0.5s;
+        }
+
+        &.nav-4 {
+            transition-delay: 0.6s;
+        }
+    }
+
+    &.is-active {
+        height: auto;
+        transform: translateY(0);
+
+        nav {
+            transform: translateY(0);
+            opacity: 1;
+        }
+    }
+
+}

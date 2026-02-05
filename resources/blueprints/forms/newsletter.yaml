@@ -1,0 +1,40 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: first_name
+            field:
+              type: text
+              display: Voornaam
+              placeholder: Voornaam
+              prepend: Voornaam
+          -
+            handle: last_name
+            field:
+              type: text
+              display: Achternaam
+              placeholder: Achternaam
+          -
+            handle: emailaddress
+            field:
+              input_type: email
+              type: text
+              display: Emailaddress
+              placeholder: Emailaddress
+              validate:
+                - required
+          -
+            handle: mailing_lists
+            field:
+              options:
+                -
+                  key: 1
+                  value: 'Nieuwsbrief Marije Vogelzang'
+                -
+                  key: 14
+                  value: 'Weekly updates Food Design Playground'
+              type: checkboxes
+              display: 'Ik wil me inschrijven voor:'

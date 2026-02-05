@@ -1,0 +1,36 @@
+name: Daniel
+super: true
+id: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
+password_hash: $2y$12$eHRNjN6mv/MsSNJlWKl1a.31SBqVL.p05/eGHJfYvUVmV5HKb6mHa
+preferences:
+  collections:
+    spaces:
+      columns:
+        - title
+        - slug
+        - status
+    pages:
+      after_save: continue_editing
+    events:
+      columns:
+        - title
+        - slug
+        - date
+        - status
+        - event_start
+  assets:
+    assets:
+      per_page: 100
+  forms:
+    newsletter:
+      columns:
+        - datestamp
+        - emailaddress
+        - last_name
+        - first_name
+    space_request:
+      columns:
+        - datestamp
+        - company_name
+        - name_contact
+        - space

@@ -1,0 +1,43 @@
+title: Newsletter
+fields:
+  -
+    handle: newsletter
+    field:
+      max_items: 1
+      type: form
+      display: Newsletter
+      validate:
+        - required
+  -
+    handle: heading
+    field:
+      type: text
+      display: Heading
+      width: 66
+  -
+    handle: heading_type
+    field:
+      options:
+        -
+          key: h1
+          value: H1
+        -
+          key: h2
+          value: H2
+        -
+          key: h3
+          value: H3
+      default: h2
+      type: select
+      display: 'Heading Type'
+      width: 33
+  -
+    handle: text
+    field:
+      type: textarea
+      display: Text
+  -
+    handle: show_socials
+    field:
+      type: toggle
+      display: 'Show Socials'

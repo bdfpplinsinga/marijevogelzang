@@ -1,0 +1,17 @@
+{{ partial:blocks/block }}
+
+{{if block:aspect_ratio == '1'}}
+    {{ aspect = 'aspect-video' }}
+{{elseif block:aspect_ratio == '2'}}
+    {{ aspect = 'aspect-[2/1]' }}
+{{elseif block:aspect_ratio == '2'}}
+    {{ aspect = 'aspect-[3/2]' }}
+{{else}}
+    {{ aspect = 'aspect-none' }}
+{{ /if }}
+
+
+<figure class="{{aspect}} {{class}}">
+    {{ partial:media/picture :image="block:image" cover="true" lazy="true"  }}
+</figure>
+{{ /partial:blocks/block }}

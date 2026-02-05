@@ -1,0 +1,12 @@
+email_field: emailaddress
+list_id: '14'
+tag_id: '116'
+merge_fields:
+  -
+    id: mck7b3zp
+    statamic_field: first_name
+    activecampaign_field: firstName
+  -
+    id: mck7bbpp
+    statamic_field: last_name
+    activecampaign_field: lastName

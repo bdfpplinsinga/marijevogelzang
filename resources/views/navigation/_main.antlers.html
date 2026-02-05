@@ -1,0 +1,59 @@
+<div x-cloak  class="p-6 lg:p-14 bg-black text-white flex flex-col justify-between gap-32 relative z-0">
+    <div class="flex flex-col gap-16 lg:flex-row justify-between lg:items-end">
+        <div>
+            <nav class="nav-1 flip-links">
+                <ul class="text-5xl sm:text-6xl md:text-7xl lg:text-7xl xl:text-8xl 2xl:text-9xl uppercase font-black leading-none">
+                    {{ nav:big_links }}
+                    <li>
+                        <a href="{{url}}"> 
+                            <div>
+                                <span>{{title}}</span>
+                            </div>
+                        </a>
+                    </li>
+                    {{ /nav:big_links }}
+                </ul>
+            </nav>
+        </div>
+        <div>
+            <nav class="nav-2 flip-links ">
+                <ul class="sm:columns-2 gap-28 leading-8 xl:text-2xl xl:leading-10">
+                    {{ nav:base_links }}
+                    <li>
+                        <a href="{{url}}">
+                           <div>
+                                <span>{{title}}</span>
+                           </div>
+                        </a>
+                    </li>
+                    {{ /nav:base_links }}
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <div class="flex flex-col xl:flex-row gap-8 justify-between lg:items-center">
+
+        <nav class="nav-3 text-sm ">
+            <ul class="md:flex gap-6 space-y-2">
+                <li><a class="opacity-80" href="/">Food Design Playground</a></li>
+                <li><a class="opacity-80" href="/">{{company_information:address}}</a></li>
+                <li><a class="opacity-80" href="/">{{company_information:phone_number}}</a></li>
+            </ul>
+        </nav>
+        
+        <nav class="nav-4 flip-links text-sm opacity-80">
+            <ul class="md:flex gap-6 space-y-2">
+                {{nav:legal_links}}
+                <li>
+                    <a class="opacity-80 hover:opacity-100" href="{{url}}">
+                        <div>
+                             <span>{{title}}</span>
+                        </div>
+                     </a>
+                </li>
+                {{/nav:legal_links}}
+            </ul>
+        </nav>
+
+    </div>
+</div>

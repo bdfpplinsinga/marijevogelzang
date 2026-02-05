@@ -1,0 +1,45 @@
+title: Quote
+fields:
+  -
+    handle: quote_text
+    field:
+      type: markdown
+      display: 'Quote text'
+      buttons:
+        - link
+  -
+    handle: name
+    field:
+      type: text
+      display: Name
+      width: 50
+  -
+    handle: hidden_field
+    field:
+      type: hidden
+      display: 'Hidden Field'
+      width: 50
+  -
+    handle: underline
+    field:
+      type: text
+      display: Underline
+      instructions: 'This can be something like: Student, Owner at, ect'
+      width: 50
+      instructions_position: below
+  -
+    handle: variant
+    field:
+      options:
+        -
+          key: light
+          value: Light
+        -
+          key: dark
+          value: Dark
+      default: light
+      type: select
+      display: Variant
+      instructions: 'Set the style to be light or dark.'
+      width: 50
+      instructions_position: below

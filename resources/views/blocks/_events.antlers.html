@@ -1,0 +1,17 @@
+{{ partial:blocks/block class="border-none" }}
+
+
+  <div class="@container grid xl:grid-cols-2 ">
+    {{ if selection_method == false }}
+      {{ collection from="events" :limit="number_of_events_to_show" sort="event_start:desc|title:desc" }}
+        {{partial:components/event_teaser}}
+      {{ /collection }}
+    {{else}}
+      {{ events }}
+        {{partial:components/event_teaser}}
+      {{ /events }}
+    {{/if}}
+  </div>
+
+
+{{ /partial:blocks/block }}

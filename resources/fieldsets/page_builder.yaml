@@ -1,0 +1,74 @@
+title: 'Page Builder'
+fields:
+  -
+    handle: page_builder
+    field:
+      collapse: true
+      button_label: 'Add block'
+      type: replicator
+      display: 'Page Builder'
+      listable: false
+      sets:
+        new_set_group:
+          display: 'New Set Group'
+          sets:
+            hero:
+              display: Hero
+              fields:
+                -
+                  import: hero
+            streamer:
+              display: Streamer
+              fields:
+                -
+                  import: streamer
+            events:
+              display: Events
+              fields:
+                -
+                  import: event_collection
+            image_text:
+              display: 'Image & Text'
+              fields:
+                -
+                  import: image_text
+            image:
+              display: Image
+              fields:
+                -
+                  import: image
+            newsletter:
+              display: Newsletter
+              fields:
+                -
+                  import: newsletter
+            text:
+              display: Text
+              fields:
+                -
+                  handle: text
+                  field:
+                    buttons:
+                      - h2
+                      - h3
+                      - bold
+                      - italic
+                      - unorderedlist
+                      - orderedlist
+                      - removeformat
+                      - quote
+                      - anchor
+                    smart_typography: true
+                    remove_empty_nodes: trim
+                    type: bard
+                    display: Text
+            faq:
+              display: FAQ
+              fields:
+                -
+                  import: faq_block
+            video_embed:
+              display: 'Video Embed'
+              fields:
+                -
+                  import: video_embed

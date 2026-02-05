@@ -1,0 +1,8 @@
+title: Contact
+email:
+  -
+    id: mc0bqv9g
+    to: info@fooddesignplayground.nl
+    bcc: info@burotoast.nl
+    subject: 'Contact aanvraag via de website'
+    mailer: smtp

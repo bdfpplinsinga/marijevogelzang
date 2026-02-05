@@ -1,0 +1,14 @@
+{{if aspect_ratio == '1'}}
+    {{ aspect = 'aspect-video' }}
+{{elseif aspect_ratio == '2'}}
+    {{ aspect = 'aspect-[2/1]' }}
+{{elseif aspect_ratio == '2'}}
+    {{ aspect = 'aspect-[3/2]' }}
+{{else}}
+    {{ aspect = 'aspect-none' }}
+{{ /if }}
+
+
+<figure class="{{aspect}} my-8 border">
+    {{ partial:media/picture :image="image" cover="true" lazy="true" sizes="(min-width: 768px) 33vw, 90vw" }}
+</figure>

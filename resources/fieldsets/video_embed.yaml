@@ -1,0 +1,7 @@
+title: 'Video Embed'
+fields:
+  -
+    handle: video
+    field:
+      type: video
+      display: Video

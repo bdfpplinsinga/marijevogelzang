@@ -1,0 +1,108 @@
+@layer components{
+    .hamburger {
+        --hamburger-padding: 0px;
+        --hamburger-transition-duration: 0.15s;
+        --hamburger-transition-timing: linear;
+        --hamburger-color: #000;
+        --hamburger-width: 32px;
+        --hamburger-height: 1px;
+        --hamburger-spacing: 8px;
+        --hamburger-border-radius: 0px;
+
+        padding: var(--hamburger-padding);
+        display: inline-flex;
+        cursor: pointer;
+        transition-property: opacity, filter;
+        transition-duration: var(--hamburger-transition-duration);
+        transition-timing-function: var(--hamburger-transition-timing);
+        font: inherit;
+        color: inherit;
+        text-transform: none;
+        background-color: transparent;
+        border: 0;
+        margin: 0;
+        overflow: visible;
+    }
+
+    .hamburger:hover {
+        opacity: 0.7;
+    }
+
+    .hamburger.is-active:hover {
+        opacity: 0.7;
+    }
+
+    .hamburger.is-active .hamburger-inner,
+    .hamburger.is-active .hamburger-inner::before,
+    .hamburger.is-active .hamburger-inner::after {
+        background-color: var(--hamburger-color);
+    }
+
+    .hamburger-box {
+        width: var(--hamburger-width);
+        height: calc(var(--hamburger-spacing) * 2 + var(--hamburger-height));
+        display: inline-block;
+        position: relative;
+    }
+
+    .hamburger-inner {
+        display: block;
+        top: 50%;
+        margin-top: calc(-1 * var(--hamburger-height) / 2);
+    }
+
+    .hamburger-inner,
+    .hamburger-inner::before,
+    .hamburger-inner::after {
+        width: var(--hamburger-width);
+        height: var(--hamburger-height);
+        background-color: var(--hamburger-color);
+        border-radius: var(--hamburger-border-radius);
+        position: absolute;
+        transition-property: transform;
+        transition-duration: var(--hamburger-transition-duration);
+        transition-timing-function: ease;
+    }
+
+    .hamburger-inner::before,
+    .hamburger-inner::after {
+        content: "";
+        display: block;
+    }
+
+    .hamburger-inner::before {
+        top: calc(-1 * var(--hamburger-spacing));
+    }
+
+    .hamburger-inner::after {
+        bottom: calc(-1 * var(--hamburger-spacing));
+    }
+
+    /* Effect */
+    .hamburger--squeeze .hamburger-inner {
+        transition-duration: var(--hamburger-transition-duration);
+        transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19); 
+    }
+    .hamburger--squeeze .hamburger-inner::before {
+        transition: top var(--hamburger-transition-duration) 0.12s ease, opacity var(--hamburger-transition-duration) ease; 
+    }
+    .hamburger--squeeze .hamburger-inner::after {
+        transition: bottom var(--hamburger-transition-duration) 0.12s ease, transform var(--hamburger-transition-duration) cubic-bezier(0.55, 0.055, 0.675, 0.19); 
+    }
+
+    .hamburger--squeeze.is-active .hamburger-inner {
+        transform: rotate(45deg);
+        transition-delay: 0.12s;
+        transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); 
+    }
+    .hamburger--squeeze.is-active .hamburger-inner::before {
+        top: 0;
+        opacity: 0;
+        transition: top var(--hamburger-transition-duration) ease, opacity var(--hamburger-transition-duration) 0.12s ease; 
+    }
+    .hamburger--squeeze.is-active .hamburger-inner::after {
+        bottom: 0;
+        transform: rotate(-90deg);
+        transition: bottom var(--hamburger-transition-duration) ease, transform var(--hamburger-transition-duration) 0.12s cubic-bezier(0.215, 0.61, 0.355, 1); 
+    }
+}

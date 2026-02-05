@@ -1,0 +1,23 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: address
+            field:
+              type: text
+              display: Address
+          -
+            handle: phone_number
+            field:
+              input_type: tel
+              type: text
+              display: 'Phone Number'
+          -
+            handle: text_field
+            field:
+              input_type: email
+              type: text
+              display: Email

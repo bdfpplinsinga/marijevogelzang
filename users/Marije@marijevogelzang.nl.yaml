@@ -1,0 +1,26 @@
+name: 'Marije Vogelzang'
+super: false
+roles:
+  - admin
+id: a422e059-6afb-45c3-bc04-426efb7ceee0
+password_hash: $2y$12$Ys.Y7tvBgcO4C.QWKU2pZO1T9RQuTr7hxSJsvd4jKDtgtLApKgLfW
+preferences:
+  nav:
+    content:
+      'content::collections':
+        action: '@modify'
+        reorder:
+          - 'content::collections::events'
+          - 'content::collections::spaces'
+  assets:
+    assets:
+      mode: grid
+      per_page: 500
+  collections:
+    events:
+      columns:
+        - date
+        - title
+        - slug
+        - status
+        - event_start

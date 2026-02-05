@@ -1,0 +1,29 @@
+
+{{base = "inline-flex items-baseline gap-0.5 py-3 font-bold motion-safe:transition cursor-pointer"}}
+
+{{ if button_type == "inline" }}
+    {{  variant = "underline" }}
+{{ elseif button_type == "button" }}
+    {{  variant = "px-6 bg-black text-white" }}
+{{ else }}
+    {{  variant = "" }}
+{{ /if }}
+
+
+{{ if label }}
+    <{{ as or 'a' }} 
+    {{ switch(
+        (link_type == 'entry') => 'href="{{ entry:url }}"',
+        (link_type == 'url') => 'href="{{ url }}"',
+        (link_type == 'email') => 'href="mailto:{{ email | obfuscate_email }}"',
+        (link_type == 'tel') => 'href="tel:{{ tel }}"',
+        (link_type == 'sms') => 'href="sms:{{ sms }}"',
+        (link_type == 'asset') => 'href="{{ asset }}" download',
+        (as !== 'button') => 'href="{{ url }}"'
+    )}}
+    class=" {{base}} {{variant}} {{ class }}" {{ slot:attributes }} >
+        <span class="min-w-fit">
+            {{ link_type == 'email' ? { label | obfuscate_email } : label }}
+        </span>
+    </{{ as or 'a' }}>
+{{ /if }}

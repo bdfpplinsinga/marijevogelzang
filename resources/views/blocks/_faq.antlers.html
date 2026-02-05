@@ -1,0 +1,35 @@
+{{ partial:blocks/block }}
+
+<div class="grid grid-cols-1 lg:grid-cols-2">
+    <div class="p-6 xl:p-14">
+        {{ block:heading ?= { partial:typography/display :as="block:heading_type" :content="block:heading" } }}
+
+        {{ if block:text }}
+        {{ partial:typography/prose as="div" class="prose prose-lg max-w-none mt-8" }}
+        {{ block:text }}
+        {{ /partial:typography/prose }}
+        {{ /if }}
+
+    </div>
+
+    <div  x-data="{ openFaq: null }" class="flex flex-col">
+        {{faq_items}}
+
+        <div class="faq-item border-b lg:border-l {{if first}} border-t lg:border-t-0 {{/if}} {{ if last }} border-b-0 {{ /if }}" x-data="{ id: {{index}} }">
+            <button @click="openFaq = openFaq === id ? null : id"
+                class="w-full text-left flex justify-between items-center p-6">
+                <p class="font-semibold">{{question}}</p>
+                <span x-show="openFaq === id">-</span>
+                <span x-show="openFaq !== id">+</span>
+            </button>
+            <div x-show="openFaq === id" x-collapse class="px-6 pb-6">
+                {{partial:typography/prose as="div" class="prose max-w-none"}}
+                {{answer}}
+                {{/partial:typography/prose}}
+            </div>
+        </div>
+
+        {{/faq_items}}
+    </div>
+</div>
+{{ /partial:blocks/block }}

@@ -1,0 +1,52 @@
+title: 'Events Overview'
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              required: true
+              validate:
+                - required
+          -
+            import: hero
+      -
+        display: Events
+        instructions: 'This part will show alle events'
+        fields:
+          -
+            handle: html_field
+            field:
+              html: 'This section will be used as a placeholder fo all upcomming events. You cant edit or remove this.'
+              type: html
+              display: 'HTML Field'
+              hide_display: true
+      -
+        display: 'Page Builder'
+        fields:
+          -
+            import: page_builder
+  sidebar:
+    display: Sidebar
+    sections:
+      -
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate: 'max:200'
+          -
+            handle: parent
+            field:
+              type: entries
+              collections:
+                - pages
+              max_items: 1
+              listable: false
+              localizable: true

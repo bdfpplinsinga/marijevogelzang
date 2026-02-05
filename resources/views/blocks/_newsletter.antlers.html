@@ -1,0 +1,57 @@
+{{ partial:blocks/block }}
+
+<div class="grid grid-cols-1 lg:grid-cols-2">
+    <div class="p-6 xl:p-14">
+        {{ block:heading ?= { partial:typography/display :as="block:heading_type" :content="block:heading" } }}
+        
+        {{partial:typography/prose as="div" class="prose lg:prose-lg mt-4 xl:mt-8"}}
+            {{text}}
+        {{/partial:typography/prose}}
+
+        {{if show_socials}}
+            {{ if social_media:social_media }}
+                <div class="flex mt-4 items-center">
+                <p class="mr-4">Volg ons op:</p>
+                {{ social_media:social_media }}
+                    <a class="p-4" href="{{ prefix }}{{ handle }}" rel="noopener{{ type == 'mastodon' ?= ' me' }}" aria-label="{{ config:app:name }} {{ trans:strings.on }} {{ type | title }}" target="_blank">{{ svg :src="type" attr:class="w-5 h-5 overflow-visible fill-current" attr:alt="" attr:aria-hidden="true" }}</a>
+                {{ /social_media:social_media }}
+                </div>
+            {{ /if }}
+        {{/if}}
+    </div>
+
+    <div class="h-full flex w-full *:w-full border-t lg:border-t-0 lg:border-l">
+        {{ form:create :in="newsletter"  }}
+            <div class="flex flex-col h-full w-full ">
+                {{ if success }}
+                <div class="bg-black text-white p-14">
+                    {{ success }}
+                </div>
+                {{ else }}
+                {{ if errors }}
+                <div class="bg-red-500 text-white p-14">
+                    {{ errors }}
+                    {{ value }}<br>
+                    {{ /errors }}
+                </div>
+                {{ /if }}
+
+                {{ fields }}
+                <div data-type="{{ type }}" class="px-6 lg:px-14 field-group border-b">
+                    <label class="field-group__label">{{ display }}</label>
+                    <div class="field-group__input-wrapper">{{ field }}</div>
+                   
+                    {{ if error }}
+                        <p class="text-gray-500">{{ error }}</p>
+                    {{ /if }}
+                </div>
+                {{ /fields }}
+
+                <input type="text" class="hidden flex-none" name="{{ honeypot ?? 'honeypot' }}">
+                <button class="px-6 lg:px-14 flex-1 text-left bg-black min-h-20 text-white font-bold" type="submit">Verzenden</button>
+                {{ /if }}
+            </div>
+        {{ /form:create }}
+    </div>
+</div>
+{{ /partial:blocks/block }}

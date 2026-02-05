@@ -1,0 +1,15 @@
+{{if variant == 'light'}}
+
+{{else}}
+    {{class = "bg-gray-900 text-white p-8"}}
+{{/if}}
+
+<div class="{{class}} py-8 flex flex-col gap-8 border-y my-8">
+    <div class="text-lg md:text-3xl leading-normal font-bold italic">
+       {{quote_text}}
+    </div>
+    <div>
+        <span class="block font-bold">{{name}}</span>
+        {{underline}}
+    </div>
+</div>

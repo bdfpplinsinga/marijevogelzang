@@ -1,0 +1,25 @@
+
+<!-- Slider main container -->
+<div class="swiper my-8 aspect-video relative isolate">
+    <!-- Additional required wrapper -->
+    <div class="swiper-wrapper ">
+        {{images}}
+            <div class="swiper-slide border ">{{ partial:media/picture :image="url" cover="true" lazy="true" sizes="(min-width: 768px) 33vw, 90vw" }}</div>
+        {{/images}}
+    </div>
+
+    <div class="bg-white border border-b-white border-r-white absolute bottom-0 right-0 z-50 flex">
+        <div class="p-4 cursor-pointer swiper-btn-prev hover:bg-black hover:outline outline-black hover:text-white">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 15.75 3 12m0 0 3.75-3.75M3 12h18" />
+              </svg>
+              
+        </div>
+        <div class="p-4 cursor-pointer swiper-btn-next hover:bg-black hover:outline outline-black hover:text-white">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M17.25 8.25 21 12m0 0-3.75 3.75M21 12H3" />
+              </svg>
+              
+        </div>
+    </div>
+  </div>

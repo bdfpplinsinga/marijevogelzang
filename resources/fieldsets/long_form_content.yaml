@@ -1,0 +1,59 @@
+title: Content
+fields:
+  -
+    handle: long_form_content
+    field:
+      buttons:
+        - h2
+        - h3
+        - bold
+        - italic
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - anchor
+      remove_empty_nodes: trim
+      type: bard
+      display: Content
+      smart_typography: true
+      toolbar_mode: floating
+      collapse: true
+      sets:
+        new_set_group:
+          display: 'New Set Group'
+          sets:
+            image:
+              display: Image
+              fields:
+                -
+                  import: image
+            image_gallery:
+              display: 'Image Gallery'
+              fields:
+                -
+                  import: image_gallery
+            video:
+              display: Video
+              fields:
+                -
+                  import: video_embed
+            quote:
+              display: Quote
+              fields:
+                -
+                  import: quote
+            buttons:
+              display: Buttons
+              fields:
+                -
+                  import: buttons
+            boxed_content:
+              display: 'Boxed Content'
+              fields:
+                -
+                  import: boxed_content
+            faq:
+              display: FAQ
+              fields:
+                -
+                  import: faq

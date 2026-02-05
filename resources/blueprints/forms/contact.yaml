@@ -1,0 +1,25 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: naam
+            field:
+              type: text
+              display: Naam
+              placeholder: 'Uw naam'
+          -
+            handle: email
+            field:
+              input_type: email
+              placeholder: 'Email Adres'
+              type: text
+              display: Email
+          -
+            handle: message
+            field:
+              placeholder: 'Vraag of opmerking'
+              type: textarea
+              display: 'Vraag of opmerking'
