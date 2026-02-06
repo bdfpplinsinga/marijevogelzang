@@ -1,0 +1,19 @@
+social_media:
+  -
+    id: mc09ptsx
+    handle: 'profile.php?id=61577676929934'
+    prefix: 'https://www.facebook.com/'
+    type: facebook
+    enabled: true
+  -
+    id: mc09qxl0
+    handle: fooddesignplayground
+    prefix: 'https://www.instagram.com/'
+    type: instagram
+    enabled: true
+  -
+    id: mc0a1xeh
+    handle: fooddesignplayground
+    prefix: 'https://www.tiktok.com/@'
+    type: tiktok
+    enabled: true
