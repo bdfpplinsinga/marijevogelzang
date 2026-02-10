@@ -3,7 +3,7 @@ name: Deploy Statamic to Antagonist
 on:
   push:
     branches:
-      - main  # Pas dit aan als je een andere branch wilt deployen
+      - main # Pas dit aan als je een andere branch wilt deployen
 
 jobs:
   deploy:
@@ -18,7 +18,7 @@ jobs:
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.2'
+          php-version: "8.2"
 
       # 3️⃣ Composer dependencies
       - name: Install Composer dependencies
@@ -28,7 +28,8 @@ jobs:
       - name: Setup Node & build assets
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
+      - name: Install Node dependencies and build assets
         run: |
           npm ci
           npm run build
