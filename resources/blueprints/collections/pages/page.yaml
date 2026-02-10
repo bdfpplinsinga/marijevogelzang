@@ -29,15 +29,6 @@ tabs:
               localizable: true
               validate: 'max:200'
           -
-            handle: parent
-            field:
-              type: entries
-              collections:
-                - pages
-              max_items: 1
-              listable: false
-              localizable: true
-          -
             handle: template
             field:
               type: template

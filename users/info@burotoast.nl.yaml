@@ -9,8 +9,10 @@ preferences:
         - title
         - slug
         - status
+      view: list
     pages:
       after_save: continue_editing
+      view: tree
     events:
       columns:
         - title
@@ -18,6 +20,9 @@ preferences:
         - date
         - status
         - event_start
+      view: list
+    portfolio:
+      view: list
   assets:
     assets:
       per_page: 100

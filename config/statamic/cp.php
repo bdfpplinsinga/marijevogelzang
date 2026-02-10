@@ -60,7 +60,7 @@ return [
         ],
         [
             'type' => 'collection',
-            'collection' => 'spaces',
+            'collection' => 'portfolio',
             'width' => 50
         ],
         [
