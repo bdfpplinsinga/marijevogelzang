@@ -1,4 +1,6 @@
-data: {  }
+data:
+  alt: 'Avatar van Daniel'
+  focus: 54-67-1
 size: 263166
 last_modified: 1770808850
 width: 768
