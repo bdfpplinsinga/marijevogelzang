@@ -25,4 +25,4 @@ preferences:
         - status
         - event_start
     pages:
-      view: tree
+      view: list
