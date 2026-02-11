@@ -55,16 +55,6 @@ return [
     'widgets' => [
         [
             'type' => 'collection',
-            'collection' => 'events',
-            'width' => 50
-        ],
-        [
-            'type' => 'collection',
-            'collection' => 'portfolio',
-            'width' => 50
-        ],
-        [
-            'type' => 'collection',
             'collection' => 'pages',
             'width' => 50
         ]
