@@ -56,4 +56,4 @@ passkeys:
       counter: 0
       backupEligible: true
       backupStatus: true
-      uvInitialized: false
+      uvInitialized: true
