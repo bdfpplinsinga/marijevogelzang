@@ -3,7 +3,7 @@ super: false
 roles:
   - admin
 id: a422e059-6afb-45c3-bc04-426efb7ceee0
-password_hash: $2y$12$Ys.Y7tvBgcO4C.QWKU2pZO1T9RQuTr7hxSJsvd4jKDtgtLApKgLfW
+password: 78&Froemelzang
 preferences:
   nav:
     content:
