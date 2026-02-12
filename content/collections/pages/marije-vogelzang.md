@@ -1,7 +1,7 @@
 ---
 id: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 blueprint: page
-title: 'About Marije'
+title: 'Marije Vogelzang'
 page_builder:
   -
     id: mb28d3a2
@@ -111,5 +111,5 @@ page_builder:
     type: image_text
     enabled: true
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1770887158
+updated_at: 1770891942
 ---
