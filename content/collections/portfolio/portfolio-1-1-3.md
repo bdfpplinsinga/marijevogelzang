@@ -2,11 +2,11 @@
 id: 81a194db-69f7-49d5-967e-4d7a51e4b33b
 published: false
 blueprint: portfolio
-title: 'Portfolio (Duplicated) (3)'
+title: 'Eat Love Budapest'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1770900677
+updated_at: 1770900689
 page_builder:
   -
     id: mljbmkzt
