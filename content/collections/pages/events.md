@@ -1,12 +1,12 @@
 ---
 id: ad94c5e8-b5e5-4eef-82b5-d4fd8a8c8924
 blueprint: events_overview
-title: Tickets
+title: courses
 template: events
 author: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1750489348
-heading: 'Boek je tickets hier'
+updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
+updated_at: 1770876800
+heading: 'Online and offline'
 heading_type: h2
 text: 'Eten is magisch. Het is het meest eenvoudige- en tegelijk meest complexe onderwerp wat er is. Bij Food Design Playground hebben we een wisselende programmering van events. Kom naar lezingen, naar pop-up diners van food designers en radicale chefs. Eet wat je leest bij de Food Book Club of wordt stralend wakker bij een inspiratieontbijt. Onze programmering is altijd weer nieuw en verrassend. Wil je op de hoogte blijven van de laatste events? Schrijf je dan in voor de nieuwsbrief.'
 image: marijevogelzang(25)72.jpg
@@ -28,6 +28,7 @@ page_builder:
     enabled: true
     link:
       link_type: entry
+      target_blank: false
       button_type: button
   -
     id: mawvemod
@@ -43,5 +44,6 @@ page_builder:
     enabled: true
     newsletter: newsletter
     show_socials: false
+overlap: false
 ---
 This page will show all events
