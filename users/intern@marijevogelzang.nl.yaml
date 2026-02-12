@@ -7,3 +7,8 @@ preferences:
   assets:
     assets:
       mode: grid
+  collections:
+    pages:
+      view: tree
+    portfolio:
+      view: list
