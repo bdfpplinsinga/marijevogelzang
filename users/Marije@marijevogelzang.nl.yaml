@@ -26,3 +26,5 @@ preferences:
         - event_start
     pages:
       view: tree
+    portfolio:
+      view: list
