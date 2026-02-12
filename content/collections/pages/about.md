@@ -1,18 +1,18 @@
 ---
 id: 290c2731-0296-416a-88f4-0fc3ecb10c95
 blueprint: page
-title: Over Marije
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1759581566
+title: 'Over Marije'
+updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
+updated_at: 1770877160
 page_builder:
   -
     id: maw6d499
-    heading: 'over <br>Food <br>Design <br>Playground'
+    heading: 'about <br>Marije <br>Vogelzang<br>'
     heading_type: h1
     text: 'Food Design Playground is een plek waar je anders leert kijken naar iets heel gewoons: eten. In deze monumentale locatie in het centrum van Dordrecht draait het niet om luxe tafels of perfect opgemaakte borden, maar om jouw zintuigen. Hier draait het om wat eten doet — met je lijf, je gedachten, je herinneringen.'
     type: hero
     enabled: true
-    image: mv21.jpg
+    image: streamer.png
     overlap: false
   -
     id: maw6j9d7
