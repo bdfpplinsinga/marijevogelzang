@@ -1,7 +1,7 @@
 ---
 id: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 blueprint: page
-title: 'Marije Vogelzang'
+title: 'About Marije'
 page_builder:
   -
     id: mb28d3a2
@@ -10,6 +10,7 @@ page_builder:
     type: hero
     enabled: true
     image: about.png
+    overlap: false
   -
     id: mb28f09z
     text:
@@ -82,12 +83,13 @@ page_builder:
     align_content: left
     link:
       link_type: entry
+      target_blank: false
       button_type: button
     type: streamer
     enabled: true
   -
     id: mbjhfosc
-    heading: 'kijk eens op mijn website'
+    heading: 'kijk eens op mijn playground'
     heading_type: h2
     text:
       -
@@ -99,15 +101,15 @@ page_builder:
               -
                 type: link
                 attrs:
-                  href: 'https://marijevogelzang.nl'
+                  href: 'https://fooddesignplayground.nl/'
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
-            text: www.marijevogelzang.nl
+            text: fooddesignplayground.nl
     image: img_6963.jpg
     image_position: right
     type: image_text
     enabled: true
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1750489763
+updated_at: 1770887158
 ---
