@@ -1,9 +1,9 @@
 ---
 id: 81678c1a-8185-4602-b093-f25275f39e7d
 blueprint: page
-title: Ruimtes
+title: Portfolio
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1752056402
+updated_at: 1770877445
 page_builder:
   -
     id: mahxt1ij
@@ -13,6 +13,7 @@ page_builder:
     type: hero
     enabled: true
     image: mv57.jpg
+    overlap: false
   -
     id: mahxu0b2
     heading: Ruimtes
@@ -32,6 +33,7 @@ page_builder:
     enabled: true
     link:
       link_type: entry
+      target_blank: false
       button_type: button
   -
     id: mbjcvzrm
@@ -82,6 +84,7 @@ page_builder:
     enabled: true
     link:
       link_type: entry
+      target_blank: false
       button_type: button
     image: marijevogelzang(85).jpg
   -
