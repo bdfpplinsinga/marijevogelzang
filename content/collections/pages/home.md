@@ -39,43 +39,6 @@ page_builder:
     type: image_text
     enabled: true
   -
-    id: mc5uvrni
-    heading: 'Boek je tickets'
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Hieronder zie je een selectie van onze events. Kijk voor het gehele aanbod bij '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://fooddesignplayground.nl/events'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: events
-          -
-            type: text
-            text: ', of in het menu hierboven.'
-    image: marijevogelzang(39).jpg
-    image_position: right
-    type: image_text
-    enabled: true
-  -
-    id: macgipw0
-    type: events
-    enabled: true
-    selection_method: true
-    number_of_events_to_show: 4
-    events:
-      - ad286d77-704c-43f1-87cc-bb8d45873990
-  -
     id: macc3vqi
     heading: 'Food <br> Design Library'
     heading_type: h2

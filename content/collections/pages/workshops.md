@@ -253,36 +253,6 @@ page_builder:
     type: text
     enabled: true
   -
-    id: mcyl4o9h
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Ons huidige aanbod van workshops'
-    type: text
-    enabled: true
-  -
-    id: mcyl3yke
-    selection_method: true
-    number_of_events_to_show: 30
-    events:
-      - f1833011-32da-44b3-baff-0dca9ad6b7f6
-      - 1efeddbc-59f8-499b-89f1-5b5e8d4c2cc3
-      - 4607b997-3d7f-49e3-b2f4-f247ce5caed3
-      - 3264813d-cf56-4204-a55b-e0c2dd72b885
-      - 32d43d40-25a4-4e90-b5b8-6f2cbd9a02b4
-      - e7f44fb6-90f3-4db3-8801-5e70d34da0bc
-      - 948dc00b-b848-4870-acc4-59dc7fc62348
-      - a72569c4-a105-47c2-afe3-7fdbde95c6a2
-      - c3c8e431-0282-46ea-8a59-57efb02f5138
-      - 44d7df49-e20d-4e5e-95ba-acceaf3d3e93
-    type: events
-    enabled: true
-  -
     id: md0fyqrg
     image: marijevogelzang(71).jpg
     aspect_ratio: none
