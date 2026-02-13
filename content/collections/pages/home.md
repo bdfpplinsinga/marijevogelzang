@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771009660
+updated_at: 1771009957
 page_builder:
   -
     id: maca009e
@@ -76,7 +76,7 @@ page_builder:
       button_type: inline
   -
     id: macdihnx
-    heading: 'wie zit er achter?'
+    heading: 'Eating as a serious profession'
     heading_type: h2
     text:
       -
@@ -84,21 +84,13 @@ page_builder:
         content:
           -
             type: text
-            text: 'Ontwerper, docent, foodfilosoof en speelse rebel. Al meer dan 26 jaar beweeg ik me op het snijvlak van voedsel, design en menselijke emotie. Niet als chef, maar als ontwerper—voor wie eten niet alleen voeding is, maar een drager van betekenis. Iets dat verbindt, herinnert, bevraagt, heelt en transformeert. '
+            text: 'Marije Vogelzang is a Dutch food designer and pioneer in the field of eating design. For over 25 years, she has used food as a medium to explore identity, culture, ritual, and human behavior. She ran her experimental restaurants Proef (Rotterdam and Amsterdam) for seven years, founded the Food Non Food department at Design Academy Eindhoven, and established The Dutch Institute of Food & Design. She was project professor in Kassel, has written three books, and develops her own online and offline courses.'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://marijevogelzang.nl'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Studio Marije Vogelzang'
-          -
-            type: text
-            text: ' is gevestigd in Food Design Playground.'
+            text: 'She lectures, exhibits, and guest-teaches worldwide, and now leads Food Design Playground in Dordrecht — a space for immersive food experiences that shift the focus from what we eat to how and why we eat.'
     image: marijevogelzang(41).jpg
     type: streamer
     enabled: true
