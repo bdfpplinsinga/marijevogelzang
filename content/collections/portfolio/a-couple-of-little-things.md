@@ -6,7 +6,7 @@ title: 'A Couple of Little Things'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771022081
+updated_at: 1771022121
 page_builder:
   -
     id: mljbmkzt
@@ -64,19 +64,6 @@ page_builder:
     id: 0NBLD7snWLwFZMgjqIrqw
     video: 'https://www.youtube.com/watch?v=532Vz8jXMm4'
     type: video_embed
-    enabled: true
-  -
-    id: Z-GwXDA27UFw_h138fm9u
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Installation - Performance'
-    image_position: right
-    type: image_text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
 ---
