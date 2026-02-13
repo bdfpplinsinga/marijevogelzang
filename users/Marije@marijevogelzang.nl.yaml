@@ -32,6 +32,6 @@ preferences:
       per_page: 50
       after_save: listing
       columns:
+        - title
         - slug
         - status
-        - title
