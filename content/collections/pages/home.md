@@ -4,16 +4,16 @@ blueprint: pages
 title: Home
 template: default
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771009364
+updated_at: 1771009426
 page_builder:
   -
     id: maca009e
-    heading: 'Food<br> Design<br> Playground'
+    heading: 'Studio<br> Marije<br> Vogelzang'
     heading_type: h1
-    text: "Een plek waar je anders leert kijken naar iets heel gewoons: eten. Een plek om te proeven, te denken en te maken.\LOm geraakt te worden — via je tong."
+    text: 'Marije Vogelzang is the food designer who makes you feel food before you even taste it — she turns meals into experiences, rituals into stories, and the ordinary into the uncanny.'
     type: hero
     enabled: true
-    image: mv67.jpg
+    image: volumes-test.jpg
     overlap: false
   -
     id: mc0znjgn
