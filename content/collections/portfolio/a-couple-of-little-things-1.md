@@ -6,7 +6,7 @@ title: 'A Couple of Little Things (Duplicated)'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771022666
+updated_at: 1771022833
 page_builder:
   -
     id: mljbmkzt
@@ -62,11 +62,14 @@ page_builder:
     id: NfmvZaSmeMeh7FnaPtte2
     text:
       -
-        type: paragraph
+        type: blockquote
         content:
           -
-            type: text
-            text: 'Olo restaurant is connected to the Swedish embassy. On the Swedish wall there is an artwork dedicated to the Finnish children who were adopted by Swedish people to keep them safe during world war 2.'
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Dear Marije, you brought me back to my childhood tonight. I was in my mother’s womb – I heard the soothing music and saw fuzzy light through my mother’s skin. The food was my mother’s gentle caress The food massaged my soul ever so gently – Like only mother can. I felt whole.'
     type: text
     enabled: true
   -
