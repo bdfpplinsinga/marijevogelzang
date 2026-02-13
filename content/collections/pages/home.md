@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771009473
+updated_at: 1771009660
 page_builder:
   -
     id: maca009e
@@ -31,8 +31,18 @@ page_builder:
             text: 'Marije’s vision is that food isn’t just something you eat '
           -
             type: text
-            text: '— it’s a language of sensation, connection, and imagination. She believes eating can reveal who we are, how we think, and how we relate to each other and the world. Her work makes the invisible rules of food visible, invites playful curiosity, and treats eating as an experience that is as meaningful as it is delicious.'
-    image: marijevogelzang(94).jpg
+            text: '— it’s a language of sensation, connection, and imagination. She believes eating can reveal who we are, how we think, and how we relate to each other and the world. Her work makes the invisible rules of food visible, invites playful curiosity, and treats eating as an experience that is as meaningful as it is delicious. She sees food as a tool to question habits we mistake for truth — cultural blind spots, inherited rituals, unspoken hierarchies at the table.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Her aim is not to decorate the plate, but to redesign the act of eating itself.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'In her world, imagination is nourishment — and curiosity is the first ingredient.'
+    image: sharing_lunch_2_24.kenjimasunaga.jpg
     image_position: left
     type: image_text
     enabled: true
