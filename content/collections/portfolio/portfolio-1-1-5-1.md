@@ -2,17 +2,17 @@
 id: eed6ee21-5bad-4bb9-a051-806538579d84
 published: false
 blueprint: portfolio
-title: 'Bits ‘n Bytes (Duplicated)'
+title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1770982476
+updated_at: 1770982534
 page_builder:
   -
     id: mljbmkzt
-    heading: 'Bits ‘n Bytes'
+    heading: 'Bastard Bread'
     heading_type: h2
-    text: asd
+    text: 'How can we use bread to address the topic of cultural wealth'
     overlap: false
     type: hero
     enabled: true
