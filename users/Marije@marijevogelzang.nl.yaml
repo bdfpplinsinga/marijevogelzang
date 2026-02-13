@@ -29,7 +29,7 @@ preferences:
     portfolio:
       view: list
       per_page: 50
-      after_save: listing
+      after_save: continue_editing
       columns:
         - title
         - slug
