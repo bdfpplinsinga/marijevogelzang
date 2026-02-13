@@ -16,7 +16,7 @@ preferences:
     assets:
       per_page: 500
       mode: grid
-    browser_thumbnail_size: 210
+    browser_thumbnail_size: 60
   collections:
     events:
       columns:
