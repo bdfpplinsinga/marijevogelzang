@@ -6,7 +6,7 @@ title: 'A Couple of Little Things (Duplicated)'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771022971
+updated_at: 1771023105
 page_builder:
   -
     id: mljbmkzt
@@ -59,7 +59,7 @@ page_builder:
     type: streamer
     enabled: true
   -
-    id: NfmvZaSmeMeh7FnaPtte2
+    id: _hZotKrBV1JZDDe1F7S3w
     text:
       -
         type: blockquote
@@ -70,22 +70,12 @@ page_builder:
               -
                 type: text
                 text: 'Dear Marije, you brought me back to my childhood tonight. I was in my mother’s womb – I heard the soothing music and saw fuzzy light through my mother’s skin. The food was my mother’s gentle caress The food massaged my soul ever so gently – Like only mother can. I felt whole.'
-    type: text
-    enabled: true
-  -
-    id: _hZotKrBV1JZDDe1F7S3w
-    text:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Petri Hautakangas'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: visitor
+            text: 'Petri Hautakangas, visitor'
           -
             type: hardBreak
           -
@@ -107,28 +97,9 @@ page_builder:
             text: 'The experience is a subtle, multi sensorial ritual that touches our inner child. Combining flavours with words, sound and touch the experience gives the visitor a space to reflect on perception and what it is that makes us human.'
           -
             type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'A couple of little things'
