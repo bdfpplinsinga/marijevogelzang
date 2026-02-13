@@ -34,3 +34,4 @@ preferences:
       columns:
         - slug
         - status
+        - title
