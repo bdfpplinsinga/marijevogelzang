@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771009957
+updated_at: 1771010436
 page_builder:
   -
     id: maca009e
@@ -48,18 +48,26 @@ page_builder:
     enabled: true
   -
     id: macc3vqi
-    heading: 'Food <br> Design Library'
+    heading: 'Let food <br> be your teacher'
     heading_type: h2
     text:
       -
         type: paragraph
-        attrs:
-          textAlign: left
         content:
           -
             type: text
-            text: 'Een bibliotheek vol boeken over food design, eetcultuur, systeem, taal, vormen en filosofie. En een concept shop waar je zintuiglijke cadeaus, bijzondere objecten en eetbare ideeën vindt.'
-    image: img_6963.jpg
+            text: 'You can join immersive courses where food becomes your creative tool — to think, design, question, and experiment.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Whether online or live, you’ll develop your own food concepts, installations, or edible experiences with hands-on guidance.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'If you’re ready to deepen your ideas, sharpen your senses, and work beyond recipes, there’s a place at the table for you.'
+    image: marijevogelzang(88).jpg
     type: streamer
     enabled: true
     align_content: left
