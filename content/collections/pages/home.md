@@ -3,8 +3,8 @@ id: home
 blueprint: pages
 title: Home
 template: default
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1770280631
+updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
+updated_at: 1771009364
 page_builder:
   -
     id: maca009e
@@ -17,7 +17,7 @@ page_builder:
     overlap: false
   -
     id: mc0znjgn
-    heading: 'Een verborgen parel'
+    heading: 'The vision'
     heading_type: h2
     text:
       -
@@ -28,12 +28,10 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Verborgen achter een zware houten deur in de Dordtse binnenstad schuilt een plek die ruikt naar verleden en smaakt naar toekomst.'
-          -
-            type: hardBreak
+            text: 'Marije’s vision is that food isn’t just something you eat '
           -
             type: text
-            text: 'Food Design Playground is gevestigd in een monumentaal pand waar rococo-plafonds fluisteren en de kelder zindert van ideeën. Een thuis voor food design met wisselende programmering. Verwacht pop-up diners, exposities, workshops, lezingen en proeverijen.'
+            text: '— it’s a language of sensation, connection, and imagination. She believes eating can reveal who we are, how we think, and how we relate to each other and the world. Her work makes the invisible rules of food visible, invites playful curiosity, and treats eating as an experience that is as meaningful as it is delicious.'
     image: marijevogelzang(94).jpg
     image_position: left
     type: image_text
