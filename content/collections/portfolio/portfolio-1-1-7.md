@@ -2,17 +2,17 @@
 id: c2b5f933-202d-4fdd-98dd-170e0a1013e6
 published: false
 blueprint: portfolio
-title: 'Blind Date'
+title: 'The Blind Date Project'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1770973876
+updated_at: 1770982594
 page_builder:
   -
     id: mljbmkzt
-    heading: 'Blind Date'
+    heading: 'The Blind Date Project'
     heading_type: h2
-    text: asd
+    text: 'How can we discuss dating in a place where dating is prohibited?'
     overlap: false
     type: hero
     enabled: true
