@@ -2,17 +2,17 @@
 id: 0872062c-eb24-4d13-9d4b-7dda9831c114
 published: false
 blueprint: portfolio
-title: 'Sample (Duplicated) (8)'
+title: 'Grazing City Scapes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1770982909
+updated_at: 1770982926
 page_builder:
   -
     id: mljbmkzt
-    heading: asd
+    heading: 'Grazing City Scapes'
     heading_type: h2
-    text: asd
+    text: 'How can we celebrate our mouth and challenge our habits?'
     overlap: false
     type: hero
     enabled: true
