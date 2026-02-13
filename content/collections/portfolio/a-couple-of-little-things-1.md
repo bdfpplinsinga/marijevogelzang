@@ -6,7 +6,7 @@ title: 'A Couple of Little Things (Duplicated)'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771023292
+updated_at: 1771023350
 page_builder:
   -
     id: mljbmkzt
@@ -57,6 +57,11 @@ page_builder:
       target_blank: false
       button_type: button
     type: streamer
+    enabled: true
+  -
+    id: 0NBLD7snWLwFZMgjqIrqw
+    video: 'https://www.youtube.com/watch?v=532Vz8jXMm4'
+    type: video_embed
     enabled: true
   -
     id: _hZotKrBV1JZDDe1F7S3w
@@ -140,11 +145,6 @@ page_builder:
             type: text
             text: 'Olo Restaurant, Helsinki.'
     type: text
-    enabled: true
-  -
-    id: 0NBLD7snWLwFZMgjqIrqw
-    video: 'https://www.youtube.com/watch?v=532Vz8jXMm4'
-    type: video_embed
     enabled: true
 duplicated_from: 238e7154-f8c3-4068-9477-c4453e7505ce
 ---
