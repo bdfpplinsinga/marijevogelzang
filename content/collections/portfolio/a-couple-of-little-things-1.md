@@ -6,7 +6,7 @@ title: 'A Couple of Little Things (Duplicated)'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771023161
+updated_at: 1771023228
 page_builder:
   -
     id: mljbmkzt
@@ -110,14 +110,21 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'A couple of little things'
           -
             type: hardBreak
+            marks:
+              -
+                type: bold
           -
             type: text
-            text: 'Created for:'
-          -
-            type: hardBreak
+            marks:
+              -
+                type: bold
+            text: 'Created for: '
           -
             type: text
             text: 'Food Camp Finland'
@@ -127,9 +134,10 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'At:'
-          -
-            type: hardBreak
+            marks:
+              -
+                type: bold
+            text: 'At: '
           -
             type: text
             text: 'Olo Restaurant, Helsinki.'
