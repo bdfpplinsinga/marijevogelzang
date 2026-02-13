@@ -6,7 +6,7 @@ title: 'A Couple of Little Things (Duplicated)'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771022332
+updated_at: 1771022666
 page_builder:
   -
     id: mljbmkzt
@@ -15,32 +15,32 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    text: 'Installation - Performance'
+    text: 'How to make people experience migration through food?'
   -
-    id: _qNM_9XFaLoRKrqBhWKjV
+    id: Lw7OIjLiPU1310V-3KPtu
     text:
       -
-        type: heading
-        attrs:
-          level: 2
+        type: paragraph
         content:
           -
             type: text
-            text: 'How to make people experience migration through food?'
+            text: 'Installation - Performance'
+    type: text
+    enabled: true
+  -
+    id: als79Rl3pxhqiRkQHm2zs
+    heading_type: h2
+    text:
       -
         type: paragraph
         content:
           -
             type: text
             text: 'Human beings have been migrating since the beginning of time. And with the humans so has our food. The majority of what is considered typical Finnish food is actually immigrant.'
-    type: text
-    enabled: true
-  -
-    id: NfmvZaSmeMeh7FnaPtte2
-    text:
-      -
-        type: paragraph
-        content:
+          -
+            type: hardBreak
+          -
+            type: hardBreak
           -
             type: text
             text: '‘A couple of little things’ is an eating experience dealing with the tension between the feeling of being lost and the warmth of belonging. We all build an identity around us which we feel connected to and that resonates who we are and want to be. Sometimes we might get dislocated or disconnected and feel insecure. Food can carry identity and belonging but it can also disrupt and confuse. ‘A couple of little things’ is a small sensorial journey exploring the sensitive expression of human kindness.'
@@ -51,10 +51,19 @@ page_builder:
           -
             type: text
             text: 'In a time where many people are on the run, the feeling of dislocation and being lost is not a rare sentiment. We all sometimes feel lost and insecure. Out of place or simply out of tune with our surroundings.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: NfmvZaSmeMeh7FnaPtte2
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'Olo restaurant is connected to the Swedish embassy. On the Swedish wall there is an artwork dedicated to the Finnish children who were adopted by Swedish people to keep them safe during world war 2.'
