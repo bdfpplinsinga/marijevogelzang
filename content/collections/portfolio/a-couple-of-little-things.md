@@ -6,18 +6,30 @@ title: 'A Couple of Little Things'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771021585
+updated_at: 1771021946
 page_builder:
   -
     id: mljbmkzt
     heading: 'A Couple of Little Things'
     heading_type: h2
-    text: 'How to make people experience migration through food?'
     overlap: true
     type: hero
     enabled: true
   -
-    id: NfmvZaSmeMeh7FnaPtte2
+    id: _qNM_9XFaLoRKrqBhWKjV
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'How to make people experience migration through food?'
+    type: text
+    enabled: true
+  -
+    id: 22ZWlxjFyd3COYSi-m5X0
     text:
       -
         type: paragraph
@@ -25,10 +37,14 @@ page_builder:
           -
             type: text
             text: 'Human beings have been migrating since the beginning of time. And with the humans so has our food. The majority of what is considered typical Finnish food is actually immigrant.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+    type: text
+    enabled: true
+  -
+    id: NfmvZaSmeMeh7FnaPtte2
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: '‘A couple of little things’ is an eating experience dealing with the tension between the feeling of being lost and the warmth of belonging. We all build an identity around us which we feel connected to and that resonates who we are and want to be. Sometimes we might get dislocated or disconnected and feel insecure. Food can carry identity and belonging but it can also disrupt and confuse. ‘A couple of little things’ is a small sensorial journey exploring the sensitive expression of human kindness.'
