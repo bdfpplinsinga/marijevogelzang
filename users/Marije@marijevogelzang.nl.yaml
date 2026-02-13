@@ -29,4 +29,4 @@ preferences:
       view: tree
     portfolio:
       view: list
-      per_page: 25
+      per_page: 50
