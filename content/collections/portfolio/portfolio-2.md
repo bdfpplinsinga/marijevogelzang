@@ -2,15 +2,15 @@
 id: 3a3363a4-9eb7-4f9a-8e5d-3385c5d6c940
 published: false
 blueprint: portfolio
-title: 'White funeral 1 (Duplicated) (2)'
+title: 'White funeral 2'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1770973362
+updated_at: 1770973426
 page_builder:
   -
     id: mljbmkzt
-    heading: 'White Funeral'
+    heading: 'White Funeral Dinner'
     heading_type: h2
     text: asd
     overlap: false
