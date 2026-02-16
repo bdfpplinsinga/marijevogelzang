@@ -6,7 +6,7 @@ title: 'A Couple of Little Things'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771281997
+updated_at: 1771282372
 page_builder:
   -
     id: mljbmkzt
@@ -62,17 +62,15 @@ page_builder:
     type: video_embed
     enabled: true
   -
-    id: _hZotKrBV1JZDDe1F7S3w
+    id: 2AVitPkRO6DledA2xTp9y
+    heading_type: h2
     text:
       -
-        type: blockquote
+        type: paragraph
         content:
           -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Dear Marije, you brought me back to my childhood tonight. I was in my mother’s womb – I heard the soothing music and saw fuzzy light through my mother’s skin. The food was my mother’s gentle caress The food massaged my soul ever so gently – Like only mother can. I felt whole.'
+            type: text
+            text: '"Dear Marije, you brought me back to my childhood tonight. I was in my mother’s womb – I heard the soothing music and saw fuzzy light through my mother’s skin. The food was my mother’s gentle caress The food massaged my soul ever so gently – Like only mother can. I felt whole."'
       -
         type: paragraph
         content:
@@ -84,11 +82,20 @@ page_builder:
               -
                 type: italic
             text: 'Petri Hautakangas, visitor'
+    image: performanssi_lampa05.jpg
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: _hZotKrBV1JZDDe1F7S3w
+    text:
       -
         type: paragraph
         content:
-          -
-            type: hardBreak
           -
             type: text
             text: 'Olo restaurant is connected to the Swedish embassy. On the Swedish wall there is an artwork dedicated to the Finnish children who were adopted by Swedish people to keep them safe during world war 2.'
