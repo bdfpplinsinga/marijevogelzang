@@ -6,7 +6,7 @@ title: 'A Couple of Little Things'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771278405
+updated_at: 1771281997
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     type: hero
     enabled: true
     text: 'How to make people experience migration through food?'
+    image: performanssi_lampa01.jpg
   -
     id: tstPxEhH900CR6hfGqNdR
     text:
