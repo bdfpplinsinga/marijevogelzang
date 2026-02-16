@@ -4,9 +4,6 @@ roles:
 id: 79296801-252d-4afa-98db-926f50d63dff
 password_hash: $2y$12$3/rOFiC0JOKg4FKpD3mwEuy73Jl3F0/hFeLnRJ/a087U.2kVCvD8G
 preferences:
-  assets:
-    assets:
-      mode: grid
   collections:
     pages:
       view: tree
