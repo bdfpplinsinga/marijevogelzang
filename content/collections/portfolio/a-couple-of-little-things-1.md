@@ -5,8 +5,8 @@ blueprint: portfolio
 title: 'A Couple of Little Things (Duplicated)'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771023421
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1771278337
 page_builder:
   -
     id: mljbmkzt
@@ -17,19 +17,21 @@ page_builder:
     enabled: true
     text: 'How to make people experience migration through food?'
   -
-    id: Lw7OIjLiPU1310V-3KPtu
+    id: tstPxEhH900CR6hfGqNdR
     text:
       -
         type: paragraph
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: 'Installation - Performance'
     type: text
     enabled: true
   -
-    id: als79Rl3pxhqiRkQHm2zs
-    heading_type: h2
+    id: MOnOqzfHTVBS0ro8Rsf8_
     text:
       -
         type: paragraph
@@ -51,12 +53,7 @@ page_builder:
           -
             type: text
             text: 'In a time where many people are on the run, the feeling of dislocation and being lost is not a rare sentiment. We all sometimes feel lost and insecure. Out of place or simply out of tune with our surroundings.'
-    align_content: left
-    link:
-      link_type: entry
-      target_blank: false
-      button_type: button
-    type: streamer
+    type: text
     enabled: true
   -
     id: 0NBLD7snWLwFZMgjqIrqw
