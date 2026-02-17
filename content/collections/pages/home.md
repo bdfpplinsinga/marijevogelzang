@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771323533
+updated_at: 1771323658
 page_builder:
   -
     id: maca009e
@@ -150,6 +150,13 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Marije Vogelzang is an internationally sought-after speaker who uses food as a lens to explore culture, identity, behaviour and imagination. In her lectures, she combines design thinking, storytelling and sensory insights to challenge how we perceive food and the role it plays in our lives. Her talks are known for being inspiring, thought-provoking and highly engaging, inviting audiences to see eating not just as a daily habit, but as a powerful creative and social act.'
 ---
 ## Welcome to your brand new Statamic site!
 
