@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771323658
+updated_at: 1771323882
 page_builder:
   -
     id: maca009e
@@ -112,21 +112,48 @@ page_builder:
       button_type: button
   -
     id: macifrml
-    heading: 'De plek'
+    heading: 'The Studio'
     heading_type: h2
     text:
       -
         type: paragraph
-        attrs:
-          textAlign: left
         content:
           -
             type: text
-            text: 'Food Design Playground is geen normaal restaurant. Je kunt hier niet zomaar binnenlopen voor een lunch. We werken op eventbasis — voorstellingen, diners, workshops en andere momenten waarop de deur wijd open staat. En goed om te weten: je hoeft geen ontwerper te zijn om je thuis te voelen. Juist ‘gewone’ mensen met nieuwsgierigheid en een mond zijn hier meer dan welkom.De verschillende ruimtes zijn te huur voor creatieve bijeenkomsten, vergaderingen, diners, lezingen of inspiratiesessies. Met of zonder catering, altijd met karakter.'
+            text: 'Since 2025, Studio Marije Vogelzang has transformed from design studio-only to actual even space called Food Design Playground. A space to explore and host food design experiences that challenge the way you think about food. In a stunning monumental building in Dordrecht you can find the studio merged with the event space. Get your tickets to courses and dinners or book teh space for your own event. Have a look '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: fooddesignplayground.nl
+                  rel: null
+                  target: _blank
+                  title: null
+            text: here
+          -
+            type: text
+            text: .
     image: mv57.jpg
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: q2i1c8FhL82On4LA1JkBX
+    heading: Speaking
+    heading_type: h2
+    image: about-marije---marije-vogelzang-(4).png
     image_position: right
     type: image_text
     enabled: true
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Marije Vogelzang is an internationally sought-after speaker who uses food as a lens to explore culture, identity, behaviour and imagination. In her lectures, she combines design thinking, storytelling and sensory insights to challenge how we perceive food and the role it plays in our lives. Her talks are known for being inspiring, thought-provoking and highly engaging, inviting audiences to see eating not just as a daily habit, but as a powerful creative and social act.'
   -
     id: macmistg
     newsletter: newsletter
@@ -142,21 +169,6 @@ page_builder:
     aspect_ratio: none
     type: image
     enabled: true
-  -
-    id: q2i1c8FhL82On4LA1JkBX
-    heading: Speaking
-    heading_type: h2
-    image: about-marije---marije-vogelzang-(4).png
-    image_position: left
-    type: image_text
-    enabled: true
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Marije Vogelzang is an internationally sought-after speaker who uses food as a lens to explore culture, identity, behaviour and imagination. In her lectures, she combines design thinking, storytelling and sensory insights to challenge how we perceive food and the role it plays in our lives. Her talks are known for being inspiring, thought-provoking and highly engaging, inviting audiences to see eating not just as a daily habit, but as a powerful creative and social act.'
 ---
 ## Welcome to your brand new Statamic site!
 
