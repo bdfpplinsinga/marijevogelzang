@@ -6,17 +6,17 @@ title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771352654
+updated_at: 1771354730
 page_builder:
   -
     id: mljbmkzt
     heading: 'Bastard Bread'
     heading_type: h2
-    text: 'How can we use bread to address the topic of cultural wealth'
+    text: 'How can we use bread to address the topic of cultural wealth?'
     overlap: true
     type: hero
     enabled: true
-    image: bastard-bread.jpg
+    image: img_7508.jpg
   -
     id: bxyoV9-VX-0E-CUK9pAS7
     text:
@@ -50,19 +50,13 @@ page_builder:
           -
             type: hardBreak
           -
-            type: hardBreak
-          -
             type: text
             text: 'With the professional help of master baker Fritz Trefzger we produced 2500 bastard buns plus love sentences made from bread on a fragile installation of hundreds of metal pins to cover the walls of the station.'
           -
             type: hardBreak
           -
-            type: hardBreak
-          -
             type: text
             text: 'The main sentence was: ‘Hello gorgeous, I’m still wearing the smile you gave me’'
-          -
-            type: hardBreak
           -
             type: hardBreak
           -
@@ -78,12 +72,8 @@ page_builder:
           -
             type: hardBreak
           -
-            type: hardBreak
-          -
             type: text
             text: 'At the night of the Vitra Campus summer party, these three countries made love and conceived a mixed breed of the 3 iconic breads that represents a specific country'
-          -
-            type: hardBreak
           -
             type: hardBreak
           -
@@ -113,7 +103,7 @@ page_builder:
               -
                 type: italic
             text: 'Shane Beadson, visitor'
-    align_content: left
+    align_content: right
     link:
       link_type: entry
       target_blank: false
@@ -154,7 +144,7 @@ page_builder:
             type: text
             text: 'The bastard bread celebrates the cross breeding of cultures, of flavour and of new stories.'
     image: bastard-bread.jpg
-    image_position: right
+    image_position: left
     type: image_text
     enabled: true
   -
