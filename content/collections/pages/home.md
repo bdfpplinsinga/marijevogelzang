@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771010436
+updated_at: 1771323533
 page_builder:
   -
     id: maca009e
@@ -141,6 +141,14 @@ page_builder:
     image: marijevogelzang(58).jpeg
     aspect_ratio: none
     type: image
+    enabled: true
+  -
+    id: q2i1c8FhL82On4LA1JkBX
+    heading: Speaking
+    heading_type: h2
+    image: about-marije---marije-vogelzang-(4).png
+    image_position: left
+    type: image_text
     enabled: true
 ---
 ## Welcome to your brand new Statamic site!
