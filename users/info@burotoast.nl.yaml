@@ -31,7 +31,7 @@ preferences:
       view: list
     pages:
       after_save: continue_editing
-      view: tree
+      view: list
     events:
       columns:
         - title
