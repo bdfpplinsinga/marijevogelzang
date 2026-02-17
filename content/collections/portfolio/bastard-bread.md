@@ -6,7 +6,7 @@ title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771351251
+updated_at: 1771352237
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: bastard-bread.jpg
   -
     id: bxyoV9-VX-0E-CUK9pAS7
     text:
@@ -99,17 +100,19 @@ page_builder:
         content:
           -
             type: text
-            text: 'I really didn’t expect that it would be so tasty. But it is!'
+            text: '"I really didn’t expect that it would be so tasty. But it is!"'
+          -
+            type: hardBreak
           -
             type: hardBreak
           -
             type: text
-            text: 'Shane Beadson'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: visitor
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Shane Beadson, visitor'
     align_content: left
     link:
       link_type: entry
@@ -117,8 +120,9 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: img_8439.jpg
   -
-    id: E6r28TERTqTM02dVYXzo_
+    id: saGq6pVntJa1yiDDK3k4f
     heading_type: h2
     text:
       -
@@ -139,8 +143,17 @@ page_builder:
           -
             type: text
             text: 'It is pure existence of textures moulded into various shapes and completed with fire. Protecting pure culture can support national pride but also weakens resilience. The bastard bread celebrates the cross breeding of cultures, of flavour and of new stories.'
-          -
-            type: hardBreak
+    image: bastard-bread.jpg
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: E6r28TERTqTM02dVYXzo_
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'BASTARD BREAD WAS CREATED FOR'
@@ -167,7 +180,7 @@ page_builder:
             type: text
             text: 'master baker Fritz Trefzger.'
     image: img_7721.jpg
-    image_position: left
+    image_position: right
     type: image_text
     enabled: true
 duplicated_from: 0349c677-849c-4a12-9d39-e6b4a2dfe1f8
