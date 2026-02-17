@@ -6,7 +6,7 @@ title: 'A Couple of Little Things'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771350341
+updated_at: 1771350514
 page_builder:
   -
     id: mljbmkzt
@@ -89,12 +89,6 @@ page_builder:
       target_blank: false
       button_type: button
     type: streamer
-    enabled: true
-  -
-    id: dhePHeTNt2Nhmy8gTyYV6
-    image: performanssi_lampa05.jpg
-    aspect_ratio: none
-    type: image
     enabled: true
   -
     id: _hZotKrBV1JZDDe1F7S3w
