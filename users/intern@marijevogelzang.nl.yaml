@@ -9,6 +9,7 @@ preferences:
       view: tree
     portfolio:
       view: list
+      after_save: continue_editing
   assets:
     assets:
       mode: grid
