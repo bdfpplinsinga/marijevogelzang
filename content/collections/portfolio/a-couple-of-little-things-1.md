@@ -6,7 +6,7 @@ title: 'A Couple of Little Things'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771354126
+updated_at: 1771357307
 page_builder:
   -
     id: mljbmkzt
@@ -82,8 +82,8 @@ page_builder:
               -
                 type: italic
             text: 'Petri Hautakangas, visitor'
-    image: performanssi_lampa18.jpg
-    align_content: right
+    image: performanssi_lampa17.jpg
+    align_content: left
     link:
       link_type: entry
       target_blank: false
@@ -152,7 +152,7 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'At:'
+            text: 'Executed at:'
           -
             type: hardBreak
           -
