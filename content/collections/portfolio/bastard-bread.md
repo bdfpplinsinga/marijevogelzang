@@ -166,7 +166,7 @@ page_builder:
           -
             type: text
             text: 'master baker Fritz Trefzger.'
-    image: img_7445.jpg
+    image: img_7721.jpg
     image_position: left
     type: image_text
     enabled: true
