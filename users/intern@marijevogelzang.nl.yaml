@@ -13,5 +13,5 @@ preferences:
   assets:
     assets:
       mode: grid
-      per_page: 100
+      per_page: 500
     browser_thumbnail_size: 60
