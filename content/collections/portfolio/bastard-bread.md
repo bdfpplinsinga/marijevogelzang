@@ -120,7 +120,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: img_8439.jpg
+    image: img_8439_bastard_bread.jpg
   -
     id: saGq6pVntJa1yiDDK3k4f
     heading_type: h2
