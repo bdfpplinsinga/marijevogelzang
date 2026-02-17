@@ -6,7 +6,7 @@ title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771352237
+updated_at: 1771352654
 page_builder:
   -
     id: mljbmkzt
@@ -142,21 +142,44 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'It is pure existence of textures moulded into various shapes and completed with fire. Protecting pure culture can support national pride but also weakens resilience. The bastard bread celebrates the cross breeding of cultures, of flavour and of new stories.'
+            text: 'It is pure existence of textures moulded into various shapes and completed with fire.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Protecting pure culture can support national pride but also weakens resilience.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The bastard bread celebrates the cross breeding of cultures, of flavour and of new stories.'
     image: bastard-bread.jpg
-    image_position: left
+    image_position: right
     type: image_text
     enabled: true
   -
-    id: E6r28TERTqTM02dVYXzo_
-    heading_type: h2
+    id: BDR-wDsFqX1P2ySMbp5SS
     text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'BASTARD BREAD'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'BASTARD BREAD WAS CREATED FOR'
+            marks:
+              -
+                type: bold
+            text: 'Created for:'
           -
             type: hardBreak
           -
@@ -170,18 +193,17 @@ page_builder:
           -
             type: hardBreak
           -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'On site bakery conducted by:'
+          -
             type: hardBreak
           -
             type: text
-            text: 'The on site bakery was conducted by:'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'master baker Fritz Trefzger.'
-    image: img_7721.jpg
-    image_position: right
-    type: image_text
+            text: 'Fritz Trefzger, master baker.'
+    type: text
     enabled: true
 duplicated_from: 0349c677-849c-4a12-9d39-e6b4a2dfe1f8
 ---
