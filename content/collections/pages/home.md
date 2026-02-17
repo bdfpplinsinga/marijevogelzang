@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771323882
+updated_at: 1771323986
 page_builder:
   -
     id: maca009e
@@ -127,14 +127,11 @@ page_builder:
               -
                 type: link
                 attrs:
-                  href: fooddesignplayground.nl
+                  href: 'https://fooddesignplayground.nl/'
                   rel: null
                   target: _blank
                   title: null
             text: here
-          -
-            type: text
-            text: .
     image: mv57.jpg
     image_position: left
     type: image_text
