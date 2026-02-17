@@ -5,8 +5,8 @@ blueprint: portfolio
 title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771021593
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1771351251
 page_builder:
   -
     id: mljbmkzt
@@ -29,6 +29,146 @@ page_builder:
                 type: italic
             text: 'Installation - Performance'
     type: text
+    enabled: true
+  -
+    id: tMOhDLqEnTf5WND_BkDIx
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'It is being said that people who live at the border of a nation relate more with their national identity than people who live in central areas. National pride can be a beautiful thing but it also can create borders in the mind. For example, messing with national dishes is generally frowned upon.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'In the summer of 2012 we drove up to Weil am Rhein (DE) to transform the Zaha Hadid Firestation at the Vitra campus into a bakery.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'With the professional help of master baker Fritz Trefzger we produced 2500 bastard buns plus love sentences made from bread on a fragile installation of hundreds of metal pins to cover the walls of the station.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The main sentence was: ‘Hello gorgeous, I’m still wearing the smile you gave me’'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The walls were beaming with flirting, with seduction and arousal. This was the place for love.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The Vitra campus is located in Germany right between Switzerland and France.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'At the night of the Vitra Campus summer party, these three countries made love and conceived a mixed breed of the 3 iconic breads that represents a specific country'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'German dark sourdough French Baguette and Swiss sweet Zopf bread.'
+    type: text
+    enabled: true
+  -
+    id: DrR8f-37t32kvh44x4Vxl
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'I really didn’t expect that it would be so tasty. But it is!'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Shane Beadson'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: visitor
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: E6r28TERTqTM02dVYXzo_
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The baby bastard is shaped to share between people.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Bread is at the base of most cultures.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'It is pure existence of textures moulded into various shapes and completed with fire. Protecting pure culture can support national pride but also weakens resilience. The bastard bread celebrates the cross breeding of cultures, of flavour and of new stories.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'BASTARD BREAD WAS CREATED FOR'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Vitra Summer nights.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'At Weil am Rhein'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The on site bakery was conducted by:'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'master baker Fritz Trefzger.'
+    image: img_7445.jpg
+    image_position: left
+    type: image_text
     enabled: true
 duplicated_from: 0349c677-849c-4a12-9d39-e6b4a2dfe1f8
 ---
