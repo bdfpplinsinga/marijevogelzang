@@ -6,7 +6,7 @@ title: 'A Couple of Little Things'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771352743
+updated_at: 1771353097
 page_builder:
   -
     id: mljbmkzt
@@ -82,7 +82,7 @@ page_builder:
               -
                 type: italic
             text: 'Petri Hautakangas, visitor'
-    image: performanssi_lampa05.jpg
+    image: performanssi_lampa18.jpg
     align_content: left
     link:
       link_type: entry
@@ -91,7 +91,8 @@ page_builder:
     type: streamer
     enabled: true
   -
-    id: _hZotKrBV1JZDDe1F7S3w
+    id: 3D2yCbTjn6FY4aYTDvuwn
+    heading_type: h2
     text:
       -
         type: paragraph
@@ -113,8 +114,13 @@ page_builder:
           -
             type: text
             text: 'The experience is a subtle, multi sensorial ritual that touches our inner child. Combining flavours with words, sound and touch the experience gives the visitor a space to reflect on perception and what it is that makes us human.'
-          -
-            type: hardBreak
+    image: performanssi_lampa05.jpg
+    image_position: right
+    type: image_text
+    enabled: true
+  -
+    id: _hZotKrBV1JZDDe1F7S3w
+    text:
       -
         type: heading
         attrs:
