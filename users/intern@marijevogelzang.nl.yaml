@@ -9,3 +9,6 @@ preferences:
       view: tree
     portfolio:
       view: list
+  assets:
+    assets:
+      mode: grid
