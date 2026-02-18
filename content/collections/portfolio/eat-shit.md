@@ -91,7 +91,6 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: eat-shit-2.jpg
   -
     id: 7VvKgotOZ56M9xvaKhYfq
     heading_type: h2
