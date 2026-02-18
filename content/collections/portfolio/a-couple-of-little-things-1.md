@@ -82,7 +82,7 @@ page_builder:
               -
                 type: italic
             text: 'Petri Hautakangas, visitor'
-    image: performanssi_lampa17.jpg
+    image: a-couple-of-little-things-2.jpg
     align_content: left
     link:
       link_type: entry
