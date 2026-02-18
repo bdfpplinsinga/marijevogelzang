@@ -6,7 +6,7 @@ title: 'Faked Meat'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771432657
+updated_at: 1771432852
 page_builder:
   -
     id: mljbmkzt
@@ -82,7 +82,7 @@ page_builder:
           -
             type: text
             text: a
-    image: faked-meat-ponti.jpg
+    image: faked-meat-sapicu.jpg
     image_position: left
     type: image_text
     enabled: true
@@ -123,7 +123,7 @@ page_builder:
   -
     id: HLubTQ0nc6fgPuRzPgWou
     heading_type: h2
-    image: faked-meat-herbast.jpg
+    image: faked-meat-ponti.jpg
     image_position: left
     type: image_text
     enabled: true
@@ -133,20 +133,19 @@ page_builder:
         content:
           -
             type: text
-            text: 'So, if we do have soy protein which you can make into any shape, why don’t we invent new animals? The fantasy animals I created have a habitat, lifestyle, and diet. These factors influence the design and taste of the meat. For example, the Ponti lives in empty volcanoes and nibbles on the ashes of the volcano. Therefore the meat of the Ponti is delicately smoked. Also, they need to make burrows in the firm magma layers of the volcano and they use their firm tails to do that. These firm tails make the Ponti a perfect party snack because you can simply pick it up by the tail and keep your fingers clean. Every faked meat animal has certain qualities derived from their habitat and diet. The Herbast, for example, lives in the herbal fields of southern France and needs to camouflage itself for protection against predators. The square-shaped animal grows herbs on its skin like fur and therefore the meat of the Herbast is naturally pre-seasoned.'
+            text: 'So, if we do have soy protein which you can make into any shape, why don’t we invent new animals? The fantasy animals I created have a habitat, lifestyle, and diet. These factors influence the design and taste of the meat. For example, the Ponti lives in empty volcanoes and nibbles on the ashes of the volcano. Therefore the meat of the Ponti is delicately smoked. Also, they need to make burrows in the firm magma layers of the volcano and they use their firm tails to do that. These firm tails make the Ponti a perfect party snack because you can simply pick it up by the tail and keep your fingers clean.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Every faked meat animal has certain qualities derived from their habitat and diet. The Herbast, for example, lives in the herbal fields of southern France and needs to camouflage itself for protection against predators. The square-shaped animal grows herbs on its skin like fur and therefore the meat of the Herbast is naturally pre-seasoned.'
       -
         type: paragraph
         content:
           -
             type: text
             text: 'The Herbast is square-shaped, which is perfect for packaging, transport, and provides for an even share at the dining table.'
-  -
-    id: vS1ARUco1uVyTNYzPyspy
-    heading_type: h2
-    image: faked-meat-sapicu.jpg
-    image_position: right
-    type: image_text
-    enabled: true
   -
     id: I-OAOIrJMgbu4odcAiwft
     text:
