@@ -64,7 +64,6 @@ page_builder:
     enabled: true
   -
     id: mc5v6zez
-    image: marijevogelzang(87).jpeg
     aspect_ratio: none
     type: image
     enabled: true
