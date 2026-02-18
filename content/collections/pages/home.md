@@ -162,7 +162,6 @@ page_builder:
     show_socials: false
   -
     id: mbtb4buc
-    image: marijevogelzang(58).jpeg
     aspect_ratio: none
     type: image
     enabled: true
