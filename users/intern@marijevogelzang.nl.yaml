@@ -12,6 +12,5 @@ preferences:
       after_save: continue_editing
   assets:
     assets:
-      mode: grid
       per_page: 500
     browser_thumbnail_size: 210
