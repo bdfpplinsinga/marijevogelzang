@@ -81,7 +81,7 @@ page_builder:
           -
             type: text
             text: 'How can we feel secure and truly see the other? How can we open up and accept a situation, an other human being, a feeling of uncertainty. Distrust?'
-    image: dsc_7217-(1).jpg
+    image: edible-reflections-7.jpg
     image_position: right
     type: image_text
     enabled: true
