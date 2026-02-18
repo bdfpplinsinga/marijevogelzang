@@ -6,7 +6,7 @@ title: 'Eat Shit'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771417750
+updated_at: 1771422409
 page_builder:
   -
     id: mljbmkzt
@@ -91,6 +91,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: eat-shit-1.jpg
   -
     id: 7VvKgotOZ56M9xvaKhYfq
     heading_type: h2
@@ -132,6 +133,7 @@ page_builder:
     aspect_ratio: none
     type: image
     enabled: true
+    image: eat-shit-2.jpg
   -
     id: rVxKFAobbv4uy8TNYjmd2
     text:
