@@ -52,7 +52,6 @@ page_builder:
             text: |-
               Er is een bibliotheek vol boeken over food design, eetcultuur, systeem, taal, vormen en filosofie. En een kleine concept shop waar je zintuiglijke cadeaus, bijzondere objecten en eetbare ideeën vindt.Food Design Playground is geen normaal restaurant. Je kunt hier niet zomaar binnenlopen voor een lunch. We werken op event-basis — voorstellingen, diners, workshops en andere momenten waarop de deur wijd open staat.
               En goed om te weten: je hoeft geen ontwerper te zijn om je thuis te voelen. Juist ‘gewone’ mensen met nieuwsgierigheid en een mond zijn hier meer dan welkom.Voor iedereen die genoeg heeft van voedsel als product, en zin heeft in voedsel als proces.Voor dromers, denkers, makers, twijfelaars en fijnproevers.Voor wie het lef heeft om zijn smaakpapillen mee te nemen op onbekend terrein.
-    image: faked-meat-2.jpg
     image_position: left
     type: image_text
     enabled: true
