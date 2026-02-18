@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: dsc_0124.jpg
+    image: eat-love-budapest-5.jpg
   -
     id: WNEcNRu-w9uEj9Yzb4SEM
     text:
