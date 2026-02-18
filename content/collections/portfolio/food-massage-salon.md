@@ -6,7 +6,7 @@ title: 'Food Massage Salon'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771436921
+updated_at: 1771436989
 page_builder:
   -
     id: mljbmkzt
@@ -141,8 +141,7 @@ page_builder:
     type: text
     enabled: true
   -
-    id: i2tPnVZeYDY-8hFaruR1p
-    heading_type: h2
+    id: 5iF5F5esr2TGjYIW15m1d
     text:
       -
         type: paragraph
@@ -161,16 +160,10 @@ page_builder:
               -
                 type: italic
             text: 'Ann-Christin Bertrand, Curator of C/O Berlin'
-    align_content: left
-    link:
-      link_type: entry
-      target_blank: false
-      button_type: button
-    type: streamer
+    type: text
     enabled: true
   -
-    id: NebFWj4pnlQIVm2-bGVGq
-    heading_type: h2
+    id: fDabBGPVf0BhYp7qCMA8r
     text:
       -
         type: paragraph
@@ -189,12 +182,7 @@ page_builder:
               -
                 type: italic
             text: 'Ana Rita Cameira, curator of Melting, gastronomy summit, Porto'
-    align_content: left
-    link:
-      link_type: entry
-      target_blank: false
-      button_type: button
-    type: streamer
+    type: text
     enabled: true
   -
     id: f4kv1zw0Lxh-9-4xTu5-Q
