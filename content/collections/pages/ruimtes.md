@@ -56,7 +56,6 @@ page_builder:
     enabled: true
   -
     id: mc5v4da5
-    image: mv67.jpg
     aspect_ratio: none
     type: image
     enabled: true
