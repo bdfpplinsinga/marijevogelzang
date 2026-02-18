@@ -64,7 +64,7 @@ page_builder:
           -
             type: text
             text: 'I was curious about the flavours of the time and wanted to bring them to the audience of today. I recreated the recipes literally but I made them into small bites that were presented on a cardboard sheet. Like a ration. When entering the exhibition, visitors would get a ration-coupon and got a cup of surrogate coffee.'
-    image: img_4397.jpg
+    image: black-confetti-4.jpg
     image_position: right
     type: image_text
     enabled: true
