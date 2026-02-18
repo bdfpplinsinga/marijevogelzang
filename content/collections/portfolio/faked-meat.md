@@ -6,7 +6,7 @@ title: 'Faked Meat'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771433383
+updated_at: 1771434019
 page_builder:
   -
     id: mljbmkzt
@@ -54,15 +54,6 @@ page_builder:
           -
             type: text
             text: 'The moment when there are copies of an original, the connotation of a product changes. The original is ‘real’ and more valuable and the copy is less valuable. Copies of a Rembrandt painting might be exactly the same as the original, but still remain inferior.'
-  -
-    id: 1soVQVJxvyNzGKP9KDHC3
-    aspect_ratio: none
-    type: image
-    enabled: true
-  -
-    id: VmcBtDKmTQ59Oez_E-sto
-    heading_type: h2
-    text:
       -
         type: paragraph
         content:
@@ -75,13 +66,22 @@ page_builder:
           -
             type: text
             text: 'Since our starting point is meat, the taste and structure of meat is our base referral for everything that comes to the market as an alternative. If meat would be the alternative, it might be the other way around.'
+  -
+    id: B0s3LLBBKIUdZuTDlqgaQ
+    aspect_ratio: none
+    type: image
+    enabled: true
+  -
+    id: VmcBtDKmTQ59Oez_E-sto
+    heading_type: h2
+    text:
       -
         type: paragraph
         content:
           -
             type: text
             text: 'People who choose to not eat meat are doing something good for the world. They should have the feeling they are choosing the superior option. When the comparison remains between meat and alternative, in most cases, meat wins. What if we can create a new option that still fulfils its function as a meat replacement, but that starts a new narrative that, when compared to the narrative of the original (industrialised meat production) creates a more pleasant choice.'
-    image: faked-meat-2.jpg
+    image: faked-meat-sapicu.jpg
     image_position: left
     type: image_text
     enabled: true
@@ -120,6 +120,12 @@ page_builder:
                 type: italic
             text: 'Sonja Stummerer and Martin Hablesreiter, Honey and Bunny productions'
   -
+    id: fn9XjAwtdLAno_nhUF3Nm
+    image: faked-meat-ponti-poster.jpg
+    aspect_ratio: none
+    type: image
+    enabled: true
+  -
     id: HLubTQ0nc6fgPuRzPgWou
     heading_type: h2
     image: faked-meat-ponti.jpg
@@ -145,6 +151,12 @@ page_builder:
           -
             type: text
             text: 'The Herbast is square-shaped, which is perfect for packaging, transport, and provides for an even share at the dining table.'
+  -
+    id: 1soVQVJxvyNzGKP9KDHC3
+    aspect_ratio: none
+    type: image
+    enabled: true
+    image: faked-meat-herbast-poster.jpg
   -
     id: I-OAOIrJMgbu4odcAiwft
     text:
