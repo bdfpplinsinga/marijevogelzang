@@ -27,7 +27,6 @@ page_builder:
     show_socials: true
   -
     id: mbtcq8dc
-    image: marijevogelzang(81))).jpg
     aspect_ratio: none
     type: image
     enabled: true
