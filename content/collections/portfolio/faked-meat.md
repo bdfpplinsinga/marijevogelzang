@@ -6,7 +6,7 @@ title: 'Faked Meat'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771432852
+updated_at: 1771433383
 page_builder:
   -
     id: mljbmkzt
@@ -54,6 +54,15 @@ page_builder:
           -
             type: text
             text: 'The moment when there are copies of an original, the connotation of a product changes. The original is ‘real’ and more valuable and the copy is less valuable. Copies of a Rembrandt painting might be exactly the same as the original, but still remain inferior.'
+  -
+    id: 1soVQVJxvyNzGKP9KDHC3
+    aspect_ratio: none
+    type: image
+    enabled: true
+  -
+    id: VmcBtDKmTQ59Oez_E-sto
+    heading_type: h2
+    text:
       -
         type: paragraph
         content:
@@ -72,17 +81,7 @@ page_builder:
           -
             type: text
             text: 'People who choose to not eat meat are doing something good for the world. They should have the feeling they are choosing the superior option. When the comparison remains between meat and alternative, in most cases, meat wins. What if we can create a new option that still fulfils its function as a meat replacement, but that starts a new narrative that, when compared to the narrative of the original (industrialised meat production) creates a more pleasant choice.'
-  -
-    id: VmcBtDKmTQ59Oez_E-sto
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: a
-    image: faked-meat-sapicu.jpg
+    image: faked-meat-2.jpg
     image_position: left
     type: image_text
     enabled: true
