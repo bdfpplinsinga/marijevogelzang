@@ -6,7 +6,7 @@ title: 'Edible Reflections'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771419583
+updated_at: 1771419802
 page_builder:
   -
     id: mljbmkzt
@@ -266,11 +266,22 @@ page_builder:
     id: juiHQCx_lt9j15HMuna4w
     text:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'EDIBLE REFLECTIONS'
+      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Edible reflections is commissioned by'
+            marks:
+              -
+                type: bold
+            text: 'Commissioned by:'
           -
             type: hardBreak
           -
@@ -287,7 +298,10 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'in collaboration with'
+            marks:
+              -
+                type: bold
+            text: 'In collaboration with:'
           -
             type: hardBreak
           -
@@ -304,63 +318,64 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'It is then being presented at'
+            marks:
+              -
+                type: bold
+            text: 'Presented at:'
+      -
+        type: bulletList
+        content:
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'The future of Storytelling'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'in New York'
           -
-            type: text
-            text: 'The future of Storytelling'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Solo exhibition ‘eating design’'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'OCT Gallery in Shenzhen'
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Beijing Design Week'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'at the Delicious design section.'
           -
-            type: text
-            text: 'in New York'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'and at'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Solo exhibition ‘eating design’'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'OCT Gallery in Shenzhen'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'and at'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Beijing Design Week'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'at the Delicious design section.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'and at'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Shenzhen Design Week'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Shenzhen Design Week'
     type: text
     enabled: true
 duplicated_from: 2e2ef765-1c67-4e30-8305-e4b238e57426
