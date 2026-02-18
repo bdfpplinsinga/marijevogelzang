@@ -130,7 +130,7 @@ page_builder:
     enabled: true
   -
     id: HlY09Isg-ESKkHs2HiUPB
-    image: eat-shit-2.jpg
+    image: eat-shit-1.jpg
     aspect_ratio: none
     type: image
     enabled: true
