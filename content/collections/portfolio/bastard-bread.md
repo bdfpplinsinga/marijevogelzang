@@ -6,7 +6,7 @@ title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771354760
+updated_at: 1771406801
 page_builder:
   -
     id: mljbmkzt
@@ -103,14 +103,14 @@ page_builder:
               -
                 type: italic
             text: 'Shane Beadson, visitor'
-    align_content: right
+    align_content: left
     link:
       link_type: entry
       target_blank: false
       button_type: button
     type: streamer
     enabled: true
-    image: img_8439_bastard_bread.jpg
+    image: img_7678.jpg
   -
     id: saGq6pVntJa1yiDDK3k4f
     heading_type: h2
