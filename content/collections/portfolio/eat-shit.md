@@ -6,7 +6,7 @@ title: 'Eat Shit'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771411014
+updated_at: 1771417750
 page_builder:
   -
     id: mljbmkzt
@@ -56,9 +56,8 @@ page_builder:
           -
             type: text
             text: 'Thomas Widdershoven, Director at the time: ‘Initially I was nervous to come to Milan with a topic like shit, but the more I thought, the more I realised it was absolutely necessary. Yes the title is explosive, but it is also entirely appropriate. The exhibition has been designed to present the breadth and attack of the Design Academy Eindhoven’s new Food Non Food department.'
-      -
-        type: paragraph
-        content:
+          -
+            type: hardBreak
           -
             type: text
             text: 'Shit from this vantage point is the connector – it links food to non food and sets the tone for the department which at least so far has little to do with cooking and everything to do with systems, rituals, and materials. We launched this department because food and all its myriad associations have always been a part of the academy’s DNA. Jason Page’s 2014 graduation project, which digitalised our archive making complete themes easily accessible, beautifully communicates this. His timeline of food related projects forms the centrepiece of the exhibition, which covers everything from eating and excreting to recycling and protesting. ‘Eat Shit’ is a definition of the human condition –you live, you eat, you shit so shit – as a result – is a valuable resource. It sits at the beginning and the end of the food chain. But to hurl the words ‘Eat Shit’ at an opponent is also an expression of anger, an insult flung in protest at inequality, unfairness and corruption.’'
@@ -92,6 +91,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: eat-shit-in-salone-del-mobile.jpg
   -
     id: 7VvKgotOZ56M9xvaKhYfq
     heading_type: h2
@@ -110,6 +110,29 @@ page_builder:
             text: 'I want to reveal the full gamut of what my new Food Non Food course at the Design Academy Eindhoven covers. It is the first undergraduate food design course in the world in art education and for the department I selected a team of experts with different strengths so students come at the subject from as broad a perspective as possible.'
     image_position: left
     type: image_text
+    enabled: true
+    image: dae_milaan_160415_5520-1100x734.jpg
+  -
+    id: WxRuyJSx29KHrNIKsT1Ci
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'INSERT  GALLERY'
+    type: text
+    enabled: true
+  -
+    id: HlY09Isg-ESKkHs2HiUPB
+    image: eat-shit-2.jpg
+    aspect_ratio: none
+    type: image
     enabled: true
   -
     id: rVxKFAobbv4uy8TNYjmd2
