@@ -9,7 +9,6 @@ updated_at: 1770876800
 heading: 'Online and offline'
 heading_type: h2
 text: 'Eten is magisch. Het is het meest eenvoudige- en tegelijk meest complexe onderwerp wat er is. Bij Food Design Playground hebben we een wisselende programmering van events. Kom naar lezingen, naar pop-up diners van food designers en radicale chefs. Eet wat je leest bij de Food Book Club of wordt stralend wakker bij een inspiratieontbijt. Onze programmering is altijd weer nieuw en verrassend. Wil je op de hoogte blijven van de laatste events? Schrijf je dan in voor de nieuwsbrief.'
-image: marijevogelzang(25)72.jpg
 page_builder:
   -
     id: mawve11e
