@@ -6,7 +6,7 @@ title: 'Grazing City Scapes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771438532
+updated_at: 1771438794
 page_builder:
   -
     id: mljbmkzt
@@ -68,21 +68,19 @@ page_builder:
     type: text
     enabled: true
   -
-    id: IKbkWXLG2TfD46V4OeWsk
-    heading_type: h2
+    id: RGQ3G5uzpJYrRtvydrmIR
+    video: 'https://youtu.be/Txr9uGzFrMQ'
+    type: video_embed
+    enabled: true
+  -
+    id: 0Axl6wEj1yfj3FQJlvfSv
     text:
       -
         type: paragraph
         content:
           -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
             type: text
             text: 'The guests are sitting on adjustable bar stools around a high, long table. The table is set up with a large variety of glass shapes (all upside down drinking glasses, bowls and bottles) that resemble a sky-line. The glasses are arranged on large sheets of acrylic with a laser cut pattern that fixes the glassware on the right position and are lit from underneath.'
-          -
-            type: hardBreak
           -
             type: hardBreak
           -
@@ -102,8 +100,7 @@ page_builder:
           -
             type: text
             text: 'The setting calls for zooming in. It feels like looking at a maquette. You enter a new world. Smells, sights and flavours mix in a surreal glass setting. Light is fixed under the table and shines trough the acrylic cuts so it looks like a vibrant city at night.'
-    image_position: left
-    type: image_text
+    type: text
     enabled: true
   -
     id: 9rXO7EQcxY8yEoXdubEug
@@ -157,6 +154,22 @@ page_builder:
           -
             type: text
             text: 'This project was made for the professional chefs-organisation in HongKong. A sky-scraper city where it’s not easy to feel connection to the source of food. Focussing on the senses within the urban context reframes and ritualises the eating experience for a closer connection with their daily material: food.'
+    type: text
+    enabled: true
+  -
+    id: xcrdUQuKZJLfrbvNbxaDR
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'INSERT GALLERY'
     type: text
     enabled: true
   -
