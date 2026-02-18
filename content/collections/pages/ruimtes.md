@@ -12,7 +12,6 @@ page_builder:
     text: 'Food design playground is gevestigd in een prachtig monumentaal pand in de oude binnenstad van Dordrecht. Op een steenworp afstand van Rotterdam. Het is een bijzondere en inspirerende plek om je eigen event te houden. Of het nou een zakelijke vergadering is, een creatieve hei-sessie, een verleidelijk feest of juist een bijzondere begrafenis.'
     type: hero
     enabled: true
-    image: mv57.jpg
     overlap: false
   -
     id: mahxu0b2

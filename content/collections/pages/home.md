@@ -132,7 +132,6 @@ page_builder:
                   target: _blank
                   title: null
             text: here
-    image: mv57.jpg
     image_position: left
     type: image_text
     enabled: true
