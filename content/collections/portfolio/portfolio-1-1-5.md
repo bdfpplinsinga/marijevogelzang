@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: black-confetti-2.jpg
+    image: bits-n-bytes-1.jpg
   -
     id: Fow4yzZDKIjzHzi7k_JeF
     text:
