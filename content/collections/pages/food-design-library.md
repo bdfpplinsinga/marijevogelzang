@@ -76,7 +76,6 @@ page_builder:
           -
             type: text
             text: 'In de bibliotheek vind je ook een food design shop. Met food design boeken, maar ook andere inspirerende cadeaus voor je zelf of om cadeau te geven.'
-    image: img_6963.jpg
     image_position: left
     type: image_text
     enabled: true

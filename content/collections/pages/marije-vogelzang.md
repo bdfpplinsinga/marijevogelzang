@@ -106,7 +106,6 @@ page_builder:
                   target: null
                   title: null
             text: fooddesignplayground.nl
-    image: img_6963.jpg
     image_position: right
     type: image_text
     enabled: true
