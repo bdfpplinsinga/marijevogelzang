@@ -138,7 +138,7 @@ page_builder:
     id: q2i1c8FhL82On4LA1JkBX
     heading: Speaking
     heading_type: h2
-    image: about-marije---marije-vogelzang-(4).png
+    image: marije-vogelzang-6.png
     image_position: right
     type: image_text
     enabled: true
