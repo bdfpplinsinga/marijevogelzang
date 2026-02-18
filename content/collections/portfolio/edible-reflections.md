@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: dsc_7115.jpg
+    image: edible-reflections-5.jpg
   -
     id: EVMhR39idyLUnfKJC7y8v
     text:
