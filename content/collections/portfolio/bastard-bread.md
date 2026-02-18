@@ -6,7 +6,7 @@ title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771406812
+updated_at: 1771410215
 page_builder:
   -
     id: mljbmkzt
@@ -111,6 +111,22 @@ page_builder:
     type: streamer
     enabled: true
     image: img_7678.jpg
+  -
+    id: _WMCAS3JmkxivxXeBEHH9
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'INSERT GALLERY'
+    type: text
+    enabled: true
   -
     id: saGq6pVntJa1yiDDK3k4f
     heading_type: h2
