@@ -6,7 +6,7 @@ title: 'Feed Love'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771434468
+updated_at: 1771435143
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: feed-love-img_6943.jpg
   -
     id: 2fWkNtVUt0Xzb9zwKrGlS
     text:
@@ -100,6 +101,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: img_6926.jpg
   -
     id: 3h7ARR9DcLNwi08je-vqE
     text:
