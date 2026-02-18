@@ -6,7 +6,7 @@ title: 'Feed Love'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771435143
+updated_at: 1771436218
 page_builder:
   -
     id: mljbmkzt
@@ -65,13 +65,33 @@ page_builder:
           -
             type: text
             text: 'Eventually I found out that the way to set up an experience that elevates the pressure of social politeness is to make sure the feeder and feedee do not have eye contact. Eye contact is what creates uneasiness and a heightened sense of self awareness. The moment this is taken away the feedee can relax and focus on the experience itself.'
+    type: text
+    enabled: true
+  -
+    id: e7a5HSkT-YQt5ZLRAHcs8
+    heading_type: h2
+    text:
       -
         type: paragraph
         content:
           -
             type: text
             text: 'The first workshop was held in Copenhagen at the Copenhagen Food Fair as a rough experiment in feeding. This involved a drum and feeding in a specific rythm. The second one I did in St. Petersburg, Russia at the Orange days in New Holland Island. Finally I developed the concept further into a more detailed version I performed in Japan for Roppongi art night.'
-    type: text
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The set up is simple; Half of the participants feed the other half food and simultaneously tell about their childhood memories around this specific kind of food. As you can see the ‘feedee’ can’t see who’s feeding him to create a kind of anonymous atmosphere. It is touching to see how quickly complete strangers get very intimate, caring about feeding each-other gently and how they feel free to tell the most personal stories.'
+    image: img_6942.jpg
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: JOWnegOj1LjGDeoAr6-Bl
+    image: img_6775.jpg
+    aspect_ratio: 2
+    type: image
     enabled: true
   -
     id: S_IgyBfRpTGKoh62seAGw
@@ -103,14 +123,19 @@ page_builder:
     enabled: true
     image: img_6926.jpg
   -
-    id: 3h7ARR9DcLNwi08je-vqE
+    id: VSaLmENuhoLIU54G20CpI
     text:
       -
-        type: paragraph
+        type: heading
+        attrs:
+          level: 2
         content:
           -
             type: text
-            text: 'The set up is simple; Half of the participants feed the other half food and simultaneously tell about their childhood memories around this specific kind of food. As you can see the ‘feedee’ can’t see who’s feeding him to create a kind of anonymous atmosphere. It is touching to see how quickly complete strangers get very intimate, caring about feeding each-other gently and how they feel free to tell the most personal stories.'
+            marks:
+              -
+                type: bold
+            text: 'INSERT GALLERY'
     type: text
     enabled: true
   -
