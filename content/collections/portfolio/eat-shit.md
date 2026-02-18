@@ -111,7 +111,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
-    image: dae_milaan_160415_5520-1100x734.jpg
+    image: eat-shit-3.jpg
   -
     id: WxRuyJSx29KHrNIKsT1Ci
     text:
