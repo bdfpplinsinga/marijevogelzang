@@ -157,7 +157,7 @@ page_builder:
           -
             type: text
             text: 'To change the way we see and accept another person is by simply accepting ourselves. We are in need of self reflection.'
-    image: dsc_7039.jpg
+    image: edible-reflections-3.jpg
     image_position: left
     type: image_text
     enabled: true
