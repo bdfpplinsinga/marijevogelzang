@@ -95,7 +95,7 @@ page_builder:
               -
                 type: italic
             text: 'Visitor of the Black Confetti exhibition'
-    image: 1.1-war-food-300dpi.jpg
+    image: black-confetti-1.jpg
     align_content: left
     link:
       link_type: entry
