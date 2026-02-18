@@ -37,7 +37,6 @@ page_builder:
       button_type: button
   -
     id: mbjcvzrm
-    image: marijevogelzang(55)))).jpg
     aspect_ratio: none
     type: image
     enabled: true
