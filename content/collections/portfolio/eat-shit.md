@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: dae_milaan_160415_5777-1100x734.jpg
+    image: eat-shit.jpg
   -
     id: IvbrovS3oHP4h18rvwKiy
     text:
