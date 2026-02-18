@@ -6,7 +6,7 @@ title: 'Food Massage Salon'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771436989
+updated_at: 1771437129
 page_builder:
   -
     id: mljbmkzt
@@ -138,6 +138,46 @@ page_builder:
           -
             type: text
             text: 'Visitors reaction ranged from highly amused and surprised to deeply touched and emotional feeling re-connected to their own senses in a way never felt before.'
+      -
+        type: blockquote
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Working with Marije was a great pleasure, always smooth and positive, with great creative energy. The Food Massage Salon Marije developed was just such a great complement to the exhibition! A full success with fully booked time slots and visitors that left happy and moved in same time.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Ann-Christin Bertrand, Curator of C/O Berlin'
+      -
+        type: blockquote
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Marije is the most creative, joyful, energetic and inspiring person I know! After attending her talk in London in 2018, I immediately invited her to participate in the first edition of Melting. Marije came up with the Food Massage Salon which was quite an experience for those who benefit from this unique trEATment and also for the event because it was so catchy, and a super original approach. We managed to provide meaningful unforgettable moments! Marije has this great ability to make us pay attention to our senses, whilst making us think deeply, laugh, relax and even feel much better, I must as well mention her creative mind gym which is definitely worth it. Marije simply creates life changing experiences. What else can I say?'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Ana Rita Cameira, curator of Melting, gastronomy summit, Porto'
     type: text
     enabled: true
   -
@@ -161,7 +201,7 @@ page_builder:
                 type: italic
             text: 'Ann-Christin Bertrand, Curator of C/O Berlin'
     type: text
-    enabled: true
+    enabled: false
   -
     id: fDabBGPVf0BhYp7qCMA8r
     text:
@@ -183,7 +223,7 @@ page_builder:
                 type: italic
             text: 'Ana Rita Cameira, curator of Melting, gastronomy summit, Porto'
     type: text
-    enabled: true
+    enabled: false
   -
     id: f4kv1zw0Lxh-9-4xTu5-Q
     text:
