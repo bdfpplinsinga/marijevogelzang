@@ -21,7 +21,7 @@ page_builder:
           -
             type: text
             text: 'Na jaren van denken, schrijven en spreken over food design, wilde ik weer iets wat je kunt aanraken. Iets wat ruikt naar gist, voelt als deeg en kraakt als je erin bijt. De Food Design Playground is mijn antwoord op de abstractie: een fysieke plek waar ideeën niet alleen blijven zweven, maar landen – op een bord, in een buik, in een herinnering.Tussen 2004 en 2011 runde ik de experimentele restaurants Proef in Rotterdam en Amsterdam. Daar onderzocht ik hoe je met eten verhalen vertelt, zintuigen wakker schudt en systemen bevraagt. Die geest van Proef – rebels, onderzoekend, poëtisch – leeft voort in deze nieuwe plek. Want eten is nooit zomaar eten. Het is liefde, politiek, cultuur, dood en verlangen. En soms moet je het kunnen proeven om het echt te begrijpen.'
-    image: c2_photos2015_marijevogelzang2.jpg
+    image: marije-vogelzang-6.jpg
     align_content: left
     type: streamer
     enabled: true
