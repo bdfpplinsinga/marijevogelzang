@@ -6,14 +6,14 @@ title: 'Eat Love Budapest'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771409184
+updated_at: 1771410173
 page_builder:
   -
     id: mljbmkzt
     heading: 'Eat Love Budapest'
     heading_type: h2
     text: 'How can we shift the power balance between majority and minority?'
-    overlap: false
+    overlap: true
     type: hero
     enabled: true
     image: dsc_0124.jpg
@@ -43,7 +43,8 @@ page_builder:
     type: text
     enabled: true
   -
-    id: tF-yKKbyLiUaxYHiZcexS
+    id: 0mQW1gks1bXguxrr4JKzR
+    heading_type: h2
     text:
       -
         type: paragraph
@@ -51,8 +52,6 @@ page_builder:
           -
             type: text
             text: 'A 4 day performance where Roma Women have fed over 400 visitors while telling their life stories.'
-          -
-            type: hardBreak
           -
             type: hardBreak
           -
@@ -68,14 +67,23 @@ page_builder:
           -
             type: hardBreak
           -
-            type: hardBreak
-          -
             type: text
             text: "Every participant will be served by one Roma woman. She will feed the food that she has personal memories of. She will feed the participant moist food with a spoon, dry things with her hands.\_ Feeding is a very intimate ritual. A rare thing happening in life. Especially when it’s done by a stranger."
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+    image: dsc_0020.jpg
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: nYwfvVo_XO4BOc94JMJmR
+    video: 'https://youtu.be/Ji3WCF8oUx0'
+    type: video_embed
+    enabled: true
+  -
+    id: tF-yKKbyLiUaxYHiZcexS
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The whole performance will be a ritual. First the woman washes her hands. The visitor cannot see who serves him but he can see her hands. While doing this she starts telling him her life story. As if she would be speaking to a friend confiding him into her private story. Gently, like a mother to her child.'
@@ -86,8 +94,6 @@ page_builder:
           -
             type: text
             text: 'The visitor cannot see her face or see her eyes. This is essential. He needs to feel like there are no social codes or rules he needs to follow. She will show him the dishes that have memories for her. She will feed him with her food while talking about her life. She is in control but in such a kind and loving way that he feels he can relax and absorb the story, the food. The gentle touch.'
-          -
-            type: hardBreak
           -
             type: hardBreak
           -
@@ -147,6 +153,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: dsc_0089.jpg
   -
     id: 0OcSfdy0tOD8fenYIwXS5
     text:
@@ -173,6 +180,28 @@ page_builder:
     type: text
     enabled: true
   -
+    id: V9-Qa15IdQ1ASnJ7NeS6_
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'INSERT GALLERY'
+    type: text
+    enabled: true
+  -
+    id: HXVDMSu70JqOZ3WDWsOk8
+    image: dsc_0022.jpg
+    aspect_ratio: none
+    type: image
+    enabled: true
+  -
     id: e_Dq2GWIaaScidWspNnsO
     text:
       -
@@ -196,12 +225,12 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'Wamp,'
+            text: Wamp
           -
             type: hardBreak
           -
             type: text
-            text: 'Chili and Vanilia'
+            text: 'and Chili and Vanilia'
           -
             type: hardBreak
           -
