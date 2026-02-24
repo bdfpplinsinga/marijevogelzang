@@ -114,7 +114,7 @@ page_builder:
           -
             type: text
             text: 'The experience is a subtle, multi sensorial ritual that touches our inner child. Combining flavours with words, sound and touch the experience gives the visitor a space to reflect on perception and what it is that makes us human.'
-    image: a-couple-of-little-things-1.jpg
+    image: a-couple-of-litlle-things/a-couple-of-little-things-1.jpg
     image_position: left
     type: image_text
     enabled: true
