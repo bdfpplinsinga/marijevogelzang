@@ -428,7 +428,7 @@ page_builder:
           -
             type: text
             text: '! '
-    image: marijevogelzang(4).jpg
+    image: playground/marijevogelzang(4).jpg
     image_position: left
     type: image_text
     enabled: true
