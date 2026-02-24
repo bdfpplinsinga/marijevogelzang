@@ -95,7 +95,7 @@ page_builder:
               -
                 type: italic
             text: 'Visitor of the Black Confetti exhibition'
-    image: black-confetti/black-confetti-1.jpg
+    image: portfolio/black-confetti/black-confetti-1.jpg
     align_content: left
     link:
       link_type: entry
