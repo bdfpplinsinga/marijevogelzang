@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: faked-meat-1.jpg
+    image: faked-meat/faked-meat-1.jpg
   -
     id: ATc10DTPmbPUIxqig0A8R
     text:
