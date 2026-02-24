@@ -159,7 +159,7 @@ page_builder:
           -
             type: text
             text: 'The bastard bread celebrates the cross breeding of cultures, of flavour and of new stories.'
-    image: bastard-bread/bastard-bread.jpg
+    image: portfolio/bastard-bread/bastard-bread.jpg
     image_position: left
     type: image_text
     enabled: true
