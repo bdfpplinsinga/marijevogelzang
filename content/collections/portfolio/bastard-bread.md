@@ -110,7 +110,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: img_7678.jpg
+    image: bastard-bread/img_7678.jpg
   -
     id: _WMCAS3JmkxivxXeBEHH9
     text:
