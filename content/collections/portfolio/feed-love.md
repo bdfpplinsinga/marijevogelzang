@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: feed-love-img_6943.jpg
+    image: portfolio/feed-love/feed-love-img_6943.jpg
   -
     id: 2fWkNtVUt0Xzb9zwKrGlS
     text:
