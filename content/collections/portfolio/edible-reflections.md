@@ -196,7 +196,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: edible-reflections/edible-reflections-2.jpg
+    image: portfolio/edible-reflections/edible-reflections-2.jpg
   -
     id: jrqi96YU7LRnBbsit5e4A
     text:

@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: eat-shit/eat-shit.jpg
+    image: portfolio/eat-shit/eat-shit.jpg
   -
     id: IvbrovS3oHP4h18rvwKiy
     text:
