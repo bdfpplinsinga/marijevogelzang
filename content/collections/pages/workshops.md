@@ -137,7 +137,7 @@ page_builder:
           -
             type: text
             text: 'Omdat je de ruimte voelt ademen met ideeën, en jij daar deel van bent.'
-    image: marijevogelzang(64).jpg
+    image: playground/marijevogelzang(64).jpg
     image_position: right
     type: image_text
     enabled: true
