@@ -94,7 +94,7 @@ page_builder:
   -
     id: RPI2g2GHr1KIEw3KdK4rD
     heading_type: h2
-    image: faked-meat-biccio-1.jpg
+    image: faked-meat/faked-meat-biccio-1.jpg
     align_content: left
     link:
       link_type: entry
