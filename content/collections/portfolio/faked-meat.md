@@ -163,7 +163,7 @@ page_builder:
     aspect_ratio: none
     type: image
     enabled: true
-    image: faked-meat-herbast-poster.jpg
+    image: portfolio/faked-meat/faked-meat-herbast-poster.jpg
   -
     id: I-OAOIrJMgbu4odcAiwft
     text:
