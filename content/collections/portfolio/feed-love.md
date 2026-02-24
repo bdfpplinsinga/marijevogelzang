@@ -83,7 +83,7 @@ page_builder:
           -
             type: text
             text: 'The set up is simple; Half of the participants feed the other half food and simultaneously tell about their childhood memories around this specific kind of food. As you can see the ‘feedee’ can’t see who’s feeding him to create a kind of anonymous atmosphere. It is touching to see how quickly complete strangers get very intimate, caring about feeding each-other gently and how they feel free to tell the most personal stories.'
-    image: img_6942.jpg
+    image: portfolio/feed-love/img_6942.jpg
     image_position: left
     type: image_text
     enabled: true
