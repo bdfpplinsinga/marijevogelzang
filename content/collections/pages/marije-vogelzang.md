@@ -40,7 +40,7 @@ page_builder:
           -
             type: text
             text: 'Ik werk sinds 1999 als ontwerper met eten. ‘Er zijn al zo veel tafels, stoelen en vazen’, dacht ik, toen ik eind jaren 90 aan de Design Academy in Eindhoven studeerde. Zou het niet veel interessanter zijn om me te richten op een materiaal en en onderwerp wat vergankelijk is? Iets wat je niet alleen kunt zien, maar wat je met al je zintuigen kunt ervaren en wat uiteindelijk in je lijf en daarna het toilet terecht komt. Eigenlijk ontwerp ik poep. En daar ben ik heel blij mee.Tussen 2004 en 2011 heb ik twee experimentele restautrants gehad in Rotterdam en Amsterdam, genaamd Proef.Daarnaast en daarna ben ik altijd aan mijn ontwerpen blijven werken, voor musea bijvoorbeeld. Mijn werk is de hele wereld over gereisd. Van het Toyo Metropolitan art museum, tot het Cooper Hewitt Smithsonian in New York.'
-    image: sharing_lunch_2_24.kenjimasunaga.jpg
+    image: sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
     image_position: left
     type: image_text
     enabled: true
