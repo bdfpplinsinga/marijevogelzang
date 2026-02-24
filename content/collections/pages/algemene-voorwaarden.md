@@ -7,7 +7,7 @@ updated_at: 1749128193
 page_builder:
   -
     id: mbdjrjk4
-    image: logokleur.jpg
+    image: playground/logokleur.jpg
     aspect_ratio: none
     type: image
     enabled: true
