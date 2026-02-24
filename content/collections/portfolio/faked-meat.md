@@ -71,7 +71,7 @@ page_builder:
     aspect_ratio: none
     type: image
     enabled: true
-    image: faked-meat-sapicu-poster.jpg
+    image: portfolio/faked-meat/faked-meat-sapicu-poster.jpg
   -
     id: VmcBtDKmTQ59Oez_E-sto
     heading_type: h2
