@@ -153,7 +153,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: eat-love-budapest-4.jpg
+    image: eat-love-budapest/eat-love-budapest-4.jpg
   -
     id: 0OcSfdy0tOD8fenYIwXS5
     text:
