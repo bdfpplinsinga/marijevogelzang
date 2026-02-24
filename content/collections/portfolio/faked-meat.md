@@ -128,7 +128,7 @@ page_builder:
     enabled: true
   -
     id: fn9XjAwtdLAno_nhUF3Nm
-    image: faked-meat-ponti-poster.jpg
+    image: portfolio/faked-meat/faked-meat-ponti-poster.jpg
     aspect_ratio: none
     type: image
     enabled: true
