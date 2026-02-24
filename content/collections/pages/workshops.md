@@ -21,7 +21,7 @@ page_builder:
       Voor iedereen die zin heeft om met eten te spelen — en er wijzer van te worden
 
       De 4-daagse food design retraites en online cursussen worden in het Engels gegeven.
-    image: img_8758.jpeg
+    image: playground/img_8758.jpeg
     type: hero
     enabled: true
     overlap: true
