@@ -89,7 +89,7 @@ page_builder:
     enabled: true
   -
     id: JOWnegOj1LjGDeoAr6-Bl
-    image: img_6775.jpg
+    image: portfolio/feed-love/img_6775.jpg
     aspect_ratio: 2
     type: image
     enabled: true
