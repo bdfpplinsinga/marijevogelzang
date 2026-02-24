@@ -133,7 +133,7 @@ page_builder:
     aspect_ratio: none
     type: image
     enabled: true
-    image: eat-shit-2.jpg
+    image: eat-shit/eat-shit-2.jpg
   -
     id: rVxKFAobbv4uy8TNYjmd2
     text:
