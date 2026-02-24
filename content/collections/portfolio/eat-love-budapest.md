@@ -69,7 +69,7 @@ page_builder:
           -
             type: text
             text: "Every participant will be served by one Roma woman. She will feed the food that she has personal memories of. She will feed the participant moist food with a spoon, dry things with her hands.\_ Feeding is a very intimate ritual. A rare thing happening in life. Especially when it’s done by a stranger."
-    image: eat-love-budapest-1.jpg
+    image: eat-love-budapest/eat-love-budapest-1.jpg
     image_position: left
     type: image_text
     enabled: true
