@@ -79,7 +79,7 @@ page_builder:
           -
             type: text
             text: 'In Food Design Playground geef ik workshops, retraites, lezingen en inspiratieontbijten.'
-    image: marijevogelzang(5).jpg
+    image: playground/marijevogelzang(5).jpg
     align_content: left
     link:
       link_type: entry
