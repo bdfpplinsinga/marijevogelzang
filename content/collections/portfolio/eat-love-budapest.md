@@ -197,7 +197,7 @@ page_builder:
     enabled: true
   -
     id: HXVDMSu70JqOZ3WDWsOk8
-    image: eat-love-budapest/eat-love-budapest-2.jpg
+    image: portfolio/eat-love-budapest/eat-love-budapest-2.jpg
     aspect_ratio: none
     type: image
     enabled: true
