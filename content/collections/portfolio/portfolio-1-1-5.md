@@ -66,7 +66,7 @@ page_builder:
     enabled: true
   -
     id: nZIRcfF3TH9RwQyAm9Oln
-    image: bits-n-bytes/image-1.jpg
+    image: portfolio/bits-n-bytes/image-1.jpg
     aspect_ratio: none
     type: image
     enabled: true
