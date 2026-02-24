@@ -41,7 +41,7 @@ page_builder:
           -
             type: text
             text: 'In her world, imagination is nourishment — and curiosity is the first ingredient.'
-    image: sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
+    image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
     image_position: left
     type: image_text
     enabled: true
