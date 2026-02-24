@@ -135,7 +135,7 @@ page_builder:
   -
     id: HLubTQ0nc6fgPuRzPgWou
     heading_type: h2
-    image: faked-meat-ponti.jpg
+    image: portfolio/faked-meat/faked-meat-ponti.jpg
     image_position: left
     type: image_text
     enabled: true
