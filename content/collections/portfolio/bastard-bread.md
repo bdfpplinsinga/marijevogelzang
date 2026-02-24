@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: bastard-bread/img_7508.jpg
+    image: portfolio/bastard-bread/img_7508.jpg
   -
     id: bxyoV9-VX-0E-CUK9pAS7
     text:

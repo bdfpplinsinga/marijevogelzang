@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: bits-n-bytes/bits-n-bytes-1.jpg
+    image: portfolio/bits-n-bytes/bits-n-bytes-1.jpg
   -
     id: Fow4yzZDKIjzHzi7k_JeF
     text:
