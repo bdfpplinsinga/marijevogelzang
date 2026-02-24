@@ -16,7 +16,7 @@ page_builder:
     type: hero
     enabled: true
     text: 'How to make people experience migration through food?'
-    image: a-couple-of-little-things.jpg
+    image: a-couple-of-litlle-things/a-couple-of-little-things.jpg
   -
     id: tstPxEhH900CR6hfGqNdR
     text:
