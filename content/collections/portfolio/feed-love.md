@@ -121,7 +121,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: img_6926.jpg
+    image: portfolio/feed-love/img_6926.jpg
   -
     id: VSaLmENuhoLIU54G20CpI
     text:
