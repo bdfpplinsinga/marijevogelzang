@@ -111,7 +111,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
-    image: eat-shit/eat-shit-3.jpg
+    image: portfolio/eat-shit/eat-shit-3.jpg
   -
     id: WxRuyJSx29KHrNIKsT1Ci
     text:
