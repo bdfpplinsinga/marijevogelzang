@@ -122,7 +122,7 @@ page_builder:
             text: 'Sonja Stummerer and Martin Hablesreiter, Honey and Bunny productions'
   -
     id: DzGXri6Wc5icJijx75p54
-    image: faked-meat-biccio-poster.jpg
+    image: portfolio/faked-meat/faked-meat-biccio-poster.jpg
     aspect_ratio: none
     type: image
     enabled: true
