@@ -33,7 +33,7 @@ page_builder:
     enabled: true
   -
     id: mc5v1ftu
-    image: marijevogelzang(53).jpg
+    image: playground/marijevogelzang(53).jpg
     aspect_ratio: none
     type: image
     enabled: true
