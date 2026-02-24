@@ -82,7 +82,7 @@ page_builder:
           -
             type: text
             text: 'People who choose to not eat meat are doing something good for the world. They should have the feeling they are choosing the superior option. When the comparison remains between meat and alternative, in most cases, meat wins. What if we can create a new option that still fulfils its function as a meat replacement, but that starts a new narrative that, when compared to the narrative of the original (industrialised meat production) creates a more pleasant choice.'
-    image: faked-meat-sapicu.jpg
+    image: portfolio/faked-meat/faked-meat-sapicu.jpg
     image_position: left
     type: image_text
     enabled: true
