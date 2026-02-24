@@ -60,7 +60,7 @@ page_builder:
           -
             type: text
             text: 'At the start of the dinner, guests were requested to hand in their phones to keep the experience no-tech. Still communication with others was highly supported by all the other guests at the table. The plates, filled with ball-shaped food on top of the rolling candy balls, were standing on disks. The disks all carried a clip to hold cards. Every guest had a stack of cards and a pen next to their plate so they could write a message to other guests at the table. All guests had to help push the messages across from one to the other.'
-    image: image-8.jpg
+    image: portfolio/faked-meat/image-8.jpg
     image_position: left
     type: image_text
     enabled: true
