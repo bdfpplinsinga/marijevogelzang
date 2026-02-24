@@ -26,7 +26,7 @@ page_builder:
           -
             type: text
             text: 'We hebben een aantal prachtige gerestaureerde stijlkamers in Neo renaissance stijl uit 1883. Deze kamers zijn met elkaar verbonden door rijk versierde schuifdeuren waardoor er van twee kamers één gemaakt kan worden. Eerst alle saaie dingen bespreken en daarna in de kamer er naast lekker lunchen? Schuif de deuren open en onthul een tafel vol lekker eten.Deze ruimtes zijn perfect voor een intiem dinertje met je liefste familie, een officiële vergadering, een creatieve heisessie of om een cursus familieopstellingen te doen. Wat je ook wil, tot 40 personen voel je je hier absoluut thuis.'
-    image: marijevogelzang(17).jpg
+    image: playground/marijevogelzang(17).jpg
     align_content: left
     type: streamer
     enabled: true
