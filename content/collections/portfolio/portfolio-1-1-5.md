@@ -92,7 +92,7 @@ page_builder:
               -
                 type: italic
             text: 'Jamie Korsting, guest'
-    image: image-6.jpg
+    image: bits-n-bytes/image-6.jpg
     align_content: left
     link:
       link_type: entry
