@@ -50,7 +50,7 @@ page_builder:
           -
             type: text
             text: "Daarnaast hebben we een betoverend mooie, lichte zaal uit de jaren 20 met dakramen voor extra licht. Een heerlijke plek voor wat grotere bijeenkomsten, stille disco's, proeverijen en presentaties. Ook vinden hier de pop-up diners, food-book-clubs en workshops plaats. Zoek je een plek voor je baanbrekende conferentie, voor inspiratiesessies die je in je buik voelt, of voor de jaarbijeenkomst van het jaar, laat je hier dan omringen door de sfeer van een prachtig monument, aangevuld met food design inspiratie voor een event van internationale allure."
-    image: marijevogelzang(56).jpg
+    image: playground/marijevogelzang(56).jpg
     image_position: left
     type: image_text
     enabled: true
