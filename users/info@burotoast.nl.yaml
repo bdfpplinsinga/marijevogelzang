@@ -45,6 +45,7 @@ preferences:
   assets:
     assets:
       per_page: 100
+      mode: grid
   forms:
     newsletter:
       columns:
