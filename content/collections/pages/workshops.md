@@ -215,7 +215,7 @@ page_builder:
           -
             type: text
             text: 'Niet alleen dat je in pyjama kunt leren. Maar dat je iemands koelkast in Buenos Aires leert kennen. Dat je ontdekt hoe iemand in Tokio betekenis geeft aan rijst. Dat je via het scherm voelt hoe een idee ergens anders ter wereld óók in jou begint te gloeien.'
-    image: volumes.-2017.-img.-111.jpeg
+    image: volumes/volumes.-2017.-img.-111.jpeg
     image_position: left
     type: image_text
     enabled: true
