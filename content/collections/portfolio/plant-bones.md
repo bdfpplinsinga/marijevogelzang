@@ -6,7 +6,7 @@ title: 'Plant Bones'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772039886
+updated_at: 1772040153
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/plant-bones/plantbones4.jpg
   -
     id: HadJI5Reqw0dlmtJlP4F5
     text:
@@ -66,6 +67,25 @@ page_builder:
             type: text
             text: 'When we look back to the past we can see that some of the tools we use and the customs we have today were absolutely unpredictable in the past. People did not expect to drive cars, use smartphones, get women to vote or eat only filets of chicken.'
     type: text
+    enabled: true
+  -
+    id: EhyIJWnZ485Y783g32Mae
+    images:
+      - portfolio/plant-bones/plantbones1.jpg
+      - portfolio/plant-bones/plantbones2.jpg
+      - portfolio/plant-bones/plantbones5.jpg
+      - portfolio/plant-bones/plantbones6.jpg
+      - portfolio/plant-bones/plantbones7.jpg
+      - portfolio/plant-bones/plantbones8.jpg
+    columns: 3
+    aspect_ratio: 3
+    type: image_gallery
+    enabled: true
+  -
+    id: YUeCHo8ITuaR-wd3J__rN
+    image: portfolio/plant-bones/plantbones4.jpg
+    aspect_ratio: none
+    type: image
     enabled: true
   -
     id: tFWa8lqqY5hyexRP5jiNZ
@@ -156,6 +176,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: portfolio/plant-bones/plantbones5.jpg
   -
     id: p1MtnPyguFQ126mx3JHH_
     video: 'https://www.youtube.com/watch?v=3eLXdmtXaSE'
