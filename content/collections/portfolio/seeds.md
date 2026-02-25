@@ -6,7 +6,7 @@ title: Seeds
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772040769
+updated_at: 1772041292
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/seeds/caesarstone_ids2019_0275_m1.jpg
   -
     id: HadJI5Reqw0dlmtJlP4F5
     text:
@@ -39,28 +40,9 @@ page_builder:
           -
             type: text
             text: 'Caesarstone is a durable high quality material made of 93% quartz. It is mostly used for countertops in kitchens. Displays with Caesarstone are generally stylish but also clean, cold and impersonal while what happens in a kitchen is anything but clean.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Facebook '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Twitter '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'sharethis '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Share with friends'
+      -
+        type: paragraph
+        content:
           -
             type: hardBreak
           -
@@ -106,6 +88,12 @@ page_builder:
     type: text
     enabled: true
   -
+    id: xo_2rurMOikdELSMIEQNE
+    image: portfolio/seeds/caesarstone_ids2019_0462.jpg
+    aspect_ratio: none
+    type: image
+    enabled: true
+  -
     id: Ymaltio9pLUEhWbWsDWdC
     heading_type: h2
     text:
@@ -133,6 +121,23 @@ page_builder:
       target_blank: false
       button_type: button
     type: streamer
+    enabled: true
+    image: portfolio/seeds/caesarstone_ids2019_0197_m1.jpg
+  -
+    id: 6ZtsnJ6HLyifzK6EZwfhG
+    images:
+      - portfolio/seeds/caesarstone_ids2019_0391.jpg
+      - portfolio/seeds/caesarstone_ids2019_0416.jpg
+      - portfolio/seeds/caesarstone_ids2019_0430.jpg
+      - portfolio/seeds/caesarstone_ids2019_0555_m1.jpg
+      - portfolio/seeds/caesarstone_ids2019_0532.jpg
+      - portfolio/seeds/caesarstone_ids2019_0403.jpg
+      - portfolio/seeds/caesarstone_ids2019_0446_m1.jpg
+      - portfolio/seeds/caesarstone_ids2019_0355_m1.jpg
+      - portfolio/seeds/caesarstone_ids2019_0485.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
     enabled: true
   -
     id: seGCRPqhEYqkTFQVkm4TR
@@ -179,22 +184,6 @@ page_builder:
             type: text
             text: 'Elizabeth Margles: When we thought about what our theme was for 2019, we reflected on both design trends and socio-economic trends. Clearly, food production, sourcing, sharing and choice were all internationally topical. Knowing we wanted to demonstrate the possibilities of Caesarstone in this context, there really was only one designer we wanted to work with who would appreciate food AND design, as well as the Design of Food. Marije was able to bring all our dreams to life with an incredibly interactive and thoughtful installation, using Caesarstone as the conduit for a food journey from seed to food. It was our most popular installation, and in fact had people returning to the journey multiple times – and not just for the food!'
     type: text
-    enabled: true
-  -
-    id: 6ZtsnJ6HLyifzK6EZwfhG
-    images:
-      - portfolio/seeds/caesarstone_ids2019_0197_m1.jpg
-      - portfolio/seeds/caesarstone_ids2019_0391.jpg
-      - portfolio/seeds/caesarstone_ids2019_0403.jpg
-      - portfolio/seeds/caesarstone_ids2019_0416.jpg
-      - portfolio/seeds/caesarstone_ids2019_0430.jpg
-      - portfolio/seeds/caesarstone_ids2019_0446_m1.jpg
-      - portfolio/seeds/caesarstone_ids2019_0485.jpg
-      - portfolio/seeds/caesarstone_ids2019_0355_m1.jpg
-      - portfolio/seeds/caesarstone_ids2019_0555_m1.jpg
-    columns: 3
-    aspect_ratio: 4
-    type: image_gallery
     enabled: true
   -
     id: cDGziylpd6HnGl7syW5vg
