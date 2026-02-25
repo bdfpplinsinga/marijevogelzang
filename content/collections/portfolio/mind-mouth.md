@@ -6,7 +6,7 @@ title: 'Mind Mouth'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772027854
+updated_at: 1772028029
 page_builder:
   -
     id: mljbmkzt
@@ -141,27 +141,6 @@ page_builder:
     aspect_ratio: 4
     type: image_gallery
     enabled: true
-  -
-    id: 1bIzVoNFnNfHtZWl307ID
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In our daily life, we easily forget about the subtle experiences our senses can give us. MIND MOUTH reconnects you to what is really to most powerful thing you’ve got, which is the combination of your senses together with your imagination.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'The point of life, is that there is no point. And to understand this, you need to talk to your tongue.'
-    image: portfolio/mind-mouth/logo-mind-mouth.jpg
-    image_position: left
-    type: image_text
-    enabled: false
   -
     id: ElCAE-9O3O_RYp75xjvNY
     text:
