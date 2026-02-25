@@ -223,7 +223,7 @@ page_builder:
               -
                 type: italic
             text: 'Ann-Christin Bertrand, Curator of C/O Berlin'
-    image: _22a4348.jpg
+    image: portfolio/food-massage-salon/_22a4348.jpg
     align_content: right
     link:
       link_type: entry
