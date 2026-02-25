@@ -6,7 +6,7 @@ title: 'Eat Shit'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771422499
+updated_at: 1772017106
 page_builder:
   -
     id: mljbmkzt
@@ -113,20 +113,23 @@ page_builder:
     enabled: true
     image: portfolio/eat-shit/eat-shit-3.jpg
   -
-    id: WxRuyJSx29KHrNIKsT1Ci
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'INSERT  GALLERY'
-    type: text
+    id: q5zbNIVatNfwHhjvd_8Sr
+    images:
+      - portfolio/eat-shit/dae_milaan_140415_4701-1100x734.jpg
+      - portfolio/eat-shit/dae_milaan_140415_4848-1100x734.jpg
+      - portfolio/eat-shit/dae_milaan_160415_5478-1100x734.jpg
+      - portfolio/eat-shit/dae_milaan_160415_5494-1100x734.jpg
+      - portfolio/eat-shit/dae_milaan_160415_5863-1100x734.jpg
+      - portfolio/eat-shit/design-academy-eindhoven-milan-2015-51.jpg
+      - portfolio/eat-shit/img_8362.jpg
+      - portfolio/eat-shit/img_8374.jpg
+      - portfolio/eat-shit/img_8417.jpg
+      - portfolio/eat-shit/img_8430.jpg
+      - portfolio/eat-shit/img_8444.jpg
+      - portfolio/eat-shit/unnamed.jpg
+    columns: 4
+    aspect_ratio: 4
+    type: image_gallery
     enabled: true
   -
     id: HlY09Isg-ESKkHs2HiUPB
