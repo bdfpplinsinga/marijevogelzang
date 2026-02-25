@@ -85,7 +85,7 @@ page_builder:
     image: playground/marijevogelzang(85).jpg
   -
     id: mbtcvir3
-    image: marijevogelzang(9).jpg
+    image: books/lick-it/marijevogelzang(9).jpg
     aspect_ratio: none
     type: image
     enabled: true
