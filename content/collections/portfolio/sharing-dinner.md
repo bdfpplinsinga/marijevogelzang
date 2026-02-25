@@ -6,7 +6,7 @@ title: 'Sharing Dinner'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772041923
+updated_at: 1772042762
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/sharing-dinner/sharing_lunch28.kenjimasunaga.jpg
   -
     id: a-MyweRwpx85ln1o38lMR
     text:
@@ -59,6 +60,7 @@ page_builder:
     aspect_ratio: none
     type: image
     enabled: true
+    image: portfolio/sharing-dinner/sharing_lunch39.kenjimasunaga.jpg
   -
     id: 4bE3rZUD9GNvqfnxzzct5
     type: text
@@ -95,6 +97,21 @@ page_builder:
           -
             type: text
             text: 'At first I was nervous thinking people wouldn’t want to sit in this structure but the moment guests decided to sit down and put their heads through the tablecloth it was as if their masks were falling off. They were opening up and acting very social and playful.'
+  -
+    id: 1T_A2eYwlwH9mZQ_OB0UZ
+    images:
+      - portfolio/sharing-dinner/sharing_lunch24.kenjimasunaga.jpg
+      - portfolio/sharing-dinner/sharing_lunch31.kenjimasunaga.jpg
+    columns: 2
+    aspect_ratio: none
+    type: image_gallery
+    enabled: true
+  -
+    id: EjcEuzH55Gx07XPRqp3qr
+    image: portfolio/sharing-dinner/sharing_lunch5.kenjimasunaga.jpg
+    aspect_ratio: none
+    type: image
+    enabled: true
   -
     id: 2RrrnbAp7z0Mzfsg5jjLJ
     text:
