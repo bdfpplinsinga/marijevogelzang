@@ -2,8 +2,8 @@
 id: 81678c1a-8185-4602-b093-f25275f39e7d
 blueprint: page
 title: Portfolio
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1770877445
+updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
+updated_at: 1772010703
 page_builder:
   -
     id: mahxt1ij

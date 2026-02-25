@@ -1,12 +1,9 @@
 ---
 id: 5eedacd5-bde8-4c3a-bd88-5dc87ad1b6e9
-published: false
 blueprint: portfolio
 title: 'A Couple of Little Things'
-form_title: 'Request a quote'
-form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771421160
+updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
+updated_at: 1772013045
 page_builder:
   -
     id: mljbmkzt
@@ -134,6 +131,18 @@ page_builder:
             text: 'INSERT GALLERY'
     type: text
     enabled: true
+  -
+    id: QMSkWSEIEXUQL2giBXRLP
+    images:
+      - img_6075-2.jpg
+      - _22a4348.jpg
+      - _22a4355.jpg
+      - _22a4498.jpg
+    gallery_style: grid
+    type: image_gallery
+    enabled: true
+    columns: 4
+    aspect_ratio: 4
   -
     id: _hZotKrBV1JZDDe1F7S3w
     text:
