@@ -5,7 +5,7 @@ title: 'Sharing Dinner'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772042800
+updated_at: 1772043051
 page_builder:
   -
     id: mljbmkzt
@@ -108,11 +108,22 @@ page_builder:
     id: 2RrrnbAp7z0Mzfsg5jjLJ
     text:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'SHARING DINNER'
+      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Commissioned by'
+            marks:
+              -
+                type: bold
+            text: 'Commissioned by:'
           -
             type: hardBreak
           -
@@ -129,12 +140,18 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'and reproduced'
+            marks:
+              -
+                type: bold
+            text: 'Reproduced at:'
           -
             type: hardBreak
+            marks:
+              -
+                type: bold
           -
             type: text
-            text: 'at Axis gallery in Tokyo'
+            text: 'Axis gallery in Tokyo'
           -
             type: hardBreak
           -
@@ -146,9 +163,15 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'Pictures by'
+            marks:
+              -
+                type: bold
+            text: 'Pictures by:'
           -
             type: hardBreak
+            marks:
+              -
+                type: bold
           -
             type: text
             text: 'Kenji Masunagi'
