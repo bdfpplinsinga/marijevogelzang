@@ -109,7 +109,7 @@ page_builder:
       - portfolio/simon/schets20.jpg
       - portfolio/simon/schets21.jpg
       - portfolio/simon/simonvoor.jpg
-      - portfolio/simon/sticker.jpg
+      - portfolio/simon/dsc_3113.jpg
       - portfolio/simon/dsc_3214.jpg
       - portfolio/simon/dsc_3132.jpg
     aspect_ratio: none
