@@ -6,7 +6,7 @@ title: 'Pasta Sauna'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772034216
+updated_at: 1772034438
 page_builder:
   -
     id: mljbmkzt
@@ -159,23 +159,26 @@ page_builder:
   -
     id: fm-ddhmP4t69qdp0ayYxz
     images:
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(19)-1772033616.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(20)-1772033624.jpg
       - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(21)-1772033632.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(22)-1772033638.jpg
       - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(23)-1772033642.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(25)-1772033647.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(27)-1772033651.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(28)-1772033654.jpg
       - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(44).jpg
       - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(37)-1772033699.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(1)-1772033704.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(37)-1772034178.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(29)-1772034189.jpg
-      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(1)-1772034201.jpg
-    aspect_ratio: none
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(6).jpg
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(46)-1772033524.jpg
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(45)-1772033517.jpg
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(9).jpg
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(34).jpg
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(3).jpg
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(17)-1772033601.jpg
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(10).jpg
+      - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(11).jpg
+      - portfolio/pasta-sauna/img_6379.jpg
+      - portfolio/pasta-sauna/img_6348.jpg
+      - portfolio/pasta-sauna/img_6462.jpg
+    aspect_ratio: 4
     type: image_gallery
     enabled: true
+    columns: 4
   -
     id: _nTAl0Q3yfxV7DnwhgtLw
     text:
