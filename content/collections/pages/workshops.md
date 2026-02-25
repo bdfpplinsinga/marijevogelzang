@@ -77,7 +77,6 @@ page_builder:
           -
             type: text
             text: ' iets voor jou. In één dag word je ondergedompeld in prikkelende oefeningen, proefjes en denkverschuivingen. Je gaat naar huis met een frisse blik op eten — en op jezelf.'
-    image: dscf3001-(2).jpg
     image_position: left
     type: image_text
     enabled: true
