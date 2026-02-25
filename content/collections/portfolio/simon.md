@@ -6,7 +6,7 @@ title: Simon
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772042957
+updated_at: 1772042996
 page_builder:
   -
     id: mljbmkzt
@@ -153,11 +153,22 @@ page_builder:
     id: aefIyDk9j17_HpN87SQhK
     text:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: SIMON
+      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Simon was made for'
+            marks:
+              -
+                type: bold
+            text: 'Made for:'
           -
             type: hardBreak
           -
@@ -179,7 +190,13 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'the ‘Scheffer commission‘'
+            text: 'the '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: '‘Scheffer commission‘'
           -
             type: hardBreak
           -
