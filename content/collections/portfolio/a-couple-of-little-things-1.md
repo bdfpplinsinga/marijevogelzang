@@ -2,8 +2,8 @@
 id: 5eedacd5-bde8-4c3a-bd88-5dc87ad1b6e9
 blueprint: portfolio
 title: 'A Couple of Little Things'
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1772013045
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1772015173
 page_builder:
   -
     id: mljbmkzt
@@ -116,28 +116,11 @@ page_builder:
     type: image_text
     enabled: true
   -
-    id: W38givweFFUmgeaDruZbW
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'INSERT GALLERY'
-    type: text
-    enabled: true
-  -
     id: QMSkWSEIEXUQL2giBXRLP
     images:
-      - portraits/img_6075-2.jpg
-      - portfolio/food-massage-salon/_22a4348.jpg
-      - portfolio/food-massage-salon/_22a4355.jpg
-      - portfolio/food-massage-salon/_22a4498.jpg
+      - a-couple-of-little-things1.jpg
+      - performanssi_lampa21.jpg
+      - performanssi_lampa02.jpg
     gallery_style: grid
     type: image_gallery
     enabled: true
