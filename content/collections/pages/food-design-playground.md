@@ -82,7 +82,7 @@ page_builder:
     enabled: true
   -
     id: mc10bpgx
-    image: marijevogelzang(43).jpg
+    image: books/lick-it/marijevogelzang(43).jpg
     aspect_ratio: none
     type: image
     enabled: true
