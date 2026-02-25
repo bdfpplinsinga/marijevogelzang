@@ -118,7 +118,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: _22a4498.jpg
+    image: portfolio/food-massage-salon/_22a4498.jpg
   -
     id: lefrVWnUtlOGd_idmFpai
     video: 'https://www.youtube.com/watch?v=S9qaZWZq-DY'
