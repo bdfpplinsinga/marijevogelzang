@@ -169,7 +169,7 @@ page_builder:
           -
             type: text
             text: 'Visitors reaction ranged from highly amused and surprised to deeply touched and emotional feeling re-connected to their own senses in a way never felt before.'
-    image: _22a4545.jpg
+    image: portfolio/food-massage-salon/_22a4545.jpg
     image_position: left
     type: image_text
     enabled: true
