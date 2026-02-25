@@ -6,7 +6,7 @@ title: 'Sharing Dinner'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772042762
+updated_at: 1772042790
 page_builder:
   -
     id: mljbmkzt
@@ -72,28 +72,21 @@ page_builder:
           -
             type: text
             text: 'I used a table with a tablecloth, but instead of putting the cloth on the table, I made slits in it and suspended it in the air, so that the participants sat with their heads inside the space and their bodies outside.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'This physically connects each person: If I pull on the cloth here, you can feel it there. Covering everyone’s clothing also created a sense of equality. Initially I was concerned that people would reject the experience, particularly because the participants didn’t know each other beforehand, but it actually increased their desire to relate to one another, and brought about a feeling of being in something together.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The food was also part of the project. One person was served a slice of melon on a plate that was cut in two; the person opposite her was given dried ham on a similar plate. A classical Italian combination. It’s such a classic that, without even being told to do so, the participants naturally began to share their food. We recreated this experience in Tokyo in 2008 (You can see the pictures here). People were behaving very formal when they entered the lunch, but once they were inside the tablecloth they became as playful as children. Because I didn’t want to close people up in my design, everyone was given scissors and could cut themselves free at any time. Allowing participants to remove themselves from the design actually includes them in it, in a different way.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'At first I was nervous thinking people wouldn’t want to sit in this structure but the moment guests decided to sit down and put their heads through the tablecloth it was as if their masks were falling off. They were opening up and acting very social and playful.'
