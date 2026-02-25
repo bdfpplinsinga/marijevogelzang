@@ -6,7 +6,7 @@ title: 'Grazing City Scapes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772008412
+updated_at: 1772008550
 page_builder:
   -
     id: mljbmkzt
@@ -74,7 +74,8 @@ page_builder:
     type: video_embed
     enabled: true
   -
-    id: 0Axl6wEj1yfj3FQJlvfSv
+    id: '-ikKE19Mm9LoVFXeT6Py5'
+    heading_type: h2
     text:
       -
         type: paragraph
@@ -101,7 +102,9 @@ page_builder:
           -
             type: text
             text: 'The setting calls for zooming in. It feels like looking at a maquette. You enter a new world. Smells, sights and flavours mix in a surreal glass setting. Light is fixed under the table and shines trough the acrylic cuts so it looks like a vibrant city at night.'
-    type: text
+    image: ape_0753.jpg
+    image_position: right
+    type: image_text
     enabled: true
   -
     id: 9rXO7EQcxY8yEoXdubEug
@@ -156,22 +159,6 @@ page_builder:
           -
             type: text
             text: 'This project was made for the professional chefs-organisation in HongKong. A sky-scraper city where it’s not easy to feel connection to the source of food. Focussing on the senses within the urban context reframes and ritualises the eating experience for a closer connection with their daily material: food.'
-    type: text
-    enabled: true
-  -
-    id: xcrdUQuKZJLfrbvNbxaDR
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'INSERT GALLERY'
     type: text
     enabled: true
   -
