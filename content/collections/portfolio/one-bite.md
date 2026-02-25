@@ -1,12 +1,11 @@
 ---
 id: 8ac9a917-52a0-41a5-8e4c-a133e4558fab
-published: false
 blueprint: portfolio
 title: 'One Bite'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772029148
+updated_at: 1772029163
 page_builder:
   -
     id: mljbmkzt
