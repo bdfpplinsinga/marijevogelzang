@@ -6,7 +6,7 @@ title: 'Pasta Sauna'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772029282
+updated_at: 1772029474
 page_builder:
   -
     id: mljbmkzt
@@ -45,26 +45,6 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'Facebook '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Twitter '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'sharethis '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Share with friends'
-          -
-            type: hardBreak
-          -
-            type: text
             text: 'I created Pasta Sauna initially for Performa ’09 New York and made a new and improved version for Dordtyart in April 2013. After that the sauna has traveled around.'
           -
             type: hardBreak
@@ -80,24 +60,20 @@ page_builder:
           -
             type: text
             text: 'Filippo Tommaso Emilio Marinetti was the founder of the futurist movement. In 1932 he produced a manifesto of cookery titled La Cucina Futurista literally meaning ‘The Futurist Kitchen’.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The cookbook reflected the Futurists fascination with technology, speed and the ‘new’ and condemned the consuming of pasta claiming it was deceptive in its nutritional content and likely to produce slow and placid characteristics in those who ate it.'
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: hardBreak
           -
             type: text
             text: '‘Abolish pasta, it is an absurd gastronomic religion!’'
-          -
-            type: hardBreak
           -
             type: hardBreak
           -
@@ -117,14 +93,15 @@ page_builder:
           -
             type: text
             text: 'The Futurists were also known for their ‘gesamtkunstwerk’, artworks that combined various art-forms into one work, such as poetry, music, cooking, performance and sculpture. '
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+    type: text
+    enabled: true
+  -
+    id: LUahraZrs3bEf_ybdBMC7
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'Marije is a true pioneer in the world of food design and has lead the global conversation around the ways design can shape what and how we eat in the years to come. Her lens on the world of food will surprise and delight—ultimately her values of intimacy, pleasure, and a whole systems approach to thinking about food have deeply impacted a generation of designers.'
@@ -134,14 +111,25 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'LinYee Yuan'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Mold Magazine'
-          -
-            type: hardBreak
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'LinYee Yuan, Mold Magazine'
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: lxrFEikVDcRuRz3ijeTE-
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The Pasta Sauna is a space you can enter and enjoy a bowl of freshly cooked pasta, while the boiling water steams your surroundings, creating a sauna.'
@@ -207,12 +195,7 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: DordtYart
-          -
-            type: hardBreak
-          -
-            type: text
-            text: Dordrecht
+            text: 'DordtYart, Dordrecht'
           -
             type: hardBreak
           -
