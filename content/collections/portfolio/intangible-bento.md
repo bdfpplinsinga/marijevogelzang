@@ -5,8 +5,8 @@ blueprint: portfolio
 title: 'Intangible Bento'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771017019
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1772010537
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/intangible-bento/img_6761.jpg
   -
     id: 4lhKD5kRbqD__9fXnd3_u
     text:
