@@ -6,7 +6,7 @@ title: 'Intangible Bento'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772012345
+updated_at: 1772013406
 page_builder:
   -
     id: mljbmkzt
@@ -67,7 +67,23 @@ page_builder:
     type: text
     enabled: true
   -
-    id: QqyefOmPDTxFqMuD4PQOr
+    id: 5VlL1VdLsv54z98mcxwri
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'INSERT GALLERY'
+    type: text
+    enabled: true
+  -
+    id: YJut5k5OgJ6FNbAT8OmD0
     heading_type: h2
     text:
       -
@@ -75,7 +91,41 @@ page_builder:
         content:
           -
             type: text
-            text: '"Marije Vogelzang plants special seeds inside our hearts; through Kawaii / beautiful / fun / a wonderful sense of humor and a unique point of view."'
+            text: "Visitors are invited to come down and enter the bento box. Inside the box they find a soul: The spirit of Bento. The spirit of Bento is a tiny character that has been living inside bento boxes for ages- since the first bento boxes were made. He talkes to\_ the visitors trough a ‘spirit-phone’ and guides them trough the installation."
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The installation is made of segments covered with thousands of ribbons. visitors walk trough the ribbons and discover places and objects and stories inside. The whole installation functions like a maze. Visitors feel the sensation of the ribbons touching their skins and hear the spirit talk to them about the intangible part of bento trough various objects. Visitors can leave their memories behind in a monument for memories of bento’s that have long been eaten. They can leave a sticker, a trace of microbes behind and connect physically trough the Spirit of bento symbolically visualising the human connection of all the unknown people that have grown, harvested, packed and prepared your food.'
+    image: portfolio/intangible-bento/yonezu_dsc00800.jpg
+    image_position: right
+    type: image_text
+    enabled: true
+  -
+    id: 1qK9vsK0GAOvs0aCfgG6X
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '"Marije Vogelzang plants special seeds inside our hearts; through kawaii / beautiful / fun / a wonderful sense of humor and a unique point of view. '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: "\_In our collaboration for the “Bento exhibition”, she let the “Spirit of Bento” guide the visitors into her art works."
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'These seeds grow in our hearts in our daily lives and then one day we find out that we have grown new perspectives, and then that”seed” is planted again to the people around us. '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'After getting to know Marije, I truly could understand why the designer/artist is necessary and important for our lives."'
       -
         type: paragraph
         content:
@@ -87,6 +137,7 @@ page_builder:
               -
                 type: italic
             text: 'Yayoi Manabe, project guide'
+    image: portfolio/intangible-bento/0720_168.jpg
     align_content: left
     link:
       link_type: entry
@@ -95,65 +146,30 @@ page_builder:
     type: streamer
     enabled: true
   -
-    id: 9F83FMAGnZg3BRc3CwKJw
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: "Visitors are invited to come down and enter the bento box. Inside the box they find a soul: The spirit of Bento. The spirit of Bento is a tiny character that has been living inside bento boxes for ages- since the first bento boxes were made. He talkes to\_ the visitors trough a ‘spirit-phone’ and guides them trough the installation. The installation is made of segments covered with thousands of ribbons. visitors walk trough the ribbons and discover places and objects and stories inside. The whole installation functions like a maze. Visitors feel the sensation of the ribbons touching their skins and hear the spirit talk to them about the intangible part of bento trough various objects. Visitors can leave their memories behind in a monument for memories of bento’s that have long been eaten. They can leave a sticker, a trace of microbes behind and connect physically trough the Spirit of bento symbolically visualising the human connection of all the unknown people that have grown, harvested, packed and prepared your food."
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Yayoi Manabe:'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: '‘Marije Vogelzang plants special seeds inside our hearts; through Kawaii / beautiful / fun / a wonderful sense of humor and a unique point of view. '
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: "\_In our collaboration for the “Bento exhibition”, she let the “Spirit of Bento” guide the visitors into her art works."
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'These seeds grow in our hearts in our daily lives and then one day we find out that we have grown new perspectives, and then that”seed” is planted again to the people around us. '
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'After getting to know Marije, I truly could understand why the designer/artist is necessary and important for our lives.’'
-    type: text
-    enabled: true
-  -
     id: WyjXkpzAVczD5b9IzazGy
     text:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: 'INTANGIBLE BENTO'
+      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Commissioned by'
+            marks:
+              -
+                type: bold
+            text: 'Commissioned by:'
           -
             type: hardBreak
           -
             type: text
-            text: 'Tokyo metropolitan art museum'
+            text: 'Tokyo Metropolitan Art Museum'
           -
             type: hardBreak
           -
@@ -165,57 +181,55 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'Inside the installation are on display'
-          -
-            type: hardBreak
+            marks:
+              -
+                type: bold
+            text: 'Objects displayed:'
+      -
+        type: paragraph
+        content:
           -
             type: text
+            marks:
+              -
+                type: italic
             text: 'Algae Vases'
           -
-            type: hardBreak
+            type: text
+            text: ' by Studio Klarenbeek & Dros and Atelier Luma (Luma Arles)'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            text: 'by Studio Klarenbeek & Dros and Atelier Luma (Luma Arles)'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: and
-          -
-            type: hardBreak
-          -
-            type: text
+            marks:
+              -
+                type: italic
             text: 'Tempeh Bowls'
           -
-            type: hardBreak
+            type: text
+            text: ' by Mediamatic'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            text: 'by Mediamatic'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: and
-          -
-            type: hardBreak
-          -
-            type: text
+            marks:
+              -
+                type: italic
             text: 'Body Culture'
           -
-            type: hardBreak
-          -
             type: text
-            text: 'by Philipp Kolmann'
+            text: ' by Philipp Kolmann'
           -
             type: hardBreak
           -
             type: hardBreak
           -
             type: text
+            marks:
+              -
+                type: bold
             text: 'My own objects:'
           -
             type: hardBreak
@@ -226,14 +240,17 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'monuments for fish and sculptures of the spirit of bento all made of porcelain.'
+            text: 'Monuments for fish and sculptures of the spirit of bento all made of porcelain.'
           -
             type: hardBreak
           -
             type: hardBreak
           -
             type: text
-            text: 'Scents for the exhibition made by'
+            marks:
+              -
+                type: bold
+            text: 'Scents for the exhibition made by:'
           -
             type: hardBreak
           -
