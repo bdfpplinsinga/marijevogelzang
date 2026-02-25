@@ -6,7 +6,7 @@ title: 'Eat Love Budapest'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771410173
+updated_at: 1772016569
 page_builder:
   -
     id: mljbmkzt
@@ -180,20 +180,17 @@ page_builder:
     type: text
     enabled: true
   -
-    id: V9-Qa15IdQ1ASnJ7NeS6_
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'INSERT GALLERY'
-    type: text
+    id: h4N1l5IHkTT14dsQ-2wqZ
+    images:
+      - portfolio/eat-love-budapest/eat-love-budapest-4.jpg
+      - portfolio/eat-love-budapest/dsc_0080.jpg
+      - portfolio/eat-love-budapest/dsc_0013.jpg
+      - portfolio/eat-love-budapest/dsc_0133.jpg
+      - portfolio/eat-love-budapest/dsc_0086.jpg
+      - portfolio/eat-love-budapest/eat-love-budapest-6.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
     enabled: true
   -
     id: HXVDMSu70JqOZ3WDWsOk8
