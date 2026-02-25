@@ -6,7 +6,7 @@ title: 'Grazing City Scapes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772019227
+updated_at: 1772019242
 page_builder:
   -
     id: mljbmkzt
@@ -137,6 +137,22 @@ page_builder:
     enabled: true
     image: portfolio/grazing-city-scapes/ape_1425.jpg
   -
+    id: jKAq_-qL9PWXNw6Xtz_nm
+    images:
+      - portfolio/grazing-city-scapes/ape_0690.jpg
+      - portfolio/grazing-city-scapes/ape_0924.jpg
+      - portfolio/grazing-city-scapes/ape_0796.jpg
+      - portfolio/grazing-city-scapes/ape_1421.jpg
+      - portfolio/grazing-city-scapes/ape_1059.jpg
+      - portfolio/grazing-city-scapes/ape_0952.jpg
+      - portfolio/grazing-city-scapes/ape_1081.jpg
+      - portfolio/grazing-city-scapes/ape_0787.jpg
+      - portfolio/grazing-city-scapes/ape_1422.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
+    enabled: true
+  -
     id: MRcHQRdaoOXXUnTJKussD
     text:
       -
@@ -160,22 +176,6 @@ page_builder:
             type: text
             text: 'This project was made for the professional chefs-organisation in HongKong. A sky-scraper city where it’s not easy to feel connection to the source of food. Focussing on the senses within the urban context reframes and ritualises the eating experience for a closer connection with their daily material: food.'
     type: text
-    enabled: true
-  -
-    id: jKAq_-qL9PWXNw6Xtz_nm
-    images:
-      - portfolio/grazing-city-scapes/ape_0690.jpg
-      - portfolio/grazing-city-scapes/ape_0924.jpg
-      - portfolio/grazing-city-scapes/ape_0796.jpg
-      - portfolio/grazing-city-scapes/ape_1421.jpg
-      - portfolio/grazing-city-scapes/ape_1059.jpg
-      - portfolio/grazing-city-scapes/ape_0952.jpg
-      - portfolio/grazing-city-scapes/ape_1081.jpg
-      - portfolio/grazing-city-scapes/ape_0787.jpg
-      - portfolio/grazing-city-scapes/ape_1422.jpg
-    columns: 3
-    aspect_ratio: 4
-    type: image_gallery
     enabled: true
   -
     id: q9MY1zR0CnVDmFtvTBOTR
