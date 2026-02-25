@@ -6,7 +6,7 @@ title: Simon
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772043277
+updated_at: 1772043840
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/simon/dsc_3113.jpg
   -
     id: HadJI5Reqw0dlmtJlP4F5
     text:
@@ -66,6 +67,16 @@ page_builder:
           -
             type: text
             text: 'The beautiful characteristic house is breathing the air of a past life that I, in some way, would like to catch and make tangible. When we walk through a collectors house we see beautiful objects but we miss the scents, the movements and sounds of the past. Museum van Gijn is one of those places that actively tries to relive and revive the past through all the senses. It is a wonderful place to visit.'
+    type: text
+    enabled: true
+  -
+    id: lEmvPLMA7oyMSXY-st5C4
+    video: 'https://www.youtube.com/watch?v=x8nvyhWdyZY'
+    type: video_embed
+    enabled: true
+  -
+    id: xNpVyqK1ATLF5CFrym5AZ
+    text:
       -
         type: paragraph
         content:
@@ -94,33 +105,6 @@ page_builder:
     type: text
     enabled: true
   -
-    id: 4VzY7V73pWao93_St0buo
-    images:
-      - portfolio/simon/dsc_3113.jpg
-      - portfolio/simon/dsc_3120.jpg
-      - portfolio/simon/dsc_3136.jpg
-      - portfolio/simon/dsc_3138.jpg
-      - portfolio/simon/dsc_3151.jpg
-      - portfolio/simon/dsc_3156.jpg
-      - portfolio/simon/dsc_3157-(1).jpg
-      - portfolio/simon/dsc_3157.jpg
-      - portfolio/simon/img_1812.jpg
-      - portfolio/simon/img_1814.jpg
-      - portfolio/simon/schets20.jpg
-      - portfolio/simon/schets21.jpg
-      - portfolio/simon/simonvoor.jpg
-      - portfolio/simon/dsc_3113.jpg
-      - portfolio/simon/dsc_3214.jpg
-      - portfolio/simon/dsc_3132.jpg
-    aspect_ratio: none
-    type: image_gallery
-    enabled: true
-  -
-    id: lEmvPLMA7oyMSXY-st5C4
-    video: 'https://www.youtube.com/watch?v=x8nvyhWdyZY'
-    type: video_embed
-    enabled: true
-  -
     id: lsPf_PXtK7hhmNKtTRYNJ
     heading_type: h2
     text:
@@ -147,6 +131,27 @@ page_builder:
       target_blank: false
       button_type: button
     type: streamer
+    enabled: true
+    image: portfolio/simon/dsc_3113.jpg
+  -
+    id: 4VzY7V73pWao93_St0buo
+    images:
+      - portfolio/simon/dsc_3157.jpg
+      - portfolio/simon/dsc_3113.jpg
+      - portfolio/simon/img_1812.jpg
+    aspect_ratio: 4
+    type: image_gallery
+    enabled: true
+    columns: 3
+  -
+    id: NOo53hBqcyngNM7-CTdlo
+    images:
+      - portfolio/simon/sticker.jpg
+      - portfolio/simon/schets21.jpg
+      - portfolio/simon/simonvoor.jpg
+    columns: 3
+    aspect_ratio: 3
+    type: image_gallery
     enabled: true
   -
     id: vees-9LIICxkCVq3Knufd
