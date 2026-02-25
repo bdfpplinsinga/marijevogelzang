@@ -1,12 +1,11 @@
 ---
 id: 2e2ef765-1c67-4e30-8305-e4b238e57426
-published: false
 blueprint: portfolio
 title: 'Eat Shit'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772017106
+updated_at: 1772017115
 page_builder:
   -
     id: mljbmkzt
