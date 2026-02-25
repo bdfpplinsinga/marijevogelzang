@@ -194,7 +194,7 @@ page_builder:
               -
                 type: italic
             text: 'Ana Rita Cameira, curator of Melting, gastronomy summit, Porto'
-    image: _22a4593.jpg
+    image: portfolio/food-massage-salon/_22a4593.jpg
     align_content: left
     link:
       link_type: entry
