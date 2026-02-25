@@ -12,7 +12,7 @@ page_builder:
     text: 'Food Design Playground is een plek waar je anders leert kijken naar iets heel gewoons: eten. In deze monumentale locatie in het centrum van Dordrecht draait het niet om luxe tafels of perfect opgemaakte borden, maar om jouw zintuigen. Hier draait het om wat eten doet — met je lijf, je gedachten, je herinneringen.'
     type: hero
     enabled: true
-    image: streamer.png
+    image: portfolio/intangible-bento/streamer.png
     overlap: false
   -
     id: maw6j9d7
