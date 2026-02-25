@@ -6,7 +6,7 @@ title: 'Mind Mouth'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772017966
+updated_at: 1772027854
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/mind-mouth/mind-mouth-1.jpg
   -
     id: IYWktmvEhn20TOpPmwT4i
     text:
@@ -42,12 +43,8 @@ page_builder:
           -
             type: hardBreak
           -
-            type: hardBreak
-          -
             type: text
             text: 'It involves all your senses, except for your eyes. That doesn’t mean you won’t see anything though.'
-          -
-            type: hardBreak
           -
             type: hardBreak
           -
@@ -84,8 +81,6 @@ page_builder:
           -
             type: hardBreak
           -
-            type: hardBreak
-          -
             type: text
             text: 'Your mouth becomes the stage and your mind starts to fill in the visuals guided by hypnotic cues.'
           -
@@ -95,10 +90,9 @@ page_builder:
           -
             type: text
             text: 'The experience takes 45 minutes. With the use of hypnotherapy techniques and activated imagination you’ll feel as if you’re one with your senses.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'If the whole experience is too long, one could choose to do a fragment of 20 minutes which gives a good impression of the full experience.'
@@ -133,8 +127,43 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: portfolio/mind-mouth/mind-mouth-2.jpg
   -
-    id: NY1k9usG5ebCe9UNqQbJJ
+    id: Oy2cMDcSmFAAFj_zadPyJ
+    images:
+      - portfolio/mind-mouth/mind-mouth-beeld-met-logo-2.jpg
+      - portfolio/mind-mouth/img_5702.jpg
+      - portfolio/mind-mouth/img_5996.jpg
+      - portfolio/mind-mouth/img_5870.jpg
+      - portfolio/mind-mouth/logo-mind-mouth.jpg
+      - portfolio/mind-mouth/mind-mouth-beeld-met-logo1.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
+    enabled: true
+  -
+    id: 1bIzVoNFnNfHtZWl307ID
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In our daily life, we easily forget about the subtle experiences our senses can give us. MIND MOUTH reconnects you to what is really to most powerful thing you’ve got, which is the combination of your senses together with your imagination.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The point of life, is that there is no point. And to understand this, you need to talk to your tongue.'
+    image: portfolio/mind-mouth/logo-mind-mouth.jpg
+    image_position: left
+    type: image_text
+    enabled: false
+  -
+    id: ElCAE-9O3O_RYp75xjvNY
     text:
       -
         type: paragraph
