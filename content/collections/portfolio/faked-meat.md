@@ -6,7 +6,7 @@ title: 'Faked Meat'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771434282
+updated_at: 1772018476
 page_builder:
   -
     id: mljbmkzt
@@ -66,26 +66,12 @@ page_builder:
           -
             type: text
             text: 'Since our starting point is meat, the taste and structure of meat is our base referral for everything that comes to the market as an alternative. If meat would be the alternative, it might be the other way around.'
-  -
-    id: B0s3LLBBKIUdZuTDlqgaQ
-    aspect_ratio: none
-    type: image
-    enabled: true
-    image: portfolio/faked-meat/faked-meat-sapicu-poster.jpg
-  -
-    id: VmcBtDKmTQ59Oez_E-sto
-    heading_type: h2
-    text:
       -
         type: paragraph
         content:
           -
             type: text
             text: 'People who choose to not eat meat are doing something good for the world. They should have the feeling they are choosing the superior option. When the comparison remains between meat and alternative, in most cases, meat wins. What if we can create a new option that still fulfils its function as a meat replacement, but that starts a new narrative that, when compared to the narrative of the original (industrialised meat production) creates a more pleasant choice.'
-    image: portfolio/faked-meat/faked-meat-sapicu.jpg
-    image_position: left
-    type: image_text
-    enabled: true
   -
     id: npDZZGYAO5ihPIFUo-Q-c
     video: 'https://youtu.be/UPyHZqLarlA'
@@ -121,18 +107,6 @@ page_builder:
                 type: italic
             text: 'Sonja Stummerer and Martin Hablesreiter, Honey and Bunny productions'
   -
-    id: DzGXri6Wc5icJijx75p54
-    image: portfolio/faked-meat/faked-meat-biccio-poster.jpg
-    aspect_ratio: none
-    type: image
-    enabled: true
-  -
-    id: fn9XjAwtdLAno_nhUF3Nm
-    image: portfolio/faked-meat/faked-meat-ponti-poster.jpg
-    aspect_ratio: none
-    type: image
-    enabled: true
-  -
     id: HLubTQ0nc6fgPuRzPgWou
     heading_type: h2
     image: portfolio/faked-meat/faked-meat-ponti.jpg
@@ -159,11 +133,28 @@ page_builder:
             type: text
             text: 'The Herbast is square-shaped, which is perfect for packaging, transport, and provides for an even share at the dining table.'
   -
-    id: 1soVQVJxvyNzGKP9KDHC3
+    id: Ml9qNV4E9EoYHbz9w0yBH
+    images:
+      - portfolio/faked-meat/faked-meat-herbast-poster.jpg
+      - portfolio/faked-meat/faked-meat-biccio-poster.jpg
+      - portfolio/faked-meat/faked-meat-ponti-poster.jpg
+      - portfolio/faked-meat/faked-meat-sapicu-poster.jpg
     aspect_ratio: none
-    type: image
+    type: image_gallery
     enabled: true
-    image: portfolio/faked-meat/faked-meat-herbast-poster.jpg
+  -
+    id: y-Hxt3uPT-FQVTfwXi2v6
+    images:
+      - portfolio/faked-meat/faked-meat-herbast-1.jpg
+      - portfolio/faked-meat/dsc_0204_2_2.jpg
+      - portfolio/faked-meat/faked-meat-1.jpg
+      - portfolio/faked-meat/faked-meat-biccio-sushi.jpg
+      - portfolio/faked-meat/faked-meat-biccio-1.jpg
+      - portfolio/faked-meat/faked-meat-sapicu.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
+    enabled: true
   -
     id: I-OAOIrJMgbu4odcAiwft
     text:
