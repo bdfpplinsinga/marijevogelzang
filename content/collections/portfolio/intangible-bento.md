@@ -1,12 +1,11 @@
 ---
 id: cc0d5fd6-9a61-475d-b88d-9d7c7fb07bf6
-published: false
 blueprint: portfolio
 title: 'Intangible Bento'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772017874
+updated_at: 1772019665
 page_builder:
   -
     id: mljbmkzt
@@ -67,30 +66,16 @@ page_builder:
     type: text
     enabled: true
   -
-    id: 5VlL1VdLsv54z98mcxwri
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'INSERT GALLERY'
-    type: text
-    enabled: true
-  -
     id: L6iXMd5yZrK2S7uptxiYt
     images:
       - portfolio/intangible-bento/yonezu_dsc00764.jpg
       - portfolio/intangible-bento/0720_005.jpg
       - portfolio/intangible-bento/0720_089.jpg
       - portfolio/intangible-bento/0720_162.jpg
+      - portfolio/intangible-bento/0720_159.jpg
+      - portfolio/intangible-bento/0720_168.jpg
     columns: 3
-    aspect_ratio: 3
+    aspect_ratio: 4
     type: image_gallery
     enabled: true
   -
