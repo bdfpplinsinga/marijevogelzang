@@ -6,7 +6,7 @@ title: 'Sharing Dinner'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772041495
+updated_at: 1772041923
 page_builder:
   -
     id: mljbmkzt
@@ -52,10 +52,21 @@ page_builder:
           -
             type: text
             text: 'But in thinking of Christmas as a time when people eat together, share food and fel connected, I decided to create a simple “intervention.”'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+    type: text
+    enabled: true
+  -
+    id: n_0M3rTv_nUxCcrvW9YUL
+    aspect_ratio: none
+    type: image
+    enabled: true
+  -
+    id: 4bE3rZUD9GNvqfnxzzct5
+    type: text
+    enabled: true
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'I used a table with a tablecloth, but instead of putting the cloth on the table, I made slits in it and suspended it in the air, so that the participants sat with their heads inside the space and their bodies outside.'
@@ -84,12 +95,6 @@ page_builder:
           -
             type: text
             text: 'At first I was nervous thinking people wouldn’t want to sit in this structure but the moment guests decided to sit down and put their heads through the tablecloth it was as if their masks were falling off. They were opening up and acting very social and playful.'
-    type: text
-    enabled: true
-  -
-    id: 4bE3rZUD9GNvqfnxzzct5
-    type: text
-    enabled: true
   -
     id: 2RrrnbAp7z0Mzfsg5jjLJ
     text:
