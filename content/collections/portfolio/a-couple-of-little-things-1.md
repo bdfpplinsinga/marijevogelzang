@@ -118,7 +118,7 @@ page_builder:
   -
     id: QMSkWSEIEXUQL2giBXRLP
     images:
-      - performanssi_lampa21.jpg
+      - portfolio/a-couple-of-litlle-things/performanssi_lampa21.jpg
       - portfolio/a-couple-of-litlle-things/performanssi_lampa14.jpg
       - portfolio/a-couple-of-litlle-things/performanssi_lampa04.jpg
       - portfolio/a-couple-of-litlle-things/a-couple-of-little-things-1.jpg
