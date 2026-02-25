@@ -5,7 +5,7 @@ title: 'Intangible Bento'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772026948
+updated_at: 1772035701
 page_builder:
   -
     id: mljbmkzt
@@ -96,6 +96,11 @@ page_builder:
     image: portfolio/intangible-bento/yonezu_dsc00800.jpg
     image_position: right
     type: image_text
+    enabled: true
+  -
+    id: oEjB84owbGKokBoIFZdjF
+    video: 'https://www.youtube.com/watch?v=mtMjU_8V6q0'
+    type: video_embed
     enabled: true
   -
     id: 1qK9vsK0GAOvs0aCfgG6X
