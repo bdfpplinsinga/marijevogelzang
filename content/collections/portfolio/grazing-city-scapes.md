@@ -102,7 +102,7 @@ page_builder:
           -
             type: text
             text: 'The setting calls for zooming in. It feels like looking at a maquette. You enter a new world. Smells, sights and flavours mix in a surreal glass setting. Light is fixed under the table and shines trough the acrylic cuts so it looks like a vibrant city at night.'
-    image: ape_0753.jpg
+    image: portfolio/grazing-city-scapes/ape_0753.jpg
     image_position: right
     type: image_text
     enabled: true
