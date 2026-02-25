@@ -6,7 +6,7 @@ title: 'Grazing City Scapes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771438794
+updated_at: 1772007615
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: grazing-city-scapes.png
   -
     id: 2c1riL1kx6mOhQlrX5w5w
     text:
