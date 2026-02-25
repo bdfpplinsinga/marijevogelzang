@@ -5,10 +5,10 @@
             {{ partial:media/picture :image="block:image" cover="true" lazy="true"  }}
         </figure>
         <div class="grid grid-cols-1 lg:grid-cols-12">
-            <div class="lg:row-[1/1] {{overlap ? 'lg:col-[1/6] break-words hyphens-auto' : 'lg:col-[1/9]'}}">
+            <div class="lg:row-[1/1] {{overlap ? 'lg:col-[1/9] break-words hyphens-auto' : 'lg:col-[1/9]'}}">
                 {{ block:heading ?= { partial:typography/display :as="block:heading_type" :content="block:heading" } }}
             </div>
-            <div class="mt-4 lg:mt-0 lg:row-[1/1]  lg:col-[6/13]">
+            <div class="mt-4 lg:mt-0 lg:row-[1/1] lg:col-[9/13]">
                 {{ block:text ?= { partial:typography/p class="sm:text-lg xl:text-2xl 2xl:text-3xl xl:leading-[135%]" :content="block:text" } }}
             </div>
         </div>
