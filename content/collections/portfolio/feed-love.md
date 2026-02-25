@@ -6,7 +6,7 @@ title: 'Feed Love'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772008781
+updated_at: 1772018802
 page_builder:
   -
     id: mljbmkzt
@@ -68,32 +68,6 @@ page_builder:
     type: text
     enabled: true
   -
-    id: e7a5HSkT-YQt5ZLRAHcs8
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The first workshop was held in Copenhagen at the Copenhagen Food Fair as a rough experiment in feeding. This involved a drum and feeding in a specific rythm. The second one I did in St. Petersburg, Russia at the Orange days in New Holland Island. Finally I developed the concept further into a more detailed version I performed in Japan for Roppongi art night.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'The set up is simple; Half of the participants feed the other half food and simultaneously tell about their childhood memories around this specific kind of food. As you can see the ‘feedee’ can’t see who’s feeding him to create a kind of anonymous atmosphere. It is touching to see how quickly complete strangers get very intimate, caring about feeding each-other gently and how they feel free to tell the most personal stories.'
-    image: portfolio/feed-love/img_6942.jpg
-    image_position: left
-    type: image_text
-    enabled: true
-  -
-    id: JOWnegOj1LjGDeoAr6-Bl
-    image: portfolio/feed-love/img_6775.jpg
-    aspect_ratio: 2
-    type: image
-    enabled: true
-  -
     id: S_IgyBfRpTGKoh62seAGw
     heading_type: h2
     text:
@@ -122,6 +96,45 @@ page_builder:
     type: streamer
     enabled: true
     image: portfolio/feed-love/img_6926.jpg
+  -
+    id: e7a5HSkT-YQt5ZLRAHcs8
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The first workshop was held in Copenhagen at the Copenhagen Food Fair as a rough experiment in feeding. This involved a drum and feeding in a specific rythm. The second one I did in St. Petersburg, Russia at the Orange days in New Holland Island. Finally I developed the concept further into a more detailed version I performed in Japan for Roppongi art night.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The set up is simple; Half of the participants feed the other half food and simultaneously tell about their childhood memories around this specific kind of food. As you can see the ‘feedee’ can’t see who’s feeding him to create a kind of anonymous atmosphere. It is touching to see how quickly complete strangers get very intimate, caring about feeding each-other gently and how they feel free to tell the most personal stories.'
+    image: portfolio/feed-love/img_6942.jpg
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: JOWnegOj1LjGDeoAr6-Bl
+    image: portfolio/feed-love/img_6775.jpg
+    aspect_ratio: 2
+    type: image
+    enabled: true
+  -
+    id: IMxgMD3uvBcCI6_zeTkKs
+    images:
+      - portfolio/feed-love/img_6827.jpg
+      - portfolio/feed-love/img_7029.jpg
+      - portfolio/feed-love/img_6878.jpg
+      - portfolio/feed-love/img_7025.jpg
+      - portfolio/feed-love/img_4280.jpg
+      - portfolio/feed-love/img_4282.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
+    enabled: true
   -
     id: 02upHT27KrvHb2JXvRiIV
     text:
