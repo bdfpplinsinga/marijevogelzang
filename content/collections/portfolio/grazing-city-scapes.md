@@ -6,7 +6,7 @@ title: 'Grazing City Scapes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772008550
+updated_at: 1772010195
 page_builder:
   -
     id: mljbmkzt
@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: grazing-city-scapes.png
+    image: portfolio/grazing-city-scapes/grazing-city-scapes.png
   -
     id: 2c1riL1kx6mOhQlrX5w5w
     text:
@@ -102,7 +102,7 @@ page_builder:
           -
             type: text
             text: 'The setting calls for zooming in. It feels like looking at a maquette. You enter a new world. Smells, sights and flavours mix in a surreal glass setting. Light is fixed under the table and shines trough the acrylic cuts so it looks like a vibrant city at night.'
-    image: ape_0753.jpg
+    image: portfolio/grazing-city-scapes/ape_0753.jpg
     image_position: right
     type: image_text
     enabled: true
@@ -135,7 +135,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: ape_1425.jpg
+    image: portfolio/grazing-city-scapes/ape_1425.jpg
   -
     id: MRcHQRdaoOXXUnTJKussD
     text:
