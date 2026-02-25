@@ -98,7 +98,7 @@ page_builder:
           -
             type: text
             text: 'She lectures, exhibits, and guest-teaches worldwide, and now leads Food Design Playground in Dordrecht — a space for immersive food experiences that shift the focus from what we eat to how and why we eat.'
-    image: marijevogelzang(41).jpg
+    image: books/lick-it/marijevogelzang(41).jpg
     type: streamer
     enabled: true
     align_content: left
