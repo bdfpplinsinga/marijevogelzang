@@ -6,7 +6,7 @@ title: 'Pasta Sauna'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772035393
+updated_at: 1772035449
 page_builder:
   -
     id: mljbmkzt
@@ -101,6 +101,11 @@ page_builder:
     image: portfolio/pasta-sauna/img_6340.jpg
     image_position: left
     type: image_text
+    enabled: true
+  -
+    id: ElpuBVVeX9ukNLjh8VCuN
+    video: 'https://vimeo.com/70072196?fl=pl&fe=ti'
+    type: video_embed
     enabled: true
   -
     id: LUahraZrs3bEf_ybdBMC7
