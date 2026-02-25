@@ -9,7 +9,7 @@ page_builder:
     heading_type: h1
     type: hero
     enabled: true
-    image: marije-vogelzang.png
+    image: portraits/marije-vogelzang.png
     overlap: false
   -
     id: mb28f09z
