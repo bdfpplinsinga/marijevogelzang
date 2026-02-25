@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: grazing-city-scapes.png
+    image: portfolio/grazing-city-scapes/grazing-city-scapes.png
   -
     id: 2c1riL1kx6mOhQlrX5w5w
     text:
