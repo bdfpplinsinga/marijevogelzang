@@ -76,7 +76,7 @@ page_builder:
           -
             type: text
             text: 'Wil je zelf iets organiseren? De verschillende ruimtes zijn te huur voor creatieve bijeenkomsten, vergaderingen, diners, lezingen of inspiratiesessies. Met of zonder catering, altijd met karakter. Food design Playground is een initiatief van Marije Vogelzang. Marije is in 1999 begonnen als ontwerper en is een van de pioniers van het vakgebied. Food Design Playground is een plek om te proeven, te denken en te maken. Om geraakt te worden — via je tong.'
-    image: img_7082.jpeg
+    image: playground/img_7082.jpeg
     image_position: right
     type: image_text
     enabled: true
