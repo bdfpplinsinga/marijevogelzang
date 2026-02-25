@@ -1,12 +1,11 @@
 ---
 id: 9a6831ae-f205-4b7e-9d79-f0c0c4d3cadb
-published: false
 blueprint: portfolio
 title: 'Sharing Dinner'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772042790
+updated_at: 1772042800
 page_builder:
   -
     id: mljbmkzt
