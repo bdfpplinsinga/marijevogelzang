@@ -72,3 +72,9 @@ fields:
               fields:
                 -
                   import: video_embed
+            image_gallery:
+              display: 'Image Gallery'
+              icon: media-image-picture-gallery
+              fields:
+                -
+                  import: image_gallery

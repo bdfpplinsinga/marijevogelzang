@@ -9,16 +9,37 @@ fields:
       type: assets
       display: Images
   -
-    handle: gallery_style
+    handle: columns
     field:
       options:
         -
-          key: slider
-          value: Slider
+          key: 2
+          value: null
         -
-          key: grid
-          value: Grid
-      default: slider
+          key: 3
+          value: null
+        -
+          key: 4
+          value: null
       type: select
-      display: 'Gallery Style'
-      instructions: 'Please select a gallery style. Default it will be set to a slider, but you can also choose a grid style.'
+      display: Columns
+  -
+    handle: aspect_ratio
+    field: image.aspect_ratio
+    config:
+      options:
+        -
+          key: 1
+          value: 16/9
+        -
+          key: 2
+          value: 2/1
+        -
+          key: 3
+          value: 3/2
+        -
+          key: 4
+          value: 1/1
+        -
+          key: none
+          value: None

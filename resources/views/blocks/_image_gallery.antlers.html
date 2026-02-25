@@ -1,0 +1,36 @@
+{{ partial:blocks/block }}
+
+{{if columns == '2'}}
+    {{ gridCols = 'grid-cols-2' }}
+{{elseif columns == '3'}}
+    {{ gridCols = 'grid-cols-3' }}
+{{elseif columns == '4'}}
+    {{ gridCols = 'grid-cols-4' }}
+{{else}}
+    {{ gridCols = 'grid-cols-1' }}
+{{ /if }}
+
+{{if block:aspect_ratio == '1'}}
+    {{ aspect = 'aspect-video' }}
+{{elseif block:aspect_ratio == '2'}}
+    {{ aspect = 'aspect-[2/1]' }}
+{{elseif block:aspect_ratio == '2'}}
+    {{ aspect = 'aspect-[3/2]' }}
+{{elseif block:aspect_ratio == '4'}}
+    {{ aspect = 'aspect-[1/1]' }}
+{{else}}
+    {{ aspect = 'aspect-none' }}
+{{ /if }}
+
+<div class="grid {{gridCols}}">
+{{images}}
+
+    <figure class="{{aspect}} {{class}}">
+        {{ partial:media/picture :image="url" cover="true" lazy="true"  }}
+    </figure>
+
+{{/images}}
+</div>
+
+
+{{ /partial:blocks/block }}
