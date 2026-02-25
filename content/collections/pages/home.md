@@ -3,21 +3,20 @@ id: home
 blueprint: pages
 title: Home
 template: default
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1770280631
+updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
+updated_at: 1771323986
 page_builder:
   -
     id: maca009e
-    heading: 'Food<br> Design<br> Playground'
+    heading: 'Studio<br> Marije<br> Vogelzang'
     heading_type: h1
-    text: "Een plek waar je anders leert kijken naar iets heel gewoons: eten. Een plek om te proeven, te denken en te maken.\LOm geraakt te worden — via je tong."
+    text: "Marije Vogelzang is the word's first eating designer and makes you feel food before you even taste it — she turns meals into experiences, rituals into stories, and the ordinary into the uncanny."
     type: hero
     enabled: true
-    image: mv67.jpg
     overlap: false
   -
     id: mc0znjgn
-    heading: 'Een verborgen parel'
+    heading: 'The vision'
     heading_type: h2
     text:
       -
@@ -28,67 +27,46 @@ page_builder:
             marks:
               -
                 type: bold
-            text: 'Verborgen achter een zware houten deur in de Dordtse binnenstad schuilt een plek die ruikt naar verleden en smaakt naar toekomst.'
+            text: 'Marije’s vision is that food isn’t just something you eat '
+          -
+            type: text
+            text: '— it’s a language of sensation, connection, and imagination. She believes eating can reveal who we are, how we think, and how we relate to each other and the world. Her work makes the invisible rules of food visible, invites playful curiosity, and treats eating as an experience that is as meaningful as it is delicious. She sees food as a tool to question habits we mistake for truth — cultural blind spots, inherited rituals, unspoken hierarchies at the table.'
           -
             type: hardBreak
           -
             type: text
-            text: 'Food Design Playground is gevestigd in een monumentaal pand waar rococo-plafonds fluisteren en de kelder zindert van ideeën. Een thuis voor food design met wisselende programmering. Verwacht pop-up diners, exposities, workshops, lezingen en proeverijen.'
-    image: marijevogelzang(94).jpg
+            text: 'Her aim is not to decorate the plate, but to redesign the act of eating itself.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'In her world, imagination is nourishment — and curiosity is the first ingredient.'
+    image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
     image_position: left
     type: image_text
     enabled: true
   -
-    id: mc5uvrni
-    heading: 'Boek je tickets'
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Hieronder zie je een selectie van onze events. Kijk voor het gehele aanbod bij '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://fooddesignplayground.nl/events'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: events
-          -
-            type: text
-            text: ', of in het menu hierboven.'
-    image: marijevogelzang(39).jpg
-    image_position: right
-    type: image_text
-    enabled: true
-  -
-    id: macgipw0
-    type: events
-    enabled: true
-    selection_method: true
-    number_of_events_to_show: 4
-    events:
-      - ad286d77-704c-43f1-87cc-bb8d45873990
-  -
     id: macc3vqi
-    heading: 'Food <br> Design Library'
+    heading: 'Let food <br> be your teacher'
     heading_type: h2
     text:
       -
         type: paragraph
-        attrs:
-          textAlign: left
         content:
           -
             type: text
-            text: 'Een bibliotheek vol boeken over food design, eetcultuur, systeem, taal, vormen en filosofie. En een concept shop waar je zintuiglijke cadeaus, bijzondere objecten en eetbare ideeën vindt.'
-    image: img_6963.jpg
+            text: 'You can join immersive courses where food becomes your creative tool — to think, design, question, and experiment.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Whether online or live, you’ll develop your own food concepts, installations, or edible experiences with hands-on guidance.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'If you’re ready to deepen your ideas, sharpen your senses, and work beyond recipes, there’s a place at the table for you.'
+    image: marijevogelzang(88).jpg
     type: streamer
     enabled: true
     align_content: left
@@ -105,7 +83,7 @@ page_builder:
       button_type: inline
   -
     id: macdihnx
-    heading: 'wie zit er achter?'
+    heading: 'Eating as a serious profession'
     heading_type: h2
     text:
       -
@@ -113,21 +91,13 @@ page_builder:
         content:
           -
             type: text
-            text: 'Ontwerper, docent, foodfilosoof en speelse rebel. Al meer dan 26 jaar beweeg ik me op het snijvlak van voedsel, design en menselijke emotie. Niet als chef, maar als ontwerper—voor wie eten niet alleen voeding is, maar een drager van betekenis. Iets dat verbindt, herinnert, bevraagt, heelt en transformeert. '
+            text: 'Marije Vogelzang is a Dutch food designer and pioneer in the field of eating design. For over 25 years, she has used food as a medium to explore identity, culture, ritual, and human behavior. She ran her experimental restaurants Proef (Rotterdam and Amsterdam) for seven years, founded the Food Non Food department at Design Academy Eindhoven, and established The Dutch Institute of Food & Design. She was project professor in Kassel, has written three books, and develops her own online and offline courses.'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://marijevogelzang.nl'
-                  rel: null
-                  target: _blank
-                  title: null
-            text: 'Studio Marije Vogelzang'
-          -
-            type: text
-            text: ' is gevestigd in Food Design Playground.'
+            text: 'She lectures, exhibits, and guest-teaches worldwide, and now leads Food Design Playground in Dordrecht — a space for immersive food experiences that shift the focus from what we eat to how and why we eat.'
     image: marijevogelzang(41).jpg
     type: streamer
     enabled: true
@@ -141,21 +111,44 @@ page_builder:
       button_type: button
   -
     id: macifrml
-    heading: 'De plek'
+    heading: 'The Studio'
     heading_type: h2
     text:
       -
         type: paragraph
-        attrs:
-          textAlign: left
         content:
           -
             type: text
-            text: 'Food Design Playground is geen normaal restaurant. Je kunt hier niet zomaar binnenlopen voor een lunch. We werken op eventbasis — voorstellingen, diners, workshops en andere momenten waarop de deur wijd open staat. En goed om te weten: je hoeft geen ontwerper te zijn om je thuis te voelen. Juist ‘gewone’ mensen met nieuwsgierigheid en een mond zijn hier meer dan welkom.De verschillende ruimtes zijn te huur voor creatieve bijeenkomsten, vergaderingen, diners, lezingen of inspiratiesessies. Met of zonder catering, altijd met karakter.'
-    image: mv57.jpg
+            text: 'Since 2025, Studio Marije Vogelzang has transformed from design studio-only to actual even space called Food Design Playground. A space to explore and host food design experiences that challenge the way you think about food. In a stunning monumental building in Dordrecht you can find the studio merged with the event space. Get your tickets to courses and dinners or book teh space for your own event. Have a look '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://fooddesignplayground.nl/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: here
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: q2i1c8FhL82On4LA1JkBX
+    heading: Speaking
+    heading_type: h2
+    image: marije-vogelzang-6.png
     image_position: right
     type: image_text
     enabled: true
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Marije Vogelzang is an internationally sought-after speaker who uses food as a lens to explore culture, identity, behaviour and imagination. In her lectures, she combines design thinking, storytelling and sensory insights to challenge how we perceive food and the role it plays in our lives. Her talks are known for being inspiring, thought-provoking and highly engaging, inviting audiences to see eating not just as a daily habit, but as a powerful creative and social act.'
   -
     id: macmistg
     newsletter: newsletter
@@ -167,7 +160,6 @@ page_builder:
     show_socials: false
   -
     id: mbtb4buc
-    image: marijevogelzang(58).jpeg
     aspect_ratio: none
     type: image
     enabled: true

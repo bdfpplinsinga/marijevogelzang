@@ -1,5 +1,24 @@
 name: Daniel
 super: true
+avatar: img_6075-2.jpg
+passkeys:
+  5TbfCB_BK-hlHGai-_cOeQ:
+    name: 'Macbook Daniel'
+    credential:
+      publicKeyCredentialId: 5TbfCB_BK-hlHGai-_cOeQ
+      type: public-key
+      transports:
+        - internal
+        - hybrid
+      attestationType: none
+      trustPath: {  }
+      aaguid: 531126d6-e717-415c-9320-3d9aa6981239
+      credentialPublicKey: pQECAyYgASFYIFpdn4fXDwTxkAv_bEzw3Xsz2gTya6x0zJ_TKKhdODX6IlggOJ-4FxdER23AgF7-JVTNirzpHLBahGDcjNy6TPRtYKE
+      userHandle: N2NhNmNkMmQtMzcwMC00NDg1LWJkZDctNDZlNGRmMWE1NmM0
+      counter: 0
+      backupEligible: true
+      backupStatus: true
+      uvInitialized: true
 id: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
 password_hash: $2y$12$eHRNjN6mv/MsSNJlWKl1a.31SBqVL.p05/eGHJfYvUVmV5HKb6mHa
 preferences:
@@ -12,7 +31,7 @@ preferences:
       view: list
     pages:
       after_save: continue_editing
-      view: tree
+      view: list
     events:
       columns:
         - title

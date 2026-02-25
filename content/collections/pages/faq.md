@@ -7,7 +7,6 @@ updated_at: 1751361802
 page_builder:
   -
     id: mbf33wlp
-    image: img_2909.jpg
     aspect_ratio: 1
     type: image
     enabled: true
@@ -27,7 +26,6 @@ page_builder:
     heading: faq
     heading_type: h2
     text: 'Heb je vragen? Dat is niet vreemd. Er is maar één Food Design Playground op de wereld en wij doen dingen vaak net even anders. Hieronder vind je een lijst met veelgestelde vragen. Staat je vraag er niet tussen? Neem dan gerust contact op.'
-    image: img_2909.jpg
     type: hero
     enabled: false
   -
@@ -430,7 +428,7 @@ page_builder:
           -
             type: text
             text: '! '
-    image: marijevogelzang(4).jpg
+    image: playground/marijevogelzang(4).jpg
     image_position: left
     type: image_text
     enabled: true

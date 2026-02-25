@@ -13,7 +13,6 @@ page_builder:
       Onze food design bibliotheek is de eerste ter wereld. Food design is een nieuw vakgebied. 
 
       Hoewel de eerste food designers ruim 25 jaar geleden begonnen is de discipline pas in de laatste 10 jaar echt wereldwijd verspreid geraakt. Je hebt tegenwoordig food design opleidingen en organisaties. Dat is niet zo gek. Food design gaat niet over mooi eten. Het gaat over anders kijken naar iets wat je al denkt te kennen: Eten. Maar wat is eten eigenlijk? Waarom eten mensen wel varkens maar geen honden? Wel wortels maar geen korstmos?
-    image: marijevogelzang(44)).jpg
     type: hero
     enabled: true
     overlap: false
@@ -76,7 +75,6 @@ page_builder:
           -
             type: text
             text: 'In de bibliotheek vind je ook een food design shop. Met food design boeken, maar ook andere inspirerende cadeaus voor je zelf of om cadeau te geven.'
-    image: img_6963.jpg
     image_position: left
     type: image_text
     enabled: true

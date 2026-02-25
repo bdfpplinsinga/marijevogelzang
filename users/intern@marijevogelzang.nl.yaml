@@ -4,6 +4,13 @@ roles:
 id: 79296801-252d-4afa-98db-926f50d63dff
 password_hash: $2y$12$3/rOFiC0JOKg4FKpD3mwEuy73Jl3F0/hFeLnRJ/a087U.2kVCvD8G
 preferences:
+  collections:
+    pages:
+      view: tree
+    portfolio:
+      view: list
+      after_save: continue_editing
   assets:
     assets:
-      mode: grid
+      per_page: 500
+    browser_thumbnail_size: 185

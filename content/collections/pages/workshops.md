@@ -21,7 +21,7 @@ page_builder:
       Voor iedereen die zin heeft om met eten te spelen — en er wijzer van te worden
 
       De 4-daagse food design retraites en online cursussen worden in het Engels gegeven.
-    image: img_8758.jpeg
+    image: playground/img_8758.jpeg
     type: hero
     enabled: true
     overlap: true
@@ -137,7 +137,7 @@ page_builder:
           -
             type: text
             text: 'Omdat je de ruimte voelt ademen met ideeën, en jij daar deel van bent.'
-    image: marijevogelzang(64).jpg
+    image: playground/marijevogelzang(64).jpg
     image_position: right
     type: image_text
     enabled: true
@@ -215,7 +215,7 @@ page_builder:
           -
             type: text
             text: 'Niet alleen dat je in pyjama kunt leren. Maar dat je iemands koelkast in Buenos Aires leert kennen. Dat je ontdekt hoe iemand in Tokio betekenis geeft aan rijst. Dat je via het scherm voelt hoe een idee ergens anders ter wereld óók in jou begint te gloeien.'
-    image: volumes.-2017.-img.-111.jpeg
+    image: portfolio/volumes/volumes.-2017.-img.-111.jpeg
     image_position: left
     type: image_text
     enabled: true
@@ -253,38 +253,8 @@ page_builder:
     type: text
     enabled: true
   -
-    id: mcyl4o9h
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            text: 'Ons huidige aanbod van workshops'
-    type: text
-    enabled: true
-  -
-    id: mcyl3yke
-    selection_method: true
-    number_of_events_to_show: 30
-    events:
-      - f1833011-32da-44b3-baff-0dca9ad6b7f6
-      - 1efeddbc-59f8-499b-89f1-5b5e8d4c2cc3
-      - 4607b997-3d7f-49e3-b2f4-f247ce5caed3
-      - 3264813d-cf56-4204-a55b-e0c2dd72b885
-      - 32d43d40-25a4-4e90-b5b8-6f2cbd9a02b4
-      - e7f44fb6-90f3-4db3-8801-5e70d34da0bc
-      - 948dc00b-b848-4870-acc4-59dc7fc62348
-      - a72569c4-a105-47c2-afe3-7fdbde95c6a2
-      - c3c8e431-0282-46ea-8a59-57efb02f5138
-      - 44d7df49-e20d-4e5e-95ba-acceaf3d3e93
-    type: events
-    enabled: true
-  -
     id: md0fyqrg
-    image: marijevogelzang(71).jpg
+    image: playground/marijevogelzang(71).jpg
     aspect_ratio: none
     type: image
     enabled: true

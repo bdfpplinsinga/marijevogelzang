@@ -9,7 +9,7 @@ page_builder:
     id: maw75vem
     heading: 'Artist in <br>residence'
     heading_type: h2
-    image: about-marije---marije-vogelzang-(6).png
+    image: marije-vogelzang-5.png
     type: hero
     enabled: true
   -

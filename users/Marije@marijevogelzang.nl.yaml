@@ -3,7 +3,7 @@ super: false
 roles:
   - admin
 id: a422e059-6afb-45c3-bc04-426efb7ceee0
-password_hash: $2y$12$Ys.Y7tvBgcO4C.QWKU2pZO1T9RQuTr7hxSJsvd4jKDtgtLApKgLfW
+password_hash: $2y$12$e3ipJ5s7qoiOOCoZWub1Ze6P.Oxd.briWxKCyuiIbqgaVDaEIZSEq
 preferences:
   nav:
     content:
@@ -14,8 +14,9 @@ preferences:
           - 'content::collections::spaces'
   assets:
     assets:
-      mode: grid
       per_page: 500
+      mode: grid
+    browser_thumbnail_size: 60
   collections:
     events:
       columns:
@@ -24,3 +25,13 @@ preferences:
         - slug
         - status
         - event_start
+    pages:
+      view: tree
+    portfolio:
+      view: list
+      per_page: 50
+      after_save: continue_editing
+      columns:
+        - title
+        - slug
+        - status

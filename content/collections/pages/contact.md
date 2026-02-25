@@ -3,7 +3,7 @@ id: f31e5144-e7d3-4d4d-93b9-d15f08d4d92e
 blueprint: page
 title: Contact
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1758875033
+updated_at: 1770818051
 page_builder:
   -
     id: mav2het5
@@ -27,7 +27,6 @@ page_builder:
     show_socials: true
   -
     id: mbtcq8dc
-    image: marijevogelzang(81))).jpg
     aspect_ratio: none
     type: image
     enabled: true

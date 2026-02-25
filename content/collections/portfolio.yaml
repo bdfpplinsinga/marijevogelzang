@@ -1,0 +1,16 @@
+title: Portfolio
+icon: collections
+template: portfolio/show
+layout: layout
+mount: 81678c1a-8185-4602-b093-f25275f39e7d
+revisions: false
+route: '{mount}/{slug}'
+sort_dir: asc
+date_behavior:
+  past: null
+  future: null
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
+    refresh: true

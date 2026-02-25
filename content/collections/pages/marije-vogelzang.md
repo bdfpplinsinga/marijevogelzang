@@ -9,7 +9,8 @@ page_builder:
     heading_type: h1
     type: hero
     enabled: true
-    image: about.png
+    image: marije-vogelzang.png
+    overlap: false
   -
     id: mb28f09z
     text:
@@ -39,7 +40,7 @@ page_builder:
           -
             type: text
             text: 'Ik werk sinds 1999 als ontwerper met eten. ‘Er zijn al zo veel tafels, stoelen en vazen’, dacht ik, toen ik eind jaren 90 aan de Design Academy in Eindhoven studeerde. Zou het niet veel interessanter zijn om me te richten op een materiaal en en onderwerp wat vergankelijk is? Iets wat je niet alleen kunt zien, maar wat je met al je zintuigen kunt ervaren en wat uiteindelijk in je lijf en daarna het toilet terecht komt. Eigenlijk ontwerp ik poep. En daar ben ik heel blij mee.Tussen 2004 en 2011 heb ik twee experimentele restautrants gehad in Rotterdam en Amsterdam, genaamd Proef.Daarnaast en daarna ben ik altijd aan mijn ontwerpen blijven werken, voor musea bijvoorbeeld. Mijn werk is de hele wereld over gereisd. Van het Toyo Metropolitan art museum, tot het Cooper Hewitt Smithsonian in New York.'
-    image: sharing_lunch_2_24.kenjimasunaga.jpg
+    image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
     image_position: left
     type: image_text
     enabled: true
@@ -78,16 +79,17 @@ page_builder:
           -
             type: text
             text: 'In Food Design Playground geef ik workshops, retraites, lezingen en inspiratieontbijten.'
-    image: marijevogelzang(5).jpg
+    image: playground/marijevogelzang(5).jpg
     align_content: left
     link:
       link_type: entry
+      target_blank: false
       button_type: button
     type: streamer
     enabled: true
   -
     id: mbjhfosc
-    heading: 'kijk eens op mijn website'
+    heading: 'kijk eens op mijn playground'
     heading_type: h2
     text:
       -
@@ -99,15 +101,14 @@ page_builder:
               -
                 type: link
                 attrs:
-                  href: 'https://marijevogelzang.nl'
+                  href: 'https://fooddesignplayground.nl/'
                   rel: null
-                  target: _blank
+                  target: null
                   title: null
-            text: www.marijevogelzang.nl
-    image: img_6963.jpg
+            text: fooddesignplayground.nl
     image_position: right
     type: image_text
     enabled: true
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1750489763
+updated_at: 1770891942
 ---
