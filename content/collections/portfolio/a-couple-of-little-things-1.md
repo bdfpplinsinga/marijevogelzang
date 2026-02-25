@@ -134,7 +134,7 @@ page_builder:
   -
     id: QMSkWSEIEXUQL2giBXRLP
     images:
-      - img_6075-2.jpg
+      - portraits/img_6075-2.jpg
       - portfolio/food-massage-salon/_22a4348.jpg
       - portfolio/food-massage-salon/_22a4355.jpg
       - portfolio/food-massage-salon/_22a4498.jpg
