@@ -1,12 +1,11 @@
 ---
 id: 7cb58f7d-c679-4bd2-a82b-baf6791c8fbf
-published: false
 blueprint: portfolio
 title: 'Plant Bones'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772040153
+updated_at: 1772040158
 page_builder:
   -
     id: mljbmkzt
