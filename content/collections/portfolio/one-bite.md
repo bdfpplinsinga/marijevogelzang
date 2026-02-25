@@ -6,7 +6,7 @@ title: 'One Bite'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772029096
+updated_at: 1772029148
 page_builder:
   -
     id: mljbmkzt
@@ -146,11 +146,11 @@ page_builder:
     id: B8BZRITS3sfvxc9fyLZ1a
     images:
       - portfolio/one-bite/img_4307.jpg
-      - portfolio/one-bite/img_4280.jpg
       - portfolio/one-bite/img_4302.jpg
       - portfolio/one-bite/img_4303.jpg
-      - portfolio/one-bite/img_4306.jpg
+      - portfolio/one-bite/img_4301.jpg
       - portfolio/one-bite/img_4311.jpg
+      - portfolio/one-bite/img_4306.jpg
       - portfolio/one-bite/img_4310.jpg
       - portfolio/one-bite/img_4308.jpg
     columns: 4
