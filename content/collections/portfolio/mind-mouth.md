@@ -6,7 +6,7 @@ title: 'Mind Mouth'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772013820
+updated_at: 1772017966
 page_builder:
   -
     id: mljbmkzt
@@ -192,39 +192,54 @@ page_builder:
               -
                 type: bold
             text: 'Presented at:'
+      -
+        type: bulletList
+        content:
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Cinema De Witt (2 times)'
           -
-            type: text
-            text: 'Cinema De Witt (2 times)'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Droog Amsterdam'
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Private Experiences'
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Soho house Atlanta and GA tech college'
           -
-            type: text
-            text: 'Droog Amsterdam'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Private Experiences'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Soho house Atlanta and GA tech college'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Space farming exhibition'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Space farming exhibition'
     type: text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
