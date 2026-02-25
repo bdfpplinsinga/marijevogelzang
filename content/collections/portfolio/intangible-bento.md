@@ -88,7 +88,7 @@ page_builder:
       - portfolio/intangible-bento/yonezu_dsc00764.jpg
       - portfolio/intangible-bento/0720_005.jpg
       - portfolio/intangible-bento/0720_089.jpg
-      - 0720_162.jpg
+      - portfolio/intangible-bento/0720_162.jpg
     columns: 3
     aspect_ratio: 3
     type: image_gallery
