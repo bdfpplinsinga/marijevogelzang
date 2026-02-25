@@ -135,7 +135,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: ape_1425.jpg
+    image: portfolio/grazing-city-scapes/ape_1425.jpg
   -
     id: MRcHQRdaoOXXUnTJKussD
     text:
