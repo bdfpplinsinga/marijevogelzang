@@ -6,7 +6,7 @@ title: 'Pasta Sauna'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772035167
+updated_at: 1772035393
 page_builder:
   -
     id: mljbmkzt
@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: portfolio/pasta-sauna/img_6338.jpg
+    image: portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(28)-1772033654.jpg
   -
     id: HadJI5Reqw0dlmtJlP4F5
     text:
@@ -103,6 +103,36 @@ page_builder:
     type: image_text
     enabled: true
   -
+    id: LUahraZrs3bEf_ybdBMC7
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Marije is a true pioneer in the world of food design and has lead the global conversation around the ways design can shape what and how we eat in the years to come. Her lens on the world of food will surprise and delight—ultimately her values of intimacy, pleasure, and a whole systems approach to thinking about food have deeply impacted a generation of designers.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'LinYee Yuan, Mold Magazine'
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+    image: portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(36).jpg
+  -
     id: fm-ddhmP4t69qdp0ayYxz
     images:
       - portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(21)-1772033632.jpg
@@ -153,36 +183,6 @@ page_builder:
             text: 'Oh, and did I mention that the pasta-machines are music boxes too?'
     type: text
     enabled: true
-  -
-    id: LUahraZrs3bEf_ybdBMC7
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Marije is a true pioneer in the world of food design and has lead the global conversation around the ways design can shape what and how we eat in the years to come. Her lens on the world of food will surprise and delight—ultimately her values of intimacy, pleasure, and a whole systems approach to thinking about food have deeply impacted a generation of designers.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: 'LinYee Yuan, Mold Magazine'
-    align_content: left
-    link:
-      link_type: entry
-      target_blank: false
-      button_type: button
-    type: streamer
-    enabled: true
-    image: portfolio/pasta-sauna/pasta-sauna-_-munich-_-vivi-d-angelo-(36).jpg
   -
     id: _nTAl0Q3yfxV7DnwhgtLw
     text:
