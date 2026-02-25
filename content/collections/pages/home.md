@@ -66,7 +66,7 @@ page_builder:
           -
             type: text
             text: 'If you’re ready to deepen your ideas, sharpen your senses, and work beyond recipes, there’s a place at the table for you.'
-    image: marijevogelzang(88).jpg
+    image: playground/marijevogelzang(88).jpg
     type: streamer
     enabled: true
     align_content: left
