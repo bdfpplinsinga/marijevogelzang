@@ -6,7 +6,7 @@ title: 'Edible Reflections'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772017467
+updated_at: 1772017676
 page_builder:
   -
     id: mljbmkzt
@@ -265,15 +265,12 @@ page_builder:
   -
     id: IUjbXESt5WDGbekkJf_HH
     images:
-      - portfolio/edible-reflections/edible-reflections-6.jpg
-      - portfolio/edible-reflections/edible-reflections-4.jpg
-      - portfolio/edible-reflections/dsc_7182.jpg
-      - portfolio/edible-reflections/dsc_7029.jpg
       - portfolio/edible-reflections/dsc_7210.jpg
       - portfolio/edible-reflections/dsc_7227.jpg
-      - portfolio/edible-reflections/img_7218.jpg
+      - portfolio/edible-reflections/dsc_7182.jpg
       - portfolio/edible-reflections/img_7221.jpg
-      - portfolio/edible-reflections/img_7224.jpg
+      - portfolio/edible-reflections/edible-reflections-6.jpg
+      - portfolio/edible-reflections/dsc_7245.jpg
     columns: 3
     aspect_ratio: 4
     type: image_gallery
