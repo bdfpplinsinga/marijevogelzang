@@ -86,7 +86,7 @@ page_builder:
     id: L6iXMd5yZrK2S7uptxiYt
     images:
       - yonezu_dsc00764.jpg
-      - 0720_005.jpg
+      - portfolio/intangible-bento/0720_005.jpg
       - 0720_089.jpg
       - 0720_162.jpg
     columns: 3
