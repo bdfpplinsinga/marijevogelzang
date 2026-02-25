@@ -120,7 +120,7 @@ page_builder:
     images:
       - performanssi_lampa21.jpg
       - performanssi_lampa14.jpg
-      - performanssi_lampa04.jpg
+      - portfolio/a-couple-of-litlle-things/performanssi_lampa04.jpg
       - portfolio/a-couple-of-litlle-things/a-couple-of-little-things-1.jpg
       - performanssi_lampa10.jpg
       - performanssi_lampa22.jpg
