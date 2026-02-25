@@ -6,7 +6,7 @@ title: 'One Bite'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772027976
+updated_at: 1772029006
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: false
     type: hero
     enabled: true
+    image: portfolio/one-bite/img_4310.jpg
   -
     id: Y3F82-Oxmw9nVITzC2_o8
     text:
@@ -31,7 +32,7 @@ page_builder:
     type: text
     enabled: true
   -
-    id: pTofzxMKXAdH2p6nvUw5n
+    id: 0KiLnx-JzSqRsippR9iBl
     text:
       -
         type: paragraph
@@ -46,12 +47,20 @@ page_builder:
           -
             type: text
             text: 'Adam and Eve were innocent in the garden of Eden. Everything was perfect and beautiful. From our perspective this seems like a wonderful thing. But when you only know beauty and no ugliness, when you only know perfect and no imperfection you will not be able to see it. You will be blind for it because we can only feel joy if we also know sadness. We can only acknowledge and appreciate true beauty and kindness if we have also experienced the opposite. Adam and Eve were like children. Children take the world around them for granted. It needs experience to develop the virtue of appreciation.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+    type: text
+    enabled: true
+  -
+    id: 3P6ZeJvnJpJpYVPMxU_gC
+    image: portfolio/one-bite/img_4301.jpg
+    aspect_ratio: none
+    type: image
+    enabled: true
+  -
+    id: pTofzxMKXAdH2p6nvUw5n
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The Apple is called the apple of knowledge. From the moment Adam and Eve took a bite from the apple they fell from Eden. They entered the actual world where sadness, ugliness and despair are just as present as beauty, kindness and perfection.'
@@ -69,24 +78,44 @@ page_builder:
           -
             type: text
             text: 'Too much tension can be intimidating and stressful. But the right amount of tension also makes us fall in love, tension makes us appreciate flavour and smell. Tension enables laughter and joy and stimulates the best music and art. Without darkness you would’t be able to perceive light. It is time to embrace the whole spectrum of life.'
+    type: text
+    enabled: true
+  -
+    id: ieXRhe7SntA1lgrANrpHu
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
           -
-            type: hardBreak
+            type: text
+            text: '"When the intervention was done, a man approached from the audience. He walked towards me with a strong pace and tears in his eyes. He closed his arms around me. Very tight. I heard him mumble in my ear: Thank you."'
           -
             type: hardBreak
           -
             type: hardBreak
           -
             type: text
-            text: 'When the intervention was done, a man approached from the audience. He walked towards me with a strong pace and tears in his eyes. He closed his arms around me. Very tight. I heard him mumble in my ear: Thank you.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
             text: 'Marije Vogelzang'
-          -
-            type: hardBreak
+    image: portfolio/one-bite/img_4308.jpg
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: 0uDHCo6vrEBr7coLWR6Lr
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: Trust.
@@ -112,6 +141,21 @@ page_builder:
             type: text
             text: 'We need to search for the spot where we find tension. The place where we are slightly scared and need to trust. The uncertain space between two strangers that both want to surrender. That is beauty.'
     type: text
+    enabled: true
+  -
+    id: B8BZRITS3sfvxc9fyLZ1a
+    images:
+      - portfolio/one-bite/img_4280.jpg
+      - portfolio/one-bite/img_4283.jpg
+      - portfolio/one-bite/img_4302.jpg
+      - portfolio/one-bite/img_4303.jpg
+      - portfolio/one-bite/img_4306.jpg
+      - portfolio/one-bite/img_4311.jpg
+      - portfolio/one-bite/img_4310.jpg
+      - portfolio/one-bite/img_4308.jpg
+    columns: 4
+    aspect_ratio: 4
+    type: image_gallery
     enabled: true
   -
     id: dYYpJ5blKYifPVNxnuQZ6
