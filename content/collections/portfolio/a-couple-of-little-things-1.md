@@ -3,7 +3,7 @@ id: 5eedacd5-bde8-4c3a-bd88-5dc87ad1b6e9
 blueprint: portfolio
 title: 'A Couple of Little Things'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772015173
+updated_at: 1772015462
 page_builder:
   -
     id: mljbmkzt
@@ -118,13 +118,16 @@ page_builder:
   -
     id: QMSkWSEIEXUQL2giBXRLP
     images:
-      - a-couple-of-little-things1.jpg
       - performanssi_lampa21.jpg
-      - performanssi_lampa02.jpg
+      - performanssi_lampa14.jpg
+      - performanssi_lampa04.jpg
+      - performanssi_lampa22.jpg
+      - a-couple-of-little-things1.jpg
+      - performanssi_lampa10.jpg
     gallery_style: grid
     type: image_gallery
     enabled: true
-    columns: 4
+    columns: 3
     aspect_ratio: 4
   -
     id: _hZotKrBV1JZDDe1F7S3w
