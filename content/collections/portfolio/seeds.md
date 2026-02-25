@@ -6,7 +6,7 @@ title: Seeds
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772040669
+updated_at: 1772040769
 page_builder:
   -
     id: mljbmkzt
@@ -31,7 +31,7 @@ page_builder:
     type: text
     enabled: true
   -
-    id: seGCRPqhEYqkTFQVkm4TR
+    id: oVMNmLzxVjrfo-j4Dux8C
     text:
       -
         type: paragraph
@@ -103,29 +103,43 @@ page_builder:
           -
             type: text
             text: 'The seed would ask to be swallowed so visitors would carry it in their belly and would discover the whole installation guided by the seed.'
+    type: text
+    enabled: true
+  -
+    id: Ymaltio9pLUEhWbWsDWdC
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
           -
-            type: hardBreak
+            type: text
+            text: '"Marije was able to bring all our dreams to life with an incredibly interactive and thoughtful installation, using Caesarstone as the conduit for a food journey from seed to food. It was our most popular installation."'
           -
             type: hardBreak
           -
             type: hardBreak
           -
             type: text
-            text: 'Marije was able to bring all our dreams to life with an incredibly interactive and thoughtful installation, using Caesarstone as the conduit for a food journey from seed to food. It was our most popular installation.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Elizabeth Marglez'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Vice president Marketing North America, Caesarstone'
-          -
-            type: hardBreak
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Elizabeth Marglez, Vice president Marketing North America, Caesarstone'
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: seGCRPqhEYqkTFQVkm4TR
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The seed would take you to an area with a designed grinding table made from Caesarstone where other seeds were ground and made into flour and invite you to try it as well. As you can understand this is a slightly scary experience for the seed but he would guide you through it like a hero.'
