@@ -11,7 +11,7 @@ page_builder:
     heading_type: h2
     type: hero
     enabled: true
-    image: marijevogelzang(91).jpg
+    image: playground/marijevogelzang(91).jpg
     overlap: false
   -
     id: mbclzl05
