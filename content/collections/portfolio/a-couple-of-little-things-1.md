@@ -136,7 +136,7 @@ page_builder:
     images:
       - img_6075-2.jpg
       - portfolio/food-massage-salon/_22a4348.jpg
-      - _22a4355.jpg
+      - portfolio/food-massage-salon/_22a4355.jpg
       - _22a4498.jpg
     gallery_style: grid
     type: image_gallery

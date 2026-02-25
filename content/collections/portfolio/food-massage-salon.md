@@ -16,7 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: _22a4355.jpg
+    image: portfolio/food-massage-salon/_22a4355.jpg
   -
     id: OBusPQAFbEDUQlwyFHTdw
     text:
