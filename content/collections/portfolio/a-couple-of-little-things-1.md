@@ -123,7 +123,7 @@ page_builder:
       - portfolio/a-couple-of-litlle-things/performanssi_lampa04.jpg
       - portfolio/a-couple-of-litlle-things/a-couple-of-little-things-1.jpg
       - portfolio/a-couple-of-litlle-things/performanssi_lampa10.jpg
-      - performanssi_lampa22.jpg
+      - portfolio/a-couple-of-litlle-things/performanssi_lampa22.jpg
     gallery_style: grid
     type: image_gallery
     enabled: true
