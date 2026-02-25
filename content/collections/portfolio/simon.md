@@ -6,7 +6,7 @@ title: Simon
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772042996
+updated_at: 1772043277
 page_builder:
   -
     id: mljbmkzt
@@ -92,6 +92,28 @@ page_builder:
             type: text
             text: 'So the design for Huis van Gijn turned out to be a cake. The base of this cake is sourdough-leaven, inspired by the famous Herman friendship cake. It needs to be fed. to be nourished, kept alive, baked, eaten, enjoyed and shared as well. A small system of molecular life translated into deliciousness.'
     type: text
+    enabled: true
+  -
+    id: 4VzY7V73pWao93_St0buo
+    images:
+      - portfolio/simon/dsc_3113.jpg
+      - portfolio/simon/dsc_3120.jpg
+      - portfolio/simon/dsc_3136.jpg
+      - portfolio/simon/dsc_3138.jpg
+      - portfolio/simon/dsc_3151.jpg
+      - portfolio/simon/dsc_3156.jpg
+      - portfolio/simon/dsc_3157-(1).jpg
+      - portfolio/simon/dsc_3157.jpg
+      - portfolio/simon/img_1812.jpg
+      - portfolio/simon/img_1814.jpg
+      - portfolio/simon/schets20.jpg
+      - portfolio/simon/schets21.jpg
+      - portfolio/simon/simonvoor.jpg
+      - portfolio/simon/sticker.jpg
+      - portfolio/simon/dsc_3214.jpg
+      - portfolio/simon/dsc_3132.jpg
+    aspect_ratio: none
+    type: image_gallery
     enabled: true
   -
     id: lEmvPLMA7oyMSXY-st5C4
