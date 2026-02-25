@@ -6,7 +6,7 @@ title: 'Intangible Bento'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772010984
+updated_at: 1772012345
 page_builder:
   -
     id: mljbmkzt
@@ -56,7 +56,7 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'the gallery space at the museum is huge and approached from the top. Immediately I imagined it as an enormous bento box which could be entered by humans as if they are tiny and go into the box. (We always say to think outside the box but I doubt that.)'
+            text: 'The gallery space at the museum is huge and approached from the top. Immediately I imagined it as an enormous bento box which could be entered by humans as if they are tiny and go into the box. (We always say to think outside the box but I doubt that.)'
           -
             type: hardBreak
           -
