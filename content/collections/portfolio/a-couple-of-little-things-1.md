@@ -3,7 +3,7 @@ id: 5eedacd5-bde8-4c3a-bd88-5dc87ad1b6e9
 blueprint: portfolio
 title: 'A Couple of Little Things'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772015462
+updated_at: 1772015561
 page_builder:
   -
     id: mljbmkzt
@@ -111,7 +111,7 @@ page_builder:
           -
             type: text
             text: 'The experience is a subtle, multi sensorial ritual that touches our inner child. Combining flavours with words, sound and touch the experience gives the visitor a space to reflect on perception and what it is that makes us human.'
-    image: portfolio/a-couple-of-litlle-things/a-couple-of-little-things-1.jpg
+    image: a-couple-of-little-things1.jpg
     image_position: left
     type: image_text
     enabled: true
@@ -121,9 +121,9 @@ page_builder:
       - performanssi_lampa21.jpg
       - performanssi_lampa14.jpg
       - performanssi_lampa04.jpg
-      - performanssi_lampa22.jpg
-      - a-couple-of-little-things1.jpg
+      - portfolio/a-couple-of-litlle-things/a-couple-of-little-things-1.jpg
       - performanssi_lampa10.jpg
+      - performanssi_lampa22.jpg
     gallery_style: grid
     type: image_gallery
     enabled: true
