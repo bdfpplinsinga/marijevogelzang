@@ -6,7 +6,7 @@ title: Teardrop
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773413536
+updated_at: 1773413625
 page_builder:
   -
     id: mljbmkzt
@@ -223,12 +223,8 @@ page_builder:
                   -
                     type: text
                     text: 'Saudi Design Week'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hardBreak
                   -
                     type: text
                     text: 'Riyadh, Saudi Arabia'
@@ -241,12 +237,8 @@ page_builder:
                   -
                     type: text
                     text: 'EAT ME exhibition'
-          -
-            type: listItem
-            content:
-              -
-                type: paragraph
-                content:
+                  -
+                    type: hardBreak
                   -
                     type: text
                     text: 'TRAPHOLT museum, Denmark'
