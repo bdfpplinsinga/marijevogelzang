@@ -6,7 +6,7 @@ title: 'The Blind Date Project'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773414340
+updated_at: 1773414404
 page_builder:
   -
     id: mljbmkzt
@@ -57,47 +57,39 @@ page_builder:
           -
             type: text
             text: 'Dating is prohibited in Qatar.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'Many times marriages are arranged. For this reason, and because of the veils women wear, you could speak of a marriage like a blind date. You don’t really know who you will be connected to. For life.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'In the first layer, the blind date project is a date tasting as dates are abundant in the Middle East. The dates are arranged on a specially designed tablecloth in a typical Arabic pattern. We selected dates from different countries with various colors, shapes and textures. The participants are blindfolded and taste all varieties.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The use of a blindfold heightens the senses and helps distinguishing the various qualities of dates. It is also a reference to the Arabic dress, the abaya, where only the eyes are shown.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The blindfold visually fills the negative space of the abaya. They complement each other to make a whole.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'We tenderly fed the blindfolded participants with the various dates and asked them to describe the taste experience. The dates were described with words such as sweet, soft, not too sticky etc. After tasting all the dates they could select their ‘perfect date’. A subtle way to talk about taste preferences as you would talk about dating another person.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'Now we would tell them from which country their perfect date came from and give them the seeds in a small envelope for them to sow and grow their perfect date themselves.'
