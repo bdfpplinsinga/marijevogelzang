@@ -6,7 +6,7 @@ title: 'The Blind Date Project'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773414174
+updated_at: 1773414305
 page_builder:
   -
     id: mljbmkzt
@@ -115,7 +115,35 @@ page_builder:
           -
             type: hardBreak
           -
-            type: hardBreak
+            type: text
+            text: 'Now we would tell them from which country their perfect date came from and give them the seeds in a small envelope for them to sow and grow their perfect date themselves.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Eventually we asked the participants to write down the characteristics of their ‘perfect date’ on a post-it and stick it to our collection on the wall.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In all it’s subtlety it opened a space to talk about dates and flavour preferences as if talking about dates and qualities and preferences in others.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The featured dates were dates from Saudi arabia, Qatar, Tunesia and U.S (California)'
+    type: text
+    enabled: true
+  -
+    id: Mbyv3chxAVzoM_E4z5Wy1
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'The fattest dates are from the States.'
@@ -125,39 +153,18 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: participant
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'blind date workshop'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Now we would tell them from which country their perfect date came from and give them the seeds in a small envelope for them to sow and grow their perfect date themselves.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Eventually we asked the participants to write down the characteristics of their ‘perfect date’ on a post-it and stick it to our collection on the wall.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'In all it’s subtlety it opened a space to talk about dates and flavour preferences as if talking about dates and qualities and preferences in others.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'The featured dates were dates from Saudi arabia, Qatar, Tunesia and U.S (California)'
-    type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Participant, Blind Date Workshop'
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
     enabled: true
   -
     id: AfXS85aLafAu-ByWbPouR
