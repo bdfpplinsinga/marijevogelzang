@@ -1,12 +1,11 @@
 ---
 id: 33392a51-df89-402a-9131-39096c4c8f04
-published: false
 blueprint: portfolio
 title: Teardrop
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773413651
+updated_at: 1773413665
 page_builder:
   -
     id: mljbmkzt
