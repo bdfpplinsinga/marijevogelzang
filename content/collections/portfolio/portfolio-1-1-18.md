@@ -6,7 +6,7 @@ title: Teardrop
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773413498
+updated_at: 1773413536
 page_builder:
   -
     id: mljbmkzt
@@ -81,11 +81,21 @@ page_builder:
             type: hardBreak
           -
             type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
             text: 'Masha Lutsenko'
           -
             type: hardBreak
           -
             type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
             text: 'Polytechnic museum, Moscow'
     align_content: left
     link:
