@@ -6,7 +6,7 @@ title: 'The Eggchange'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773416124
+updated_at: 1773416774
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/the-eggchange/6fd0967c-c35b-4525-a1ba-b236161d8196.jpg
   -
     id: HadJI5Reqw0dlmtJlP4F5
     text:
@@ -66,12 +67,27 @@ page_builder:
     type: text
     enabled: true
   -
+    id: rsNl5pkmWQORXgi9ZZ2ze
+    images:
+      - portfolio/the-eggchange/img_1960.jpg
+      - portfolio/the-eggchange/dsc_4637.jpg
+      - portfolio/the-eggchange/dsc_4664.jpg
+      - portfolio/the-eggchange/img_1970.jpg
+      - portfolio/the-eggchange/img_2002.jpg
+      - portfolio/the-eggchange/img_2795.jpg
+      - portfolio/the-eggchange/img_4428.jpg
+      - portfolio/the-eggchange/img_1963.jpg
+    columns: 4
+    aspect_ratio: 4
+    type: image_gallery
+    enabled: true
+  -
     id: DuZCD-hMheEq-vMN8oJc-
     video: 'https://www.youtube.com/watch?v=RtIwKXZdrGw'
     type: video_embed
     enabled: true
   -
-    id: NPKbK2Ar9dGS86ZH95mMd
+    id: ZmAdmlp22zI2gYX_4A_au
     text:
       -
         type: paragraph
@@ -98,6 +114,19 @@ page_builder:
           -
             type: text
             text: 'In this way you save your own natural capital. This capital grows by the attention and the time you spend on it. You can not accumulate capital without looking after it. The interest rate is determined by natural laws rather instead of market forces.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'In the debate on livestock people often accuse each other while finding a moralistic answer. Consumers should have different buying habits, farmer have to change the system and the government has to pass better laws. We are opposing each other but what we do not see is that we are in the same economic system. We’re all in the same boat.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Perhaps we can look at the chain in a different way. By having fertilised eggs, hatching them, keeping chickens and slaughtering them, people literally take the ethical issue home. The chicken on your plate will have a completely different value.'
     type: text
     enabled: true
   -
@@ -137,49 +166,28 @@ page_builder:
               -
                 type: italic
             text: 'Her Majesty of the Netherlands'
-    align_content: left
+    align_content: center
     link:
       link_type: entry
       target_blank: false
       button_type: button
     type: streamer
     enabled: true
-  -
-    id: ZmAdmlp22zI2gYX_4A_au
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In the debate on livestock people often accuse each other while finding a moralistic answer. Consumers should have different buying habits, farmer have to change the system and the government has to pass better laws. We are opposing each other but what we do not see is that we are in the same economic system. We’re all in the same boat.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Perhaps we can look at the chain in a different way. By having fertilised eggs, hatching them, keeping chickens and slaughtering them, people literally take the ethical issue home. The chicken on your plate will have a completely different value.'
-    type: text
-    enabled: true
+    image: portfolio/the-eggchange/img_4429.jpg
   -
     id: o8h3-d2eN3PpXsqXvgVMy
     images:
       - portfolio/the-eggchange/bestand-17-09-16-10-23-16.jpg
       - portfolio/the-eggchange/bestand-17-09-16-10-25-27.jpg
-      - portfolio/the-eggchange/img_1963.jpg
-      - portfolio/the-eggchange/img_1960.jpg
-      - portfolio/the-eggchange/img_2795.jpg
       - portfolio/the-eggchange/img_3294.jpg
       - portfolio/the-eggchange/img_4428.jpg
       - portfolio/the-eggchange/img_6876.jpg
-      - portfolio/the-eggchange/dsc_4637.jpg
       - portfolio/the-eggchange/img_4426-570x760.jpg
-      - portfolio/the-eggchange/img_4429-2.jpg
       - portfolio/the-eggchange/img_4431.jpg
+      - portfolio/the-eggchange/img_1918.jpg
       - portfolio/the-eggchange/img_6844.jpg
     columns: 3
-    aspect_ratio: none
+    aspect_ratio: 4
     type: image_gallery
     enabled: true
   -
