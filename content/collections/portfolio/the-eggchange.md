@@ -6,7 +6,7 @@ title: 'The Eggchange'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773416774
+updated_at: 1773416842
 page_builder:
   -
     id: mljbmkzt
@@ -180,7 +180,7 @@ page_builder:
       - portfolio/the-eggchange/bestand-17-09-16-10-23-16.jpg
       - portfolio/the-eggchange/bestand-17-09-16-10-25-27.jpg
       - portfolio/the-eggchange/img_3294.jpg
-      - portfolio/the-eggchange/img_4428.jpg
+      - portfolio/the-eggchange/img_4347.jpg
       - portfolio/the-eggchange/img_6876.jpg
       - portfolio/the-eggchange/img_4426-570x760.jpg
       - portfolio/the-eggchange/img_4431.jpg
