@@ -1,6 +1,5 @@
 ---
 id: 1aee6d25-7b5e-491f-bb93-3e5350e9e2fb
-published: false
 blueprint: portfolio
 title: 'The Eggchange'
 form_title: 'Request a quote'
