@@ -6,7 +6,7 @@ title: Teardrop
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773410778
+updated_at: 1773411821
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/teardrop/dsc06918.jpg
   -
     id: HadJI5Reqw0dlmtJlP4F5
     text:
@@ -55,13 +56,14 @@ page_builder:
     type: text
     enabled: true
   -
-    id: Y9Yy9d4CAmqYS2LCy1E5f
+    id: WacW-iARZKjhKD3cadUdD
     images:
-      - portfolio/teardrop/dsc07567.jpg
-      - portfolio/teardrop/dsc06915.jpg
-      - portfolio/teardrop/dsc07565.jpg
+      - portfolio/teardrop/dsc06891.jpg
+      - portfolio/teardrop/dsc06859.jpg
+      - portfolio/teardrop/dsc06924.jpg
+      - portfolio/teardrop/dsc07586.jpg
     columns: 3
-    aspect_ratio: none
+    aspect_ratio: 3
     type: image_gallery
     enabled: true
   -
@@ -95,14 +97,13 @@ page_builder:
     enabled: true
     image: portfolio/teardrop/dsc07567.jpg
   -
-    id: WacW-iARZKjhKD3cadUdD
+    id: Y9Yy9d4CAmqYS2LCy1E5f
     images:
-      - portfolio/teardrop/dsc06891.jpg
-      - portfolio/teardrop/dsc06859.jpg
-      - portfolio/teardrop/dsc06924.jpg
-      - portfolio/teardrop/dsc07586.jpg
+      - portfolio/teardrop/dsc07567.jpg
+      - portfolio/teardrop/dsc06915.jpg
+      - portfolio/teardrop/dsc07565.jpg
     columns: 3
-    aspect_ratio: 3
+    aspect_ratio: none
     type: image_gallery
     enabled: true
   -
@@ -134,6 +135,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: portfolio/teardrop/dsc06924.jpg
   -
     id: 0-bx-2ax4I22Le-yOCVYu
     text:
