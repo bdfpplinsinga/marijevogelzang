@@ -6,7 +6,7 @@ title: 'The Blind Date Project'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773415034
+updated_at: 1773415155
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/the-blind-date-project/sdc11041.jpg
   -
     id: jTf_3FeDNfBvmEnTygJy6
     text:
@@ -62,7 +63,7 @@ page_builder:
     enabled: true
   -
     id: _U2qF5nEuxlK5XSoJen6i
-    image: portfolio/the-blind-date-project/sdc11114-2048x1536.jpg
+    image: portfolio/the-blind-date-project/sdc11109.jpg
     aspect_ratio: 2
     type: image
     enabled: true
