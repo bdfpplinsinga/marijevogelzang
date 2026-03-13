@@ -56,7 +56,7 @@ page_builder:
       - portfolio/the-blind-date-project/sdc11091-760x570.jpg
       - portfolio/the-blind-date-project/sdc11093-760x570.jpg
       - portfolio/the-blind-date-project/sdc11098.jpg
-      - portfolio/the-blind-date-project/sdc11041.jpg
+      - portfolio/the-blind-date-project/sdc11109.jpg
       - portfolio/the-blind-date-project/sdc11109.jpg
       - portfolio/the-blind-date-project/sdc11017.jpg
       - portfolio/the-blind-date-project/sdc11110.jpg
