@@ -6,16 +6,17 @@ title: 'The National Tapwater Tasting'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773417748
+updated_at: 1773417968
 page_builder:
   -
     id: mljbmkzt
     heading: 'The National Tapwater Tasting'
     heading_type: h2
     text: 'How can we develop appreciation for mundane tap water?'
-    overlap: true
+    overlap: false
     type: hero
     enabled: true
+    image: portfolio/the-national-tapwater-tasting/img_7309.jpg
   -
     id: HadJI5Reqw0dlmtJlP4F5
     text:
@@ -87,8 +88,8 @@ page_builder:
               -
                 type: italic
             text: 'Ranti Tjan, Director of Sundaymorning@EKWC'
-    image: portfolio/the-national-tapwater-tasting/img_7309.jpg
-    align_content: center
+    image: portfolio/the-national-tapwater-tasting/1577664895_ba35db1075_o.jpg
+    align_content: right
     link:
       link_type: entry
       target_blank: false
