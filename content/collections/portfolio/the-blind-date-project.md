@@ -63,7 +63,7 @@ page_builder:
     enabled: true
   -
     id: _U2qF5nEuxlK5XSoJen6i
-    image: portfolio/the-blind-date-project/sdc11109.jpg
+    image: portfolio/the-blind-date-project/sdc11114-2048x1536.jpg
     aspect_ratio: 2
     type: image
     enabled: true
