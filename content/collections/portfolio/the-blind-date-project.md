@@ -6,7 +6,7 @@ title: 'The Blind Date Project'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773414305
+updated_at: 1773414340
 page_builder:
   -
     id: mljbmkzt
@@ -46,30 +46,14 @@ page_builder:
           -
             type: text
             text: 'Blind Date is a project I did with the masters program of VCU in Qatar. A 3 day project working with the students to make an eating design project about Islamic culture combining patterns, textures, colors and taste with the double meaning of the words BLIND DATE.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Facebook '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Twitter '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'sharethis '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Share with friends'
-          -
-            type: hardBreak
+    type: text
+    enabled: true
+  -
+    id: UR1zQ3u08e0VXzAa6UrFh
+    text:
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'Dating is prohibited in Qatar.'
