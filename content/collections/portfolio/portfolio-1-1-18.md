@@ -6,7 +6,7 @@ title: Teardrop
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773412986
+updated_at: 1773413498
 page_builder:
   -
     id: mljbmkzt
@@ -147,11 +147,22 @@ page_builder:
     id: FPfZLO2EolrtHv7WA2fA6
     text:
       -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: TEARDROP
+      -
         type: paragraph
         content:
           -
             type: text
-            text: 'Created for'
+            marks:
+              -
+                type: bold
+            text: 'Created for:'
           -
             type: hardBreak
           -
@@ -168,91 +179,95 @@ page_builder:
             type: hardBreak
           -
             type: text
-            text: 'Presented at'
+            marks:
+              -
+                type: bold
+            text: 'Presented at:'
+      -
+        type: bulletList
+        content:
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Eating design solo exhibition OCT gallery, Shenzhen, China'
           -
-            type: text
-            text: 'Eating design solo exhibition'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Martini time festival Polytechnic museum, Moscow'
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Saudi Design Week'
           -
-            type: text
-            text: 'OCT gallery, Shenzhen, China'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Riyadh, Saudi Arabia'
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'EAT ME exhibition'
           -
-            type: hardBreak
-          -
-            type: text
-            text: 'Presented at'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Martini time festival'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Polytechnic museum, Moscow'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Presented at'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Saudi Design Week'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Riyadh, Saudi Arabia'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Presented at'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'EAT ME exhibition'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'TRAPHOLT museum, Denmark'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'TRAPHOLT museum, Denmark'
+      -
+        type: paragraph
+        content:
           -
             type: text
-            text: 'Technical design'
+            marks:
+              -
+                type: bold
+            text: 'Technical Design:'
           -
             type: hardBreak
           -
             type: text
             text: 'Robin van der Werff'
+      -
+        type: paragraph
+        content:
           -
-            type: hardBreak
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Pictures by:'
           -
             type: hardBreak
           -
             type: text
-            text: 'and pictures by Henk van Dijke'
+            text: 'Henk van Dijke'
     type: text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
