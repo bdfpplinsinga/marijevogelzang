@@ -6,7 +6,7 @@ title: Teardrop
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773410180
+updated_at: 1773410778
 page_builder:
   -
     id: mljbmkzt
@@ -46,7 +46,23 @@ page_builder:
           -
             type: text
             text: 'I enjoyed sitting inside, staying dry and feeling the gentle shakes of the machinery and the wet foamy mess outside. I dreamt to experience a human-wash one day. A similar experience sized fur humans. You stand or sit on a conveyor belt naked or in your bathing suit. Nah… naked. and get scrubbed and bushed by huge wet foamy rolling and moving brushes.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The carwash experience, in a very light way inspires all my installations with ribbons or string. The haptic quality when engaging with the work is subtle and powerful at the same time. You cannot ignore it but it doesn’t really obstruct you either. It is silently present to stroke you. Or you activate it to stroke you by walking through.'
     type: text
+    enabled: true
+  -
+    id: Y9Yy9d4CAmqYS2LCy1E5f
+    images:
+      - portfolio/teardrop/dsc07567.jpg
+      - portfolio/teardrop/dsc06915.jpg
+      - portfolio/teardrop/dsc07565.jpg
+    columns: 3
+    aspect_ratio: none
+    type: image_gallery
     enabled: true
   -
     id: fqC-Ri2FleNYi8ti1gsXY
@@ -55,13 +71,6 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
-            text: 'The carwash experience, in a very light way inspires all my installations with ribbons or string. The haptic quality when engaging with the work is subtle and powerful at the same time. You cannot ignore it but it doesn’t really obstruct you either. It is silently present to stroke you. Or you activate it to stroke you by walking through.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
           -
             type: text
             text: 'Teardrop is an installation with 5 kilometres of rope. In the center of the rope forest you find a ring with 24 pipettes. All of them are filled with a different water soluble flavour.'
@@ -83,6 +92,18 @@ page_builder:
             text: 'The person in the middle cannot reach the strings connected to the pipets so he’s dependant on another person to pull the string and release a drop. Taking away the power over the release of the drop, even when it’s just one single drop, creates a tension in the experience. By shifting the power balance, one drop can seem much bigger than it actually is.'
     image_position: left
     type: image_text
+    enabled: true
+    image: portfolio/teardrop/dsc07567.jpg
+  -
+    id: WacW-iARZKjhKD3cadUdD
+    images:
+      - portfolio/teardrop/dsc06891.jpg
+      - portfolio/teardrop/dsc06859.jpg
+      - portfolio/teardrop/dsc06924.jpg
+      - portfolio/teardrop/dsc07586.jpg
+    columns: 3
+    aspect_ratio: 3
+    type: image_gallery
     enabled: true
   -
     id: SRgbhnfzQunhB5KK0L-XO
@@ -130,17 +151,6 @@ page_builder:
             type: text
             text: 'The way people communicate when they are collaborating but just a bit far away from each other. To see who is going to be in the middle and who will pull the strings. Those things I find fascinating to observe. It might not be a carwash but now I think of it, perhaps it’s a kind of brainwash with taste.'
     type: text
-    enabled: true
-  -
-    id: WacW-iARZKjhKD3cadUdD
-    images:
-      - portfolio/teardrop/dsc06891.jpg
-      - portfolio/teardrop/dsc06859.jpg
-      - portfolio/teardrop/dsc06924.jpg
-      - portfolio/teardrop/dsc07586.jpg
-    columns: 3
-    aspect_ratio: 3
-    type: image_gallery
     enabled: true
   -
     id: FPfZLO2EolrtHv7WA2fA6
