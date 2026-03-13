@@ -6,7 +6,7 @@ title: 'The Blind Date Project'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773414404
+updated_at: 1773414779
 page_builder:
   -
     id: mljbmkzt
@@ -47,6 +47,22 @@ page_builder:
             type: text
             text: 'Blind Date is a project I did with the masters program of VCU in Qatar. A 3 day project working with the students to make an eating design project about Islamic culture combining patterns, textures, colors and taste with the double meaning of the words BLIND DATE.'
     type: text
+    enabled: true
+  -
+    id: 98JBvwFG8iuK0I9XF8liB
+    images:
+      - portfolio/the-blind-date-project/sdc11094.jpg
+      - portfolio/the-blind-date-project/sdc11089-760x570.jpg
+      - portfolio/the-blind-date-project/sdc11091-760x570.jpg
+      - portfolio/the-blind-date-project/sdc11093-760x570.jpg
+      - portfolio/the-blind-date-project/sdc11098.jpg
+      - portfolio/the-blind-date-project/sdc11041.jpg
+      - portfolio/the-blind-date-project/sdc11109.jpg
+      - portfolio/the-blind-date-project/sdc11017.jpg
+      - portfolio/the-blind-date-project/sdc11110.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
     enabled: true
   -
     id: UR1zQ3u08e0VXzAa6UrFh
