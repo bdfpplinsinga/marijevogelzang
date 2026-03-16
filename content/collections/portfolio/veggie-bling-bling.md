@@ -6,7 +6,7 @@ title: 'Veggie Bling Bling'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773662498
+updated_at: 1773663049
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/veggie-bling-bling/img_8705.jpg
   -
     id: HadJI5Reqw0dlmtJlP4F5
     text:
@@ -103,6 +104,34 @@ page_builder:
             type: text
             text: 'If you have a stubborn vegetable eater at home, why don’t you try this approach with a couple of kids together? Let me know how it went!'
     type: text
+    enabled: true
+  -
+    id: Jg7WdBGUwd06kTVjF9oC6
+    images:
+      - portfolio/veggie-bling-bling/dsc_0420.jpg
+      - portfolio/veggie-bling-bling/dsc_0482.jpg
+      - portfolio/veggie-bling-bling/img_8643.jpg
+      - portfolio/veggie-bling-bling/img_8687.jpg
+      - portfolio/veggie-bling-bling/img_8662.jpg
+      - portfolio/veggie-bling-bling/img_8700.jpg
+      - portfolio/veggie-bling-bling/img_8750.jpg
+      - portfolio/veggie-bling-bling/img_8757.jpg
+      - portfolio/veggie-bling-bling/img_8747.jpg
+      - portfolio/veggie-bling-bling/dsc_0265.jpg
+      - portfolio/veggie-bling-bling/img_8668.jpg
+      - portfolio/veggie-bling-bling/dsc_0357.jpg
+      - portfolio/veggie-bling-bling/dsc_0362.jpg
+      - portfolio/veggie-bling-bling/img_8728.jpg
+      - portfolio/veggie-bling-bling/dsc_0432.jpg
+      - portfolio/veggie-bling-bling/img_8665.jpg
+      - portfolio/veggie-bling-bling/dsc_0433.jpg
+      - portfolio/veggie-bling-bling/dsc_0444.jpg
+      - portfolio/veggie-bling-bling/dsc_0443.jpg
+      - portfolio/veggie-bling-bling/dsc_0463.jpg
+      - portfolio/veggie-bling-bling/dsc_0467.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
     enabled: true
   -
     id: bu4_S3OJnzqEQYKEqL_MW
