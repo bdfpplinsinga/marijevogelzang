@@ -6,7 +6,7 @@ title: 'Veggie Bling Bling'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773418330
+updated_at: 1773662480
 page_builder:
   -
     id: mljbmkzt
@@ -128,6 +128,7 @@ page_builder:
     image: portfolio/veggie-bling-bling/dsc_0368.jpg
     align_content: left
     link:
+      label: intern@marijevogelzang.nl
       link_type: entry
       target_blank: false
       button_type: button
