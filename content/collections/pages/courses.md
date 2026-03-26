@@ -208,6 +208,13 @@ page_builder:
     heading_type: h2
     type: faq
     enabled: true
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: aaaaaa
   -
     id: socmjidQ0DsyPu8otUMwR
     heading_type: h2
@@ -417,5 +424,5 @@ page_builder:
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774530157
+updated_at: 1774533766
 ---
