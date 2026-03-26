@@ -1,5 +1,6 @@
 ---
 id: home
+published: false
 blueprint: pages
 title: Home
 template: default
