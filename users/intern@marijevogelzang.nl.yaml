@@ -6,7 +6,7 @@ password_hash: $2y$12$3/rOFiC0JOKg4FKpD3mwEuy73Jl3F0/hFeLnRJ/a087U.2kVCvD8G
 preferences:
   collections:
     pages:
-      view: tree
+      view: list
       after_save: continue_editing
     portfolio:
       view: list
