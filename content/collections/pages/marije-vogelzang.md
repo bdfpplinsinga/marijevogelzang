@@ -6,7 +6,7 @@ title: 'Marije Vogelzang'
 page_builder:
   -
     id: mb28d3a2
-    heading: 'Marije Vogelzang'
+    heading: 'About </br> Marije'
     heading_type: h1
     type: hero
     enabled: true
@@ -101,5 +101,5 @@ page_builder:
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774535244
+updated_at: 1774540596
 ---
