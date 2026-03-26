@@ -6,7 +6,7 @@ title: Volumes
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774516015
+updated_at: 1774516118
 page_builder:
   -
     id: mljbmkzt
@@ -41,6 +41,16 @@ page_builder:
       - portfolio/volumes/volumes.-2017.-img.-209.jpg
     columns: 3
     aspect_ratio: none
+    type: image_gallery
+    enabled: true
+  -
+    id: tceSUCnQFwDjkb5SB9b1Y
+    images:
+      - portfolio/volumes/img_0282.jpg
+      - portfolio/volumes/img_0284.jpg
+      - portfolio/volumes/img_0287.jpg
+    columns: 3
+    aspect_ratio: 4
     type: image_gallery
     enabled: true
   -
