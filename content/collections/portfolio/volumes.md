@@ -6,7 +6,7 @@ title: Volumes
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774516486
+updated_at: 1774517593
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/volumes/volumes.-2017.-img.-287.jpg
   -
     id: udYfzX5Z-HErCJRwPl7fC
     text:
@@ -45,13 +46,53 @@ page_builder:
           -
             type: text
             text: "I am fascinated by behavioural science studies and food psychology. For a while now I have been contemplating about how we can use insights from these studies into tangible design.\_ For the exhibition Food Revolution 5.0 of Museum für Kunst und Gewerbe, Hamburg I made a project to propose to eat less while experiencing more."
-          -
-            type: hardBreak
-          -
-            type: hardBreak
+      -
+        type: paragraph
+        content:
           -
             type: text
             text: 'Volumes is a research and development project of a series of objects that are placed directly on the plate between the food. Behavioural research shows that our brain uses our visual capacities to register the amount of food we have eaten. For example, if we eat shelled peanuts and leave the shells on the table we will eat less than if we would take the shells away directly after eating the peanuts. In the words of food psychologist Brian Wansink (Cornell University) we are not designed to actually keep track of how much we’ve consumed. Most of us seem to rely on the size – the volume – of the food to tell us when we’re full. We usually try to eat the same visible amount of food we’re used to eat.'
+    type: text
+    enabled: true
+  -
+    id: e6fieUQ5wZhdbNKT3haMB
+    video: 'https://www.youtube.com/watch?v=FIDgzO2aUF0'
+    type: video_embed
+    enabled: true
+  -
+    id: xVi1_XDG51fVNlrnf0XO4
+    images:
+      - portfolio/volumes/volumes.-2017.-img.-111.jpg
+      - portfolio/volumes/volumes.-2017.-img.-180.jpg
+      - portfolio/volumes/volumes.-2017.-img.-210.jpg
+      - portfolio/volumes/volumes.-2017.-img.-114.jpg
+      - portfolio/volumes/volumes.-2017.-img.-182.jpg
+      - portfolio/volumes/volumes.-2017.-img.-209.jpg
+    columns: 3
+    aspect_ratio: none
+    type: image_gallery
+    enabled: true
+  -
+    id: bTuNElUNJD6I0f8iPqPoy
+    image: portfolio/volumes/volumes.-2017.-img.-282.jpg
+    aspect_ratio: 2
+    type: image
+    enabled: false
+  -
+    id: vJLZWLb_5SSOt8iVAX7W-
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'By giving more attention to the presentation of our food we might be able to change our mindless consumption behavior into a mindful experience. For centuries most of the tableware china consisted out of plates and bowls. These plates and bowls have grown together with our consumption behavior in the last centuries. We are adding the next step. Volumes to give body to your food and to keep your body healthy.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We’ve made a large collection of prototypes made from found stones and food safe- and heat resistant silicone and a collection made of porcelain. The stones inside add some weight when you lift the plate to add body to your food but also serve as thermo agents. Put the stones in hot water and they will keep your food warm, put them in the freezer and they keep your food cold so you can take your time eating. The shapes sticking out of the stone are made to support your food styling and can carry a single piece of food or sauce. Food styling is not just vain aesthetics. Food styling makes people eat with more care and attention.'
       -
         type: paragraph
         content:
@@ -92,71 +133,24 @@ page_builder:
               -
                 type: italic
             text: 'Lisa Bender'
-    align_content: left
+    align_content: right
     link:
       link_type: entry
       target_blank: false
       button_type: button
     type: streamer
     enabled: true
-  -
-    id: AqKSTpXJzJ81HJXBUaby4
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'By giving more attention to the presentation of our food we might be able to change our mindless consumption behavior into a mindful experience. For centuries most of the tableware china consisted out of plates and bowls. These plates and bowls have grown together with our consumption behavior in the last centuries. We are adding the next step. Volumes to give body to your food and to keep your body healthy.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'We’ve made a large collection of prototypes made from found stones and food safe- and heat resistant silicone and a collection made of porcelain. The stones inside add some weight when you lift the plate to add body to your food but also serve as thermo agents. Put the stones in hot water and they will keep your food warm, put them in the freezer and they keep your food cold so you can take your time eating. The shapes sticking out of the stone are made to support your food styling and can carry a single piece of food or sauce. Food styling is not just vain aesthetics. Food styling makes people eat with more care and attention.'
-    type: text
-    enabled: true
-  -
-    id: xVi1_XDG51fVNlrnf0XO4
-    images:
-      - portfolio/volumes/volumes.-2017.-img.-111.jpg
-      - portfolio/volumes/volumes.-2017.-img.-180.jpg
-      - portfolio/volumes/volumes.-2017.-img.-210.jpg
-      - portfolio/volumes/volumes.-2017.-img.-114.jpg
-      - portfolio/volumes/volumes.-2017.-img.-182.jpg
-      - portfolio/volumes/volumes.-2017.-img.-209.jpg
-    columns: 3
-    aspect_ratio: none
-    type: image_gallery
-    enabled: true
+    image: portfolio/volumes/volumes.-2017.-img.-282.jpg
   -
     id: tceSUCnQFwDjkb5SB9b1Y
     images:
       - portfolio/volumes/img_0282.jpg
-      - portfolio/volumes/img_0284.jpg
-      - portfolio/volumes/img_0287.jpg
-    columns: 3
-    aspect_ratio: 4
-    type: image_gallery
-    enabled: true
-  -
-    id: eCDkmIenjvqVccJxck9x6
-    images:
-      - portfolio/volumes/volumes.-2017.-img.-282.jpg
-      - portfolio/volumes/volumes.-2017.-img.-282.jpg
-    columns: 2
-    aspect_ratio: 1
-    type: image_gallery
-    enabled: true
-  -
-    id: ESYTU308Pob-EjB77YwXI
-    images:
-      - portfolio/volumes/img_0952.jpg
-      - portfolio/volumes/img_0779.jpg
       - portfolio/volumes/img_0248.jpg
+      - portfolio/volumes/img_0284.jpg
+      - portfolio/volumes/img_0952.jpg
+      - portfolio/volumes/img_0287.jpg
       - portfolio/volumes/volumes.-2017.-img.-242.jpg
-    columns: 4
+    columns: 3
     aspect_ratio: 4
     type: image_gallery
     enabled: true
