@@ -2,8 +2,8 @@
 id: 9892dfce-94d1-4921-acbc-0ee103830f6d
 blueprint: page
 title: FAQ
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1751361802
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1774534906
 page_builder:
   -
     id: mbf33wlp
@@ -28,6 +28,7 @@ page_builder:
     text: 'Heb je vragen? Dat is niet vreemd. Er is maar één Food Design Playground op de wereld en wij doen dingen vaak net even anders. Hieronder vind je een lijst met veelgestelde vragen. Staat je vraag er niet tussen? Neem dan gerust contact op.'
     type: hero
     enabled: false
+    overlap: false
   -
     id: mbcmb9d6
     text:
