@@ -16,77 +16,58 @@ page_builder:
     id: mb28f09z
     text:
       -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Ontwerper, docent, foodfilosoof en speelse rebel. Al meer dan 26 jaar beweeg ik me op het snijvlak van voedsel, design en menselijke emotie. Niet als chef, maar als ontwerper—voor wie eten niet alleen voeding is, maar een drager van betekenis. Iets dat verbindt, herinnert, bevraagt, heelt en transformeert.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Food design gaat in mijn werk niet over mooi eten. Het gaat over verbeeldingskracht gebruiken, samen met je zintuigen. En toevallig vind ik eten daar heel geschikt voor.  En als je dan toch iets met eten doet, dan zorg je ook dat het lekker en mooi is, toch?'
-    type: text
-    enabled: true
-  -
-    id: mbjh9if4
-    heading_type: h2
-    text:
-      -
-        type: paragraph
+        type: heading
         attrs:
-          textAlign: left
+          level: 2
         content:
           -
             type: text
-            text: 'Ik werk sinds 1999 als ontwerper met eten. ‘Er zijn al zo veel tafels, stoelen en vazen’, dacht ik, toen ik eind jaren 90 aan de Design Academy in Eindhoven studeerde. Zou het niet veel interessanter zijn om me te richten op een materiaal en en onderwerp wat vergankelijk is? Iets wat je niet alleen kunt zien, maar wat je met al je zintuigen kunt ervaren en wat uiteindelijk in je lijf en daarna het toilet terecht komt. Eigenlijk ontwerp ik poep. En daar ben ik heel blij mee.Tussen 2004 en 2011 heb ik twee experimentele restautrants gehad in Rotterdam en Amsterdam, genaamd Proef.Daarnaast en daarna ben ik altijd aan mijn ontwerpen blijven werken, voor musea bijvoorbeeld. Mijn werk is de hele wereld over gereisd. Van het Toyo Metropolitan art museum, tot het Cooper Hewitt Smithsonian in New York.'
-    image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
-    image_position: left
-    type: image_text
-    enabled: true
-  -
-    id: mbjhbxq2
-    heading: 'een nieuw vakgebied'
-    heading_type: h2
-    text:
+            marks:
+              -
+                type: bold
+            text: 'When I was a child I wanted to be a farmer merged with a fairy. Or something similar.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Daarnaast geef ik les in food design en ben ik 8 jaar lang hoofd van de afdeling Food Non Food aan de Design Academy Eindhoven geweest.'
+            text: 'You could argue that I actually made it! In my life and in my work I dream vividly. I get most of my ideas in the shower where I keep a waterproof notepad to scribble down small illustrations and poems.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Ik geef les omdat ik geloof dat creativiteit geen luxe is, maar een overlevingsvaardigheid. Voedsel is daarbij mijn favoriete medium: intiem, universeel en gelaagd. Wanneer we ontwerpen met voedsel, rangschikken we geen ingrediënten, maar creëren we ervaringen. We roepen herinneringen op en planten ideeën in het lichaam van anderen.'
+            text: 'My children like to make scribbles interacting with my illustrations and write down shower assignments. Draw your face here as if you are garbage… give this lemon a name… write down the sound you make when you eat ice cream!'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'In de afgelopen decennia gaf ik les op ontwerp opleidingen, culinaire opleidingen, internationale conferenties en via mijn eigen online programma’s. Mijn studenten kwamen van over de hele wereld: kunstenaars, ontwerpers, psychologen, docenten en nieuwsgierige food lovers—elk met hun eigen verhaal, elk met iets krachtigs om te delen.'
+            text: 'To play and to explore like a child – is there anything more exciting?'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Mijn manier van lesgeven is intuïtief, open en diep menselijk. Geen vaste formule, maar wel een duidelijke structuur. Ik stel vreemde vragen. Daag gewoontes uit. Laat ruimte voor stilte, voor lachen, voor verwarring, en soms ook voor falen—want dáár leeft het echte leren.'
+            text: 'I didn’t have any substantial culinary upbringing when growing up. We mainly ate typical Dutch food and I do remember wondering if there was anything else in the world. Still, it took years before I really discovered the world’s abundance in flavour.'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'In Food Design Playground geef ik workshops, retraites, lezingen en inspiratieontbijten.'
-    image: playground/marijevogelzang(5).jpg
-    align_content: left
-    link:
-      link_type: entry
-      target_blank: false
-      button_type: button
-    type: streamer
+            text: 'I enjoyed cooking simple things, but I loved serving food. Just observing who would pick what kind of food intrigued me. It wasn’t just the food itself that fascinated me…'
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: '… it was the act of eating!'
+    type: text
     enabled: true
   -
     id: vGd1uRxPpkhEIVYs0VOiB
@@ -101,6 +82,6 @@ page_builder:
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774540660
+updated_at: 1774540731
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
