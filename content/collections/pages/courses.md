@@ -144,11 +144,31 @@ page_builder:
     heading_type: h2
     align_content: left
     link:
+      label: 'DISCUSS WITH MARIJE >'
       link_type: entry
       target_blank: false
+      entry: f31e5144-e7d3-4d4d-93b9-d15f08d4d92e
       button_type: button
     type: streamer
     enabled: true
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Have a particular project in mind?'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Don’t know where to start?'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
   -
     id: Hycn2fWyDQy3u2OvAr_6e
     heading: 'I am a pioneer in the field of Food and Design'
@@ -322,12 +342,12 @@ page_builder:
     heading_type: h2
     align_content: left
     link:
-      label: "YES, LET'S GET STARTED"
+      label: "YES, LET'S GET STARTED >"
       link_type: entry
       target_blank: false
       button_type: button
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774529617
+updated_at: 1774529753
 ---
