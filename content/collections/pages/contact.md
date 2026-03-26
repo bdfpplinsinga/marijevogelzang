@@ -4,7 +4,7 @@ published: false
 blueprint: page
 title: Contact
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774540428
+updated_at: 1774540438
 page_builder:
   -
     id: mav2het5
@@ -23,10 +23,5 @@ page_builder:
     text: 'Complete the form or feel free to email me directly at studio@marijevogelzang.nl'
     newsletter: contact
     show_socials: true
-  -
-    id: mbtcq8dc
-    aspect_ratio: none
-    type: image
-    enabled: true
 ---
 Page with contact information.
