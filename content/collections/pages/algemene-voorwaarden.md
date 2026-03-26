@@ -1,9 +1,9 @@
 ---
 id: aeccacec-3051-46d6-8bc0-45dc62f2b3ec
 blueprint: page
-title: FAQ
+title: 'Algemene Voorwaarden'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774534472
+updated_at: 1774534693
 page_builder:
   -
     id: mbdjsu8n
