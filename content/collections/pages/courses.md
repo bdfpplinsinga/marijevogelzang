@@ -1,5 +1,6 @@
 ---
 id: ce711085-6ca2-4e74-8b2b-d674729498eb
+published: false
 blueprint: page
 title: Courses
 page_builder:
@@ -139,5 +140,5 @@ page_builder:
     type: text
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774527803
+updated_at: 1774527827
 ---
