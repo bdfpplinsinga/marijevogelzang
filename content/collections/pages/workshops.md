@@ -1,5 +1,6 @@
 ---
 id: 9b9ca2ef-e816-41aa-81da-159f42c992ec
+published: false
 blueprint: page
 title: cursussen
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
