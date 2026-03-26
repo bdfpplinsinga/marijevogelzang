@@ -22,11 +22,6 @@ fields:
               fields:
                 -
                   import: streamer
-            events:
-              display: Events
-              fields:
-                -
-                  import: event_collection
             image_text:
               display: 'Image & Text'
               fields:
