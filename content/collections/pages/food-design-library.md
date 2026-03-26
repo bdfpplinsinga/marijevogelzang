@@ -1,9 +1,10 @@
 ---
 id: 004c79ef-b878-48ad-9272-0d230402d1d7
+published: false
 blueprint: page
-title: 'Food<br> Design <br> Library'
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1752232688
+title: 'Food Design Library'
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1774534956
 page_builder:
   -
     id: maw6ur5p
