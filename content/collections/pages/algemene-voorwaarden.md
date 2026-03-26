@@ -1,16 +1,10 @@
 ---
 id: aeccacec-3051-46d6-8bc0-45dc62f2b3ec
 blueprint: page
-title: 'Algemene voorwaarden'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1749128193
+title: FAQ
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1774534472
 page_builder:
-  -
-    id: mbdjrjk4
-    image: playground/logokleur.jpg
-    aspect_ratio: none
-    type: image
-    enabled: true
   -
     id: mbdjsu8n
     text:
