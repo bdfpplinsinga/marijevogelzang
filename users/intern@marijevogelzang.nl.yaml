@@ -7,6 +7,7 @@ preferences:
   collections:
     pages:
       view: tree
+      after_save: continue_editing
     portfolio:
       view: list
       after_save: continue_editing
