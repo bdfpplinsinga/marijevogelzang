@@ -140,6 +140,34 @@ page_builder:
     type: text
     enabled: true
   -
+    id: OCsmj1a0wOGUBuMr8C9Gz
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '"Absolutely yes! It was inspiring and stimulating. Thanks to it I understood what is food design, how one can be a food designer and how one can create anything with food. After the course, I searched out a master about it and I found one that is suitable for me."'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Martina Fiorito, Food and Design dive’ graduate'
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
     id: socmjidQ0DsyPu8otUMwR
     heading_type: h2
     align_content: left
@@ -173,7 +201,6 @@ page_builder:
     id: Hycn2fWyDQy3u2OvAr_6e
     heading: 'I am a pioneer in the field of Food and Design'
     heading_type: h2
-    image: portraits/marije-by-hilde-harshagen.png
     image_position: right
     type: image_text
     enabled: true
@@ -349,5 +376,5 @@ page_builder:
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774529753
+updated_at: 1774529977
 ---
