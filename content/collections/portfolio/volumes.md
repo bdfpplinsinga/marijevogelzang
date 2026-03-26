@@ -6,7 +6,7 @@ title: Volumes
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774516369
+updated_at: 1774516455
 page_builder:
   -
     id: mljbmkzt
@@ -28,6 +28,120 @@ page_builder:
               -
                 type: italic
             text: Product
+    type: text
+    enabled: true
+  -
+    id: LNVq5KEnsW5QVe2uch2xR
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Our brains are not fully capable to dissect how much food we see on our plate. We don’t really know how much calories are on a plate of food when we see it. Since most of us are raised with the idea that we need to finish our plates, we tend to eat just a bit too much every day. After years of overeating just a little bit we end up overweight.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Facebook '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Twitter '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'sharethis '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Share with friends'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: "I am fascinated by behavioural science studies and food psychology. For a while now I have been contemplating about how we can use insights from these studies into tangible design.\_ For the exhibition Food Revolution 5.0 of Museum für Kunst und Gewerbe, Hamburg I made a project to propose to eat less while experiencing more."
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Volumes is a research and development project of a series of objects that are placed directly on the plate between the food. Behavioural research shows that our brain uses our visual capacities to register the amount of food we have eaten. For example, if we eat shelled peanuts and leave the shells on the table we will eat less than if we would take the shells away directly after eating the peanuts. In the words of food psychologist Brian Wansink (Cornell University) we are not designed to actually keep track of how much we’ve consumed. Most of us seem to rely on the size – the volume – of the food to tell us when we’re full. We usually try to eat the same visible amount of food we’re used to eat.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The project Volumes is an attempt to influence our eating behavior and our eating culture. We have the tendency to overeat and are visually mislead by large plates and wide glasses. By adding volumes to your plate your brain will register more food than there actually is.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Your stomach can’t count. Your brain will tell your stomach it had enough.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The shapes also enable you to place the food on your plate with more care and attention. They provide for playfulness and experimentation how to serve your food. They will direct attention to the plate for the eater to focus and therefore be more in touch with signals from the brain giving evidence that we should have eaten enough.'
+    type: text
+    enabled: true
+  -
+    id: 56ZepeV7hMuGHDW8o6pEE
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '"Love everything about it!"'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Lisa Bender'
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: AqKSTpXJzJ81HJXBUaby4
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'By giving more attention to the presentation of our food we might be able to change our mindless consumption behavior into a mindful experience. For centuries most of the tableware china consisted out of plates and bowls. These plates and bowls have grown together with our consumption behavior in the last centuries. We are adding the next step. Volumes to give body to your food and to keep your body healthy.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'We’ve made a large collection of prototypes made from found stones and food safe- and heat resistant silicone and a collection made of porcelain. The stones inside add some weight when you lift the plate to add body to your food but also serve as thermo agents. Put the stones in hot water and they will keep your food warm, put them in the freezer and they keep your food cold so you can take your time eating. The shapes sticking out of the stone are made to support your food styling and can carry a single piece of food or sauce. Food styling is not just vain aesthetics. Food styling makes people eat with more care and attention.'
     type: text
     enabled: true
   -
