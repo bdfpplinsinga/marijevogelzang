@@ -6,7 +6,7 @@ title: Volumes
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774517593
+updated_at: 1774517739
 page_builder:
   -
     id: mljbmkzt
@@ -86,18 +86,6 @@ page_builder:
         content:
           -
             type: text
-            text: 'By giving more attention to the presentation of our food we might be able to change our mindless consumption behavior into a mindful experience. For centuries most of the tableware china consisted out of plates and bowls. These plates and bowls have grown together with our consumption behavior in the last centuries. We are adding the next step. Volumes to give body to your food and to keep your body healthy.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'We’ve made a large collection of prototypes made from found stones and food safe- and heat resistant silicone and a collection made of porcelain. The stones inside add some weight when you lift the plate to add body to your food but also serve as thermo agents. Put the stones in hot water and they will keep your food warm, put them in the freezer and they keep your food cold so you can take your time eating. The shapes sticking out of the stone are made to support your food styling and can carry a single piece of food or sauce. Food styling is not just vain aesthetics. Food styling makes people eat with more care and attention.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
             text: 'The project Volumes is an attempt to influence our eating behavior and our eating culture. We have the tendency to overeat and are visually mislead by large plates and wide glasses. By adding volumes to your plate your brain will register more food than there actually is.'
           -
             type: hardBreak
@@ -110,6 +98,18 @@ page_builder:
           -
             type: text
             text: 'The shapes also enable you to place the food on your plate with more care and attention. They provide for playfulness and experimentation how to serve your food. They will direct attention to the plate for the eater to focus and therefore be more in touch with signals from the brain giving evidence that we should have eaten enough.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'By giving more attention to the presentation of our food we might be able to change our mindless consumption behavior into a mindful experience. For centuries most of the tableware china consisted out of plates and bowls. These plates and bowls have grown together with our consumption behavior in the last centuries. We are adding the next step. Volumes to give body to your food and to keep your body healthy.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We’ve made a large collection of prototypes made from found stones and food safe- and heat resistant silicone and a collection made of porcelain. The stones inside add some weight when you lift the plate to add body to your food but also serve as thermo agents. Put the stones in hot water and they will keep your food warm, put them in the freezer and they keep your food cold so you can take your time eating. The shapes sticking out of the stone are made to support your food styling and can carry a single piece of food or sauce. Food styling is not just vain aesthetics. Food styling makes people eat with more care and attention.'
     type: text
     enabled: true
   -
