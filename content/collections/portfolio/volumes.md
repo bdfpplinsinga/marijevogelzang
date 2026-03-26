@@ -5,8 +5,8 @@ blueprint: portfolio
 title: Volumes
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771017210
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1774515923
 page_builder:
   -
     id: mljbmkzt
@@ -28,6 +28,21 @@ page_builder:
               -
                 type: italic
             text: Product
+    type: text
+    enabled: true
+  -
+    id: ESYTU308Pob-EjB77YwXI
+    images:
+      - portfolio/volumes/img_0952.jpg
+      - portfolio/volumes/img_0779.jpg
+      - portfolio/volumes/img_0248.jpg
+      - portfolio/volumes/volumes.-2017.-img.-242.jpg
+    columns: 4
+    aspect_ratio: 4
+    type: image_gallery
+    enabled: true
+  -
+    id: fgsG72p9FCWJn-fyIVCif
     type: text
     enabled: true
 duplicated_from: 546213f2-afb4-415d-9597-c7ddebc09411
