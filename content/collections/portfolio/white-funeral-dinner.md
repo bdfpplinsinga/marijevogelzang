@@ -5,8 +5,8 @@ blueprint: portfolio
 title: 'White Funeral Dinner'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771017255
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1774517794
 page_builder:
   -
     id: mljbmkzt
@@ -28,6 +28,17 @@ page_builder:
               -
                 type: italic
             text: 'Installation - Performance - Product'
+    type: text
+    enabled: true
+  -
+    id: i_knY3mAx9X9eN2Z5NYUs
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "My first design with food was in 1999. It was a white funeral dinner. All the food, the ceramics and the clothing were white as white is the colour of death in some cultures. It was an alternative to Dutch black funeral culture without any significant food besides a slice of sponge cake. Since the first edition I have made iterations on the design. The ceramics became more organically shaped and I started adding text to the pieces, answering the question: if you are gone, how would you make yourself known to your loved ones? I came to this question after my aunt died and had told people jokingly that she would manifest herself as a spider. Now, when we find a spider in the house we greet it as if it’s my aunt. I collected answers from many different people and added them to the collection of white-in-all-shades bowls. They have been on display with white food inside at museum tot Zover until last week. It’s one of my favorite museums.\_ What would you answer to this question?"
     type: text
     enabled: true
 duplicated_from: 546213f2-afb4-415d-9597-c7ddebc09411
