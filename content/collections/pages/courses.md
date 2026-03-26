@@ -172,7 +172,7 @@ page_builder:
       -
         type: heading
         attrs:
-          level: 3
+          level: 2
         content:
           -
             type: text
@@ -180,41 +180,203 @@ page_builder:
               -
                 type: bold
             text: 'CONNECTING AND LEARNING WITH LIKE-MINDED PEOPLE FROM AROUND THE GLOBE'
-    type: text
-    enabled: true
-  -
-    id: W1SYfLBEDC567L-UwZbBT
-    faq_items:
       -
-        id: pw5Bk_VBc3ru5do6BEyH4
-        question: 'A bite a day'
-        answer:
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
           -
-            type: paragraph
-            content:
+            type: text
+            marks:
               -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'statamic://entry::f7c08ebd-16a7-451f-80d5-476e0dfa4f94'
-                      rel: null
-                      target: null
-                      title: null
-                text: link
-        type: faq
-        enabled: true
-    heading_type: h2
-    type: faq
-    enabled: true
-    text:
+                type: bold
+            text: 'A bite a day'
       -
         type: paragraph
         content:
           -
             type: text
-            text: aaaaaa
+            marks:
+              -
+                type: bold
+            text: 'No need to be an expert on food. We use food to shape our creative mind.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Your creative mind is hungry — and this is its daily meal.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Join '
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'A Bite a Day'
+          -
+            type: text
+            text: ' for a year of inspiration through food, design, and life.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'It’s five minutes a day that might just change how you see everything.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.marijevogelzang.nl/courses/abiteaday/'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: italic
+            text: 'Check it out'
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Summer School'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'This is a Summer School — Create Your Own Conceptual Dinner'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'A unique opportunity to join the summer school to create your own conceptual dinner.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.marijevogelzang.nl/courses/summerschool/'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: italic
+            text: 'Check it out'
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Advanced Dive'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'This is the natural next step after finishing the ‘Food and Design Dive’ course or when you want to professionalize.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Starting on 16th January 2026, you are going to go deeper and focus more on your own practice. Following Marije’s journey and learning her steps to fast-track your profession…'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.marijevogelzang.nl/courses/advanceddive/'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: italic
+            text: 'Check it out'
+      -
+        type: paragraph
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Food design retreat'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'What to expect: four days of creative nourishment'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'The very first food design retreat at the Food Design Playground in Dordrecht, the Netherlands.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.marijevogelzang.nl/courses/fooddesignretreat/'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: italic
+            text: 'Check it out'
+    type: text
+    enabled: true
   -
     id: socmjidQ0DsyPu8otUMwR
     heading_type: h2
@@ -424,5 +586,5 @@ page_builder:
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774533766
+updated_at: 1774533965
 ---
