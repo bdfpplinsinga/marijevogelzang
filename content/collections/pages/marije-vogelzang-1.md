@@ -6,12 +6,13 @@ title: 'Marije Vogelzang (Duplicated)'
 page_builder:
   -
     id: mb28d3a2
-    heading: 'About </br> Marije'
+    heading: 'hello there! </br> I’m Marije'
     heading_type: h1
     type: hero
     enabled: true
     image: portraits/marije-vogelzang.png
     overlap: false
+    text: 'The Grand Dame of Eating Design'
   -
     id: mb28f09z
     text:
@@ -82,6 +83,6 @@ page_builder:
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774540731
+updated_at: 1774540811
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
