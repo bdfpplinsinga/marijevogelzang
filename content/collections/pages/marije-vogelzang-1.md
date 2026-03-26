@@ -2,7 +2,7 @@
 id: 6de0328d-dca8-435a-8916-c5ea407fed9b
 published: false
 blueprint: page
-title: 'Marije Vogelzang (Duplicated)'
+title: 'About Marije'
 page_builder:
   -
     id: mb28d3a2
@@ -127,7 +127,7 @@ page_builder:
             type: text
             text: 'Today, I continue working and playing in many of the efforts that have been part of my journey in addition to providing opportunities to take a deep dive into the field of food and design and how to harness your creative capabilities with systems and tools that bring out your best self.'
     type: text
-    enabled: true
+    enabled: false
   -
     id: vGd1uRxPpkhEIVYs0VOiB
     heading_type: h2
@@ -141,6 +141,6 @@ page_builder:
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774541012
+updated_at: 1774541091
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
