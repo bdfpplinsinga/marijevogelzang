@@ -8,7 +8,6 @@ page_builder:
     id: Es30wP5-1k9XHF2zMt3bR
     heading: Courses
     heading_type: h2
-    text: 'Connecting and learning with like-minded people from around the globe'
     overlap: false
     type: hero
     enabled: true
@@ -166,6 +165,48 @@ page_builder:
       target_blank: false
       button_type: button
     type: streamer
+    enabled: true
+  -
+    id: rKmDd2gBoCu_7NgMHoTsA
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'CONNECTING AND LEARNING WITH LIKE-MINDED PEOPLE FROM AROUND THE GLOBE'
+    type: text
+    enabled: true
+  -
+    id: W1SYfLBEDC567L-UwZbBT
+    faq_items:
+      -
+        id: pw5Bk_VBc3ru5do6BEyH4
+        question: 'A bite a day'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'statamic://entry::f7c08ebd-16a7-451f-80d5-476e0dfa4f94'
+                      rel: null
+                      target: null
+                      title: null
+                text: link
+        type: faq
+        enabled: true
+    heading_type: h2
+    type: faq
     enabled: true
   -
     id: socmjidQ0DsyPu8otUMwR
@@ -376,5 +417,5 @@ page_builder:
     type: streamer
     enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774529977
+updated_at: 1774530157
 ---
