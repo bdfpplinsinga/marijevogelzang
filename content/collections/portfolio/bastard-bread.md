@@ -1,12 +1,11 @@
 ---
 id: eed6ee21-5bad-4bb9-a051-806538579d84
-published: false
 blueprint: portfolio
 title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771410215
+updated_at: 1772016785
 page_builder:
   -
     id: mljbmkzt
@@ -112,21 +111,24 @@ page_builder:
     enabled: true
     image: portfolio/bastard-bread/img_7678.jpg
   -
-    id: _WMCAS3JmkxivxXeBEHH9
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'INSERT GALLERY'
-    type: text
+    id: Ey501uIY4U-9uBRAvTkEv
+    images:
+      - portfolio/bastard-bread/img_7504.jpg
+      - portfolio/bastard-bread/img_7721.jpg
+      - portfolio/bastard-bread/img_7480.jpg
+      - portfolio/bastard-bread/img_7784.jpg
+      - portfolio/bastard-bread/8.-bastard-bread.jpg
+      - portfolio/bastard-bread/img_7445.jpg
+      - portfolio/bastard-bread/img_7444.jpg
+      - portfolio/bastard-bread/img_7746.jpg
+      - portfolio/bastard-bread/img_8301.jpg
+      - portfolio/bastard-bread/img_8439_bastard_bread.jpg
+      - portfolio/bastard-bread/img_8349.jpg
+      - portfolio/bastard-bread/img_8506.jpg
+    aspect_ratio: 4
+    type: image_gallery
     enabled: true
+    columns: 4
   -
     id: saGq6pVntJa1yiDDK3k4f
     heading_type: h2

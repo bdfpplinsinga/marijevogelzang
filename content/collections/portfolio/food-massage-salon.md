@@ -1,12 +1,11 @@
 ---
 id: a0c05ef0-e662-458c-b6aa-50e5f6679253
-published: false
 blueprint: portfolio
 title: 'Food Massage Salon'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771438310
+updated_at: 1772018838
 page_builder:
   -
     id: mljbmkzt
@@ -16,7 +15,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: _22a4355.jpg
+    image: portfolio/food-massage-salon/_22a4355.jpg
   -
     id: OBusPQAFbEDUQlwyFHTdw
     text:
@@ -118,7 +117,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: _22a4498.jpg
+    image: portfolio/food-massage-salon/_22a4498.jpg
   -
     id: lefrVWnUtlOGd_idmFpai
     video: 'https://www.youtube.com/watch?v=S9qaZWZq-DY'
@@ -169,7 +168,7 @@ page_builder:
           -
             type: text
             text: 'Visitors reaction ranged from highly amused and surprised to deeply touched and emotional feeling re-connected to their own senses in a way never felt before.'
-    image: _22a4545.jpg
+    image: portfolio/food-massage-salon/_22a4545.jpg
     image_position: left
     type: image_text
     enabled: true
@@ -194,7 +193,7 @@ page_builder:
               -
                 type: italic
             text: 'Ana Rita Cameira, curator of Melting, gastronomy summit, Porto'
-    image: _22a4593.jpg
+    image: portfolio/food-massage-salon/_22a4593.jpg
     align_content: left
     link:
       link_type: entry
@@ -223,7 +222,7 @@ page_builder:
               -
                 type: italic
             text: 'Ann-Christin Bertrand, Curator of C/O Berlin'
-    image: _22a4348.jpg
+    image: portfolio/food-massage-salon/_22a4348.jpg
     align_content: right
     link:
       link_type: entry

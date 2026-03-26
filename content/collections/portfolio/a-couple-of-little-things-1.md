@@ -2,8 +2,8 @@
 id: 5eedacd5-bde8-4c3a-bd88-5dc87ad1b6e9
 blueprint: portfolio
 title: 'A Couple of Little Things'
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1772013045
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1772015561
 page_builder:
   -
     id: mljbmkzt
@@ -111,37 +111,23 @@ page_builder:
           -
             type: text
             text: 'The experience is a subtle, multi sensorial ritual that touches our inner child. Combining flavours with words, sound and touch the experience gives the visitor a space to reflect on perception and what it is that makes us human.'
-    image: portfolio/a-couple-of-litlle-things/a-couple-of-little-things-1.jpg
+    image: portfolio/a-couple-of-litlle-things/a-couple-of-little-things1.jpg
     image_position: left
     type: image_text
     enabled: true
   -
-    id: W38givweFFUmgeaDruZbW
-    text:
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'INSERT GALLERY'
-    type: text
-    enabled: true
-  -
     id: QMSkWSEIEXUQL2giBXRLP
     images:
-      - img_6075-2.jpg
-      - _22a4348.jpg
-      - _22a4355.jpg
-      - _22a4498.jpg
+      - portfolio/a-couple-of-litlle-things/performanssi_lampa21.jpg
+      - portfolio/a-couple-of-litlle-things/performanssi_lampa14.jpg
+      - portfolio/a-couple-of-litlle-things/performanssi_lampa04.jpg
+      - portfolio/a-couple-of-litlle-things/a-couple-of-little-things-1.jpg
+      - portfolio/a-couple-of-litlle-things/performanssi_lampa10.jpg
+      - portfolio/a-couple-of-litlle-things/performanssi_lampa22.jpg
     gallery_style: grid
     type: image_gallery
     enabled: true
-    columns: 4
+    columns: 3
     aspect_ratio: 4
   -
     id: _hZotKrBV1JZDDe1F7S3w

@@ -66,7 +66,7 @@ page_builder:
           -
             type: text
             text: 'If you’re ready to deepen your ideas, sharpen your senses, and work beyond recipes, there’s a place at the table for you.'
-    image: marijevogelzang(88).jpg
+    image: playground/marijevogelzang(88).jpg
     type: streamer
     enabled: true
     align_content: left
@@ -98,7 +98,7 @@ page_builder:
           -
             type: text
             text: 'She lectures, exhibits, and guest-teaches worldwide, and now leads Food Design Playground in Dordrecht — a space for immersive food experiences that shift the focus from what we eat to how and why we eat.'
-    image: marijevogelzang(41).jpg
+    image: books/lick-it/marijevogelzang(41).jpg
     type: streamer
     enabled: true
     align_content: left
@@ -138,7 +138,7 @@ page_builder:
     id: q2i1c8FhL82On4LA1JkBX
     heading: Speaking
     heading_type: h2
-    image: marije-vogelzang-6.png
+    image: portraits/marije-vogelzang-6.png
     image_position: right
     type: image_text
     enabled: true

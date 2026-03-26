@@ -1,12 +1,11 @@
 ---
 id: 0872062c-eb24-4d13-9d4b-7dda9831c114
-published: false
 blueprint: portfolio
 title: 'Grazing City Scapes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772010195
+updated_at: 1772019246
 page_builder:
   -
     id: mljbmkzt
@@ -136,6 +135,22 @@ page_builder:
     type: streamer
     enabled: true
     image: portfolio/grazing-city-scapes/ape_1425.jpg
+  -
+    id: jKAq_-qL9PWXNw6Xtz_nm
+    images:
+      - portfolio/grazing-city-scapes/ape_0690.jpg
+      - portfolio/grazing-city-scapes/ape_0924.jpg
+      - portfolio/grazing-city-scapes/ape_0796.jpg
+      - portfolio/grazing-city-scapes/ape_1421.jpg
+      - portfolio/grazing-city-scapes/ape_1059.jpg
+      - portfolio/grazing-city-scapes/ape_0952.jpg
+      - portfolio/grazing-city-scapes/ape_1081.jpg
+      - portfolio/grazing-city-scapes/ape_0787.jpg
+      - portfolio/grazing-city-scapes/ape_1422.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
+    enabled: true
   -
     id: MRcHQRdaoOXXUnTJKussD
     text:

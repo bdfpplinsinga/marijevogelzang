@@ -82,10 +82,10 @@ page_builder:
       link_type: entry
       target_blank: false
       button_type: button
-    image: marijevogelzang(85).jpg
+    image: playground/marijevogelzang(85).jpg
   -
     id: mbtcvir3
-    image: marijevogelzang(9).jpg
+    image: books/lick-it/marijevogelzang(9).jpg
     aspect_ratio: none
     type: image
     enabled: true

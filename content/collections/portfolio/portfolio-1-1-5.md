@@ -1,12 +1,11 @@
 ---
 id: 0349c677-849c-4a12-9d39-e6b4a2dfe1f8
-published: false
 blueprint: portfolio
 title: 'Bits ‘n Bytes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771356222
+updated_at: 1772016192
 page_builder:
   -
     id: mljbmkzt
@@ -60,7 +59,7 @@ page_builder:
           -
             type: text
             text: 'At the start of the dinner, guests were requested to hand in their phones to keep the experience no-tech. Still communication with others was highly supported by all the other guests at the table. The plates, filled with ball-shaped food on top of the rolling candy balls, were standing on disks. The disks all carried a clip to hold cards. Every guest had a stack of cards and a pen next to their plate so they could write a message to other guests at the table. All guests had to help push the messages across from one to the other.'
-    image: portfolio/faked-meat/image-8.jpg
+    image: portfolio/bits-n-bytes/image-8.jpg
     image_position: left
     type: image_text
     enabled: true

@@ -10,7 +10,11 @@ preferences:
     portfolio:
       view: list
       after_save: continue_editing
+    courses:
+      view: list
+      after_save: continue_editing
   assets:
     assets:
       per_page: 500
-    browser_thumbnail_size: 185
+      mode: grid
+    browser_thumbnail_size: 235

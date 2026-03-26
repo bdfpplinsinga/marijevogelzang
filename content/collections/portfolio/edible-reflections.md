@@ -1,12 +1,11 @@
 ---
 id: 63744d27-92de-4691-94ac-898dee8dd148
-published: false
 blueprint: portfolio
 title: 'Edible Reflections'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1771420414
+updated_at: 1772017731
 page_builder:
   -
     id: mljbmkzt
@@ -261,6 +260,19 @@ page_builder:
                 type: bold
             text: 'INSERT GALLERY'
     type: text
+    enabled: true
+  -
+    id: IUjbXESt5WDGbekkJf_HH
+    images:
+      - portfolio/edible-reflections/dsc_7210.jpg
+      - portfolio/edible-reflections/dsc_7227.jpg
+      - portfolio/edible-reflections/dsc_7245.jpg
+      - portfolio/edible-reflections/edible-reflections-6.jpg
+      - portfolio/edible-reflections/dsc_7182.jpg
+      - portfolio/edible-reflections/img_7221.jpg
+    columns: 3
+    aspect_ratio: 4
+    type: image_gallery
     enabled: true
   -
     id: juiHQCx_lt9j15HMuna4w

@@ -12,7 +12,7 @@ page_builder:
     text: 'Food Design Playground is een plek waar je anders leert kijken naar iets heel gewoons: eten. In deze monumentale locatie in het centrum van Dordrecht draait het niet om luxe tafels of perfect opgemaakte borden, maar om jouw zintuigen. Hier draait het om wat eten doet — met je lijf, je gedachten, je herinneringen.'
     type: hero
     enabled: true
-    image: streamer.png
+    image: portraits/streamer.png
     overlap: false
   -
     id: maw6j9d7
@@ -76,13 +76,13 @@ page_builder:
           -
             type: text
             text: 'Wil je zelf iets organiseren? De verschillende ruimtes zijn te huur voor creatieve bijeenkomsten, vergaderingen, diners, lezingen of inspiratiesessies. Met of zonder catering, altijd met karakter. Food design Playground is een initiatief van Marije Vogelzang. Marije is in 1999 begonnen als ontwerper en is een van de pioniers van het vakgebied. Food Design Playground is een plek om te proeven, te denken en te maken. Om geraakt te worden — via je tong.'
-    image: img_7082.jpeg
+    image: playground/img_7082.jpeg
     image_position: right
     type: image_text
     enabled: true
   -
     id: mc10bpgx
-    image: marijevogelzang(43).jpg
+    image: books/lick-it/marijevogelzang(43).jpg
     aspect_ratio: none
     type: image
     enabled: true
