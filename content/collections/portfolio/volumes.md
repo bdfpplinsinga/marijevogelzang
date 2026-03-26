@@ -143,8 +143,8 @@ page_builder:
   -
     id: eCDkmIenjvqVccJxck9x6
     images:
-      - portfolio/volumes/volumes.-2017.-img.-287.jpg
-      - portfolio/volumes/volumes.-2017.-img.-287.jpg
+      - portfolio/volumes/volumes.-2017.-img.-282.jpg
+      - portfolio/volumes/volumes.-2017.-img.-282.jpg
     columns: 2
     aspect_ratio: 1
     type: image_gallery
