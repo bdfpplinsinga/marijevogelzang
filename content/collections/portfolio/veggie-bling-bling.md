@@ -6,7 +6,7 @@ title: 'Veggie Bling Bling'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773756708
+updated_at: 1774515111
 page_builder:
   -
     id: mljbmkzt
@@ -61,48 +61,6 @@ page_builder:
           -
             type: text
             text: 'So there were two things I knew I needed to change. First of all, I had to break the cycle of the dining table ritual. Next to that, I had to find a way to make her taste the same vegetables multiple times.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'I decided to cooperate with her daycare and I invited all the kids to my studio for a ‘workshop’. I called it the ‘Veggie bling bling’ workshop and told them we were going to make jewellery with vegetables. There was one crucial thing: the kids needed to use their tiny teeth to shape the veggies. Of course there were some cookie cutters, knifes and a drill, but to make the shapes of bracelets, necklaces and the occasional sword, the kids were directed to use their naturally sharp assets: their tiny sharp teeth.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'The moment we started ‘playing’, all the kids, without any hesitation began nibbling their veggies. There was not a single child who would shape a necklace or a bracelet and would spit the bitten off pieces out.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'All of them felt like they were doing a workshop. Clearly, they were not at the dining table, and they weren’t officially eating. However, by having to shape the vegetables in their mouth they were tasting and tasting the vegetables over and over again.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'I even saw some kids ending up eating their creations all the way before they were done.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'After this workshop my daughter did change her attitude towards vegetables. Of course she didn’t just enjoy everything overnight but her attitude softened. Also the other parents reported positive results with their children’s vegetable likings.'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'If you have a stubborn vegetable eater at home, why don’t you try this approach with a couple of kids together? Let me know how it went!'
     type: text
     enabled: true
   -
@@ -161,6 +119,52 @@ page_builder:
       target_blank: false
       button_type: button
     type: streamer
+    enabled: true
+  -
+    id: MBE3VPI3X1PYEOlZO8Xw9
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'I decided to cooperate with her daycare and I invited all the kids to my studio for a ‘workshop’. I called it the ‘Veggie bling bling’ workshop and told them we were going to make jewellery with vegetables. There was one crucial thing: the kids needed to use their tiny teeth to shape the veggies. Of course there were some cookie cutters, knifes and a drill, but to make the shapes of bracelets, necklaces and the occasional sword, the kids were directed to use their naturally sharp assets: their tiny sharp teeth.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'The moment we started ‘playing’, all the kids, without any hesitation began nibbling their veggies. There was not a single child who would shape a necklace or a bracelet and would spit the bitten off pieces out.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'All of them felt like they were doing a workshop. Clearly, they were not at the dining table, and they weren’t officially eating. However, by having to shape the vegetables in their mouth they were tasting and tasting the vegetables over and over again.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'I even saw some kids ending up eating their creations all the way before they were done.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'After this workshop my daughter did change her attitude towards vegetables. Of course she didn’t just enjoy everything overnight but her attitude softened. Also the other parents reported positive results with their children’s vegetable likings.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'If you have a stubborn vegetable eater at home, why don’t you try this approach with a couple of kids together? Let me know how it went!'
+    type: text
     enabled: true
   -
     id: nEB47SrBwAOQhMv-F5Wa0
