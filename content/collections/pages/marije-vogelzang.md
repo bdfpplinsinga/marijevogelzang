@@ -88,27 +88,17 @@ page_builder:
     type: streamer
     enabled: true
   -
-    id: mbjhfosc
-    heading: 'kijk eens op mijn playground'
+    id: vGd1uRxPpkhEIVYs0VOiB
     heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://fooddesignplayground.nl/'
-                  rel: null
-                  target: null
-                  title: null
-            text: fooddesignplayground.nl
-    image_position: right
-    type: image_text
+    align_content: left
+    link:
+      label: 'kijk eens op food design playground'
+      link_type: url
+      target_blank: false
+      url: fooddesignplayground.nl
+      button_type: button
+    type: streamer
     enabled: true
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1770891942
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1774535223
 ---
