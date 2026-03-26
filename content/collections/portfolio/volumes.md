@@ -6,7 +6,7 @@ title: Volumes
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774516328
+updated_at: 1774516369
 page_builder:
   -
     id: mljbmkzt
@@ -135,83 +135,78 @@ page_builder:
               -
                 type: bold
             text: 'Exhibited at:'
+      -
+        type: bulletList
+        content:
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Food Revolution 5.0 Winterthur'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'and Food Revolution 5.0 Winterthur'
           -
-            type: text
-            text: 'Food Revolution 5.0 Winterthur'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'The Embassy of Food'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'Dutch Design week, Eindhoven'
           -
-            type: hardBreak
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'The Senses: Design Beyond Vision'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'at Cooper Hewitt Smithsonian, New York'
           -
-            type: text
-            text: 'and Food Revolution 5.0 Winterthur'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'My solo exhibition: EATING DESIGN'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'at OCT gallery, Shenzhen, China'
           -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: and
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'The Embassy of Food'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Dutch Design week, Eindhoven'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: and
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'The Senses: Design Beyond Vision'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'at Cooper Hewitt Smithsonian, New York'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: and
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'My solo exhibition: EATING DESIGN'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'at OCT gallery, Shenzhen, China'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-          -
-            type: text
-            text: and
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Serial Eater'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'CID Grand Hornu, Belgium'
+            type: listItem
+            content:
+              -
+                type: paragraph
+                content:
+                  -
+                    type: text
+                    text: 'Serial Eater'
+                  -
+                    type: hardBreak
+                  -
+                    type: text
+                    text: 'CID Grand Hornu, Belgium'
 duplicated_from: 546213f2-afb4-415d-9597-c7ddebc09411
 ---
