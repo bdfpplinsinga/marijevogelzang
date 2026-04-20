@@ -35,3 +35,5 @@ preferences:
         - title
         - slug
         - status
+    courses:
+      view: list
