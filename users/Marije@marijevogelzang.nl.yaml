@@ -37,3 +37,4 @@ preferences:
         - status
     courses:
       view: list
+    listing_mode: grid
