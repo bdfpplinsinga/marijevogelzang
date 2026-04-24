@@ -1,5 +1,9 @@
 tree:
   -
+    id: c6deb8de-74a3-42ab-84bb-80939bf8e67d
+    title: 'Food Design Playground'
+    url: /
+  -
     id: 95ecbeda-9bd4-4cdb-a1dd-1ba3a4366594
     entry: 9b9ca2ef-e816-41aa-81da-159f42c992ec
     title: Courses
@@ -14,8 +18,4 @@ tree:
   -
     id: b5545ed6-a8d8-4d10-a58b-8da5c81cb339
     title: Portfolio
-    url: /
-  -
-    id: c6deb8de-74a3-42ab-84bb-80939bf8e67d
-    title: 'Food Design Playgroound'
     url: /
