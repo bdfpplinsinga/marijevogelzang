@@ -1,12 +1,11 @@
 ---
 id: 05f4dac5-c402-45e7-ba90-49aaa931b478
-published: false
 blueprint: portfolio
 title: 'Mind Mouth'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777037568
+updated_at: 1777037574
 page_builder:
   -
     id: mljbmkzt
