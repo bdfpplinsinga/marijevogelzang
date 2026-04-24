@@ -15,3 +15,7 @@ tree:
     id: 573ddb1c-9189-42a3-9ce1-994c3aaba764
     entry: f31e5144-e7d3-4d4d-93b9-d15f08d4d92e
     title: Contact
+  -
+    id: 945b6744-d0ab-4ea8-a1ea-6df3c0a399bf
+    title: Venue
+    url: /
