@@ -5,8 +5,8 @@ blueprint: portfolio
 title: 'Black Confetti'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774515398
+updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
+updated_at: 1777039449
 page_builder:
   -
     id: mljbmkzt
@@ -16,6 +16,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
+    image: portfolio/black-confetti/black-confetti.jpg
   -
     id: _nC-uavcvggpn4pzlwWEM
     text:
@@ -105,7 +106,7 @@ page_builder:
               -
                 type: italic
             text: 'Visitor of the Black Confetti exhibition'
-    image: portfolio/black-confetti/black-confetti.jpg
+    image: portfolio/black-confetti/sushadtv-copy.jpeg
     align_content: left
     link:
       link_type: entry
@@ -116,7 +117,7 @@ page_builder:
   -
     id: wCPIAPfU9P7eVSrwVwK_2
     images:
-      - portfolio/black-confetti/sushadtv-copy.jpeg
+      - portfolio/black-confetti/hd8mei3.jpg
       - portfolio/black-confetti/black-confetti-1.jpg
       - portfolio/black-confetti/black-confetti-2.jpg
       - portfolio/black-confetti/black-confetti-3.jpg
