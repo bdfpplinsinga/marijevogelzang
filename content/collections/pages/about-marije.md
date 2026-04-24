@@ -2,7 +2,7 @@
 id: 6de0328d-dca8-435a-8916-c5ea407fed9b
 published: false
 blueprint: page
-title: 'About Marije'
+title: About
 page_builder:
   -
     id: mb28d3a2
@@ -140,7 +140,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774541098
+updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
+updated_at: 1777040232
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
