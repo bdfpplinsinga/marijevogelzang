@@ -1,6 +1,5 @@
 ---
 id: 6de0328d-dca8-435a-8916-c5ea407fed9b
-published: false
 blueprint: page
 title: About
 page_builder:
@@ -143,6 +142,6 @@ page_builder:
     heading: 'take a look at'
     image: playground/marijevogelzang(60).jpg
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777040482
+updated_at: 1777040494
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
