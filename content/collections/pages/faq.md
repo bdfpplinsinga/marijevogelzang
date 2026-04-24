@@ -1,16 +1,16 @@
 ---
 id: 9892dfce-94d1-4921-acbc-0ee103830f6d
-published: false
 blueprint: page
 title: FAQ
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777041084
+updated_at: 1777041196
 page_builder:
   -
     id: mbf33wlp
     aspect_ratio: 1
     type: image
     enabled: true
+    image: portraits/marije-vogelzang-1.jpg
   -
     id: mbf34hfx
     text:
@@ -116,7 +116,7 @@ page_builder:
                 text: 'We create our own programme but are certainly open to suggestions. Send a message with visual material to studio@marijevogelzang.nl'
         type: faq
         enabled: true
-    heading: 'Vragen?'
+    heading: 'Questions?'
     heading_type: h1
     text:
       -
