@@ -133,14 +133,16 @@ page_builder:
     heading_type: h2
     align_content: left
     link:
-      label: 'kijk eens op food design playground'
+      label: 'Food Design Playground'
       link_type: url
-      target_blank: false
+      target_blank: true
       url: fooddesignplayground.nl
       button_type: button
     type: streamer
     enabled: true
+    heading: 'take a look at'
+    image: playground/marijevogelzang(60).jpg
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777040232
+updated_at: 1777040482
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
