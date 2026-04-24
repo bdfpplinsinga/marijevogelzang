@@ -116,7 +116,7 @@ page_builder:
   -
     id: wCPIAPfU9P7eVSrwVwK_2
     images:
-      - portfolio/black-confetti/sushadtv-copy.jpeg
+      - portfolio/black-confetti/hd8mei3.jpg
       - portfolio/black-confetti/black-confetti-1.jpg
       - portfolio/black-confetti/black-confetti-2.jpg
       - portfolio/black-confetti/black-confetti-3.jpg
