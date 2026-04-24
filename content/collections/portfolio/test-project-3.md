@@ -4,8 +4,8 @@ blueprint: portfolio
 title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772016785
+updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
+updated_at: 1777037723
 page_builder:
   -
     id: mljbmkzt
