@@ -5,13 +5,12 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1777388926
+updated_at: 1777390172
 page_builder:
   -
     id: maca009e
-    heading: 'Studio<br> Marije<br> Vogelzang'
+    heading: 'Marije<br> Vogelzang'
     heading_type: h1
-    text: "Marije Vogelzang is the word's first eating designer and makes you feel food before you even taste it — she turns meals into experiences, rituals into stories, and the ordinary into the uncanny."
     type: hero
     enabled: true
     overlap: true
@@ -120,7 +119,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Since 2025, Studio Marije Vogelzang has transformed from design studio-only to actual even space called Food Design Playground. A space to explore and host food design experiences that challenge the way you think about food. In a stunning monumental building in Dordrecht you can find the studio merged with the event space. Get your tickets to courses and dinners or book teh space for your own event. Have a look '
+            text: 'Since 2025, Studio Marije Vogelzang has transformed from design studio-only to actual even space called Food Design Playground. A space to explore and host food design experiences that challenge the way you think about food. In a stunning monumental building in Dordrecht you can find the studio merged with the event space. Get your tickets to courses and dinners or book the space for your own event. Have a look '
           -
             type: text
             marks:
@@ -151,6 +150,12 @@ page_builder:
           -
             type: text
             text: 'Marije Vogelzang is an internationally sought-after speaker who uses food as a lens to explore culture, identity, behaviour and imagination. In her lectures, she combines design thinking, storytelling and sensory insights to challenge how we perceive food and the role it plays in our lives. Her talks are known for being inspiring, thought-provoking and highly engaging, inviting audiences to see eating not just as a daily habit, but as a powerful creative and social act.'
+  -
+    id: 8h4on13lXnjUiODWu4efE
+    image: portfolio/sharing-dinner/sharing_lunch5.kenjimasunaga.jpg
+    aspect_ratio: none
+    type: image
+    enabled: true
   -
     id: macmistg
     newsletter: newsletter
