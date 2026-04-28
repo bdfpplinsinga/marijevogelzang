@@ -4,7 +4,7 @@ published: false
 blueprint: page
 title: Portfolio
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1777389093
+updated_at: 1777389106
 page_builder:
   -
     id: JR2aRKG-YNpvH5DuU7iZJ
@@ -13,5 +13,5 @@ page_builder:
     overlap: false
     type: hero
     enabled: true
-template: portfolio/show
+template: default
 ---
