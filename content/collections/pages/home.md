@@ -1,10 +1,11 @@
 ---
 id: home
+published: false
 blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1777369364
+updated_at: 1777388926
 page_builder:
   -
     id: maca009e
