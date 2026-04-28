@@ -1,17 +1,92 @@
 ---
 id: 6de0328d-dca8-435a-8916-c5ea407fed9b
+published: false
 blueprint: page
 title: About
 page_builder:
   -
     id: mb28d3a2
-    heading: 'hello there! </br> I’m Marije'
+    heading: 'Studio<br> Marije<br> Vogelzang'
     heading_type: h1
     type: hero
     enabled: true
     image: portraits/marije-vogelzang.png
-    overlap: false
-    text: 'The Grand Dame of Eating Design'
+    overlap: true
+    text: "Marije Vogelzang is the word's first eating designer and makes you feel food before you even taste it — she turns meals into experiences, rituals into stories, and the ordinary into the uncanny."
+  -
+    id: Kz3-EGojc9tAPyX8_iHsC
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Marije Vogelzang is a Dutch food designer and pioneer in the field of eating design. For over 25 years, she has used food as a medium to explore identity, culture, ritual, and human behavior. She ran her experimental restaurants Proef (Rotterdam and Amsterdam) for seven years, founded the Food Non Food department at Design Academy Eindhoven, and established The Dutch Institute of Food & Design. She was project professor in Kassel, has written three books, and develops her own online and offline courses.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'She lectures, exhibits, and guest-teaches worldwide, and now leads Food Design Playground in Dordrecht — a space for immersive food experiences that shift the focus from what we eat to how and why we eat.'
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: 6GV6sLaTzjrj9SHJbejJv
+    heading: 'THE VISION'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Marije’s vision is that food isn’t just something you eat '
+          -
+            type: text
+            text: '— it’s a language of sensation, connection, and imagination. She believes eating can reveal who we are, how we think, and how we relate to each other and the world. Her work makes the invisible rules of food visible, invites playful curiosity, and treats eating as an experience that is as meaningful as it is delicious. She sees food as a tool to question habits we mistake for truth — cultural blind spots, inherited rituals, unspoken hierarchies at the table.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Her aim is not to decorate the plate, but to redesign the act of eating itself.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'In her world, imagination is nourishment — and curiosity is the first ingredient.'
+    image_position: right
+    type: image_text
+    enabled: true
+  -
+    id: vullguLLBRa05yhfL2IrL
+    heading: 'FOOD DESIGN PLAYGROUND'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Since 2025, Studio Marije Vogelzang has transformed from design studio-only to actual even space called Food Design Playground. A space to explore and host food design experiences that challenge the way you think about food. In a stunning monumental building in Dordrecht you can find the studio merged with the event space. Get your tickets to courses and dinners or book teh space for your own event. Have a look '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://fooddesignplayground.nl/'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: here
+    image_position: right
+    type: image_text
+    enabled: true
   -
     id: mb28f09z
     text:
@@ -68,7 +143,7 @@ page_builder:
                 type: bold
             text: '… it was the act of eating!'
     type: text
-    enabled: true
+    enabled: false
   -
     id: R69Jq4IqEOIpDwF4DtKRO
     text:
@@ -141,7 +216,7 @@ page_builder:
     enabled: true
     heading: 'take a look at'
     image: playground/marijevogelzang(60).jpg
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777040494
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1777389707
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
