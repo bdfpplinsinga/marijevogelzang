@@ -4,8 +4,8 @@ published: false
 blueprint: pages
 title: Home
 template: default
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1771323986
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1777365645
 page_builder:
   -
     id: maca009e
@@ -135,6 +135,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
+    image: playground/food_design_playground-locatie.jpg
   -
     id: q2i1c8FhL82On4LA1JkBX
     heading: Speaking
