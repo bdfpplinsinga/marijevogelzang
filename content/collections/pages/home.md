@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1777365652
+updated_at: 1777369364
 page_builder:
   -
     id: maca009e
@@ -13,7 +13,7 @@ page_builder:
     text: "Marije Vogelzang is the word's first eating designer and makes you feel food before you even taste it — she turns meals into experiences, rituals into stories, and the ordinary into the uncanny."
     type: hero
     enabled: true
-    overlap: false
+    overlap: true
   -
     id: mc0znjgn
     heading: 'The vision'
