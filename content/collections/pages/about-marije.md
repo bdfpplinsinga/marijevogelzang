@@ -10,7 +10,7 @@ page_builder:
     heading_type: h1
     type: hero
     enabled: true
-    image: portraits/marije-vogelzang.png
+    image: portraits/past-projects-marije-vogelzang-(8).jpg
     overlap: true
     text: "Marije Vogelzang is the word's first eating designer and makes you feel food before you even taste it — she turns meals into experiences, rituals into stories, and the ordinary into the uncanny."
   -
@@ -32,6 +32,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
+    image: portraits/maria-vogelzang-hero.webp
   -
     id: 6GV6sLaTzjrj9SHJbejJv
     heading: 'THE VISION'
@@ -62,6 +63,7 @@ page_builder:
     image_position: right
     type: image_text
     enabled: true
+    image: portfolio/volumes/img_0282.jpg
   -
     id: vullguLLBRa05yhfL2IrL
     heading: 'FOOD DESIGN PLAYGROUND'
@@ -84,9 +86,10 @@ page_builder:
                   target: _blank
                   title: null
             text: here
-    image_position: right
+    image_position: left
     type: image_text
     enabled: true
+    image: playground/marijevogelzang(19).jpg
   -
     id: mb28f09z
     text:
@@ -217,6 +220,6 @@ page_builder:
     heading: 'take a look at'
     image: playground/marijevogelzang(60).jpg
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1777390227
+updated_at: 1778066404
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
