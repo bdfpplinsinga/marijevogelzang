@@ -5,15 +5,42 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1777390172
+updated_at: 1778069267
 page_builder:
+  -
+    id: WjgNJrJpd4QFwdS3F8YL5
+    heading: 'Marije Vogelzang'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Marije Vogelzang is a Dutch food designer and pioneer in the field of eating design. For over 25 years, she has used food as a medium to explore identity, culture, ritual, and human behavior.'
+    image: portraits/streamer.png
+    type: streamer
+    enabled: true
+    align_content: right
+    button:
+      label: 'Lees meer'
+      link_type: entry
+      entry: 74a2d757-3972-497b-8b2c-0b21d52e14d7
+      button_type: button
+    link:
+      label: 'Read more about Marije'
+      link_type: entry
+      target_blank: false
+      entry: 6de0328d-dca8-435a-8916-c5ea407fed9b
+      button_type: inline
   -
     id: maca009e
     heading: 'Marije<br> Vogelzang'
     heading_type: h1
     type: hero
-    enabled: true
+    enabled: false
     overlap: true
+    image: portfolio/sharing-dinner/sharing_lunch6.kenjimasunaga.jpg
   -
     id: mc0znjgn
     heading: 'The vision'
@@ -44,7 +71,13 @@ page_builder:
     image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
     image_position: left
     type: image_text
-    enabled: true
+    enabled: false
+  -
+    id: 8h4on13lXnjUiODWu4efE
+    image: portfolio/sharing-dinner/sharing_lunch5.kenjimasunaga.jpg
+    aspect_ratio: none
+    type: image
+    enabled: false
   -
     id: macc3vqi
     heading: 'Let food <br> be your teacher'
@@ -68,7 +101,7 @@ page_builder:
             text: 'If you’re ready to deepen your ideas, sharpen your senses, and work beyond recipes, there’s a place at the table for you.'
     image: playground/marijevogelzang(88).jpg
     type: streamer
-    enabled: true
+    enabled: false
     align_content: left
     button:
       label: 'Lees meer'
@@ -79,7 +112,7 @@ page_builder:
       label: 'Lees meer'
       link_type: entry
       target_blank: false
-      entry: 004c79ef-b878-48ad-9272-0d230402d1d7
+      entry: ce711085-6ca2-4e74-8b2b-d674729498eb
       button_type: inline
   -
     id: macdihnx
@@ -100,7 +133,7 @@ page_builder:
             text: 'She lectures, exhibits, and guest-teaches worldwide, and now leads Food Design Playground in Dordrecht — a space for immersive food experiences that shift the focus from what we eat to how and why we eat.'
     image: books/lick-it/marijevogelzang(41).jpg
     type: streamer
-    enabled: true
+    enabled: false
     align_content: left
     button:
       link_type: entry
@@ -133,7 +166,7 @@ page_builder:
             text: here
     image_position: left
     type: image_text
-    enabled: true
+    enabled: false
     image: playground/food_design_playground-locatie.jpg
   -
     id: q2i1c8FhL82On4LA1JkBX
@@ -142,7 +175,7 @@ page_builder:
     image: portraits/marije-vogelzang-6.png
     image_position: right
     type: image_text
-    enabled: true
+    enabled: false
     text:
       -
         type: paragraph
@@ -150,26 +183,6 @@ page_builder:
           -
             type: text
             text: 'Marije Vogelzang is an internationally sought-after speaker who uses food as a lens to explore culture, identity, behaviour and imagination. In her lectures, she combines design thinking, storytelling and sensory insights to challenge how we perceive food and the role it plays in our lives. Her talks are known for being inspiring, thought-provoking and highly engaging, inviting audiences to see eating not just as a daily habit, but as a powerful creative and social act.'
-  -
-    id: 8h4on13lXnjUiODWu4efE
-    image: portfolio/sharing-dinner/sharing_lunch5.kenjimasunaga.jpg
-    aspect_ratio: none
-    type: image
-    enabled: true
-  -
-    id: macmistg
-    newsletter: newsletter
-    type: newsletter
-    enabled: true
-    heading: 'blijf op de hoogte'
-    heading_type: h2
-    text: 'Iedere week kun je bij Food Design Playground terecht voor inspirerende events. Of het nou kindertheater met eten, een inspiratieontbijt, een food-book-club of een audioproverij is. Ontvang de wekelijkse nieuwsbrief zodat je als eerste op de hoogte bent en nooit te laat bent met tickets boeken.'
-    show_socials: false
-  -
-    id: mbtb4buc
-    aspect_ratio: none
-    type: image
-    enabled: true
 ---
 ## Welcome to your brand new Statamic site!
 
