@@ -1,6 +1,5 @@
 ---
 id: ce711085-6ca2-4e74-8b2b-d674729498eb
-published: false
 blueprint: page
 title: Courses
 page_builder:
@@ -11,6 +10,7 @@ page_builder:
     overlap: false
     type: hero
     enabled: true
+    image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
   -
     id: 03BC1u9RXlrkWCTbOcHju
     text:
@@ -108,7 +108,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'If 4 days are too much, we also offer one day food design immersions. See the dates here. [ADD LINK]'
+            text: 'If 4 days are too much, we also offer one day food design immersions. See the dates here.'
       -
         type: paragraph
         content:
@@ -166,6 +166,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: portfolio/intangible-bento/0720_161.jpg
   -
     id: rKmDd2gBoCu_7NgMHoTsA
     text:
@@ -407,12 +408,14 @@ page_builder:
             type: hardBreak
           -
             type: hardBreak
+    image: portfolio/the-national-tapwater-tasting/img_7309.jpg
   -
-    id: Hycn2fWyDQy3u2OvAr_6e
-    heading: 'I am a pioneer in the field of Food and Design'
+    id: y4PV_T9FLzBBIWWbuNwqH
+    heading: 'I am a pioneer in the field of Food Design'
     heading_type: h2
-    image_position: right
-    type: image_text
+    image: portraits/marije-vogelzang-6.jpg
+    overlap: false
+    type: hero
     enabled: true
   -
     id: iFHrruouz80U-p0XAjt7R
@@ -585,6 +588,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: portfolio/seeds/caesarstone_ids2019_0485.jpg
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774533965
+updated_at: 1778067941
 ---
