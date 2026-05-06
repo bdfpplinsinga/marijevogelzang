@@ -1,12 +1,11 @@
 tree:
   -
-    id: 7fb59453-c872-4070-906b-b50d8a624a52
-    title: About
-    url: /
+    id: e754db20-028f-4cc4-8f00-6128dacc6758
+    entry: 6de0328d-dca8-435a-8916-c5ea407fed9b
   -
-    id: 8bf7a5ac-30c6-45c4-bee8-e8ffbd3168a4
-    title: Courses
-    url: /
+    id: b3ebd9c8-5e8b-44e9-a64c-09fc2e397169
+    entry: ce711085-6ca2-4e74-8b2b-d674729498eb
   -
     id: c697a9ba-43e9-47e4-918b-d481baf8db73
     entry: 81678c1a-8185-4602-b093-f25275f39e7d
+    title: Portfolio
