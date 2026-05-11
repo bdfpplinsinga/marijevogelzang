@@ -1,0 +1,37 @@
+<main class="" id="content">
+    <figure class="md:aspect-[16/7] border -mt-px">
+        {{ partial:media/picture :image="featured_image" cover="true" lazy="true" sizes="(min-width: 768px) 33vw, 90vw" }}
+    </figure>
+
+    <div class="grid grid-cols-1 lg:grid-cols-12 border -mt-px">
+        <div class="@container lg:col-span-8 p-6 md:p-8 lg:p-14 border-r">
+            <div class="flex items-center gap-4 mb-4">
+            {{ if categories }}
+                {{categories}}
+                    <div class="bg-black inline-flex text-xs text-white font-bold tracking-wide px-2 py-1">{{ title }}</div>
+                {{ /categories }}
+            {{ /if }}
+            {{  partial:components/date_long class="font-bold text-lg  uppercase" }}
+            </div>
+            
+            {{partial:typography/display :as="h1" :content="title" class="mb-8" }}
+            
+            {{ long_form_content scope="content" }}
+                {{ partial src="sets/{type}" }}
+            {{ /long_form_content }}
+      
+        </div>
+        <div class="lg:col-span-4 lg:-mt-32 mb-14  ">
+            <div class="sticky -top-px bg-white">
+                {{tickets}}
+                    {{partial:components/event_ticket}}
+                {{/tickets}}
+            </div>
+        </div>
+    </div>
+
+    {{ page_builder scope="block" }}
+        {{ partial src="blocks/{type}" }}
+    {{ /page_builder }}
+
+</main>

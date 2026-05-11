@@ -2,8 +2,8 @@
 id: 5eedacd5-bde8-4c3a-bd88-5dc87ad1b6e9
 blueprint: portfolio
 title: 'A Couple of Little Things'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777037676
+updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
+updated_at: 1778485730
 page_builder:
   -
     id: mljbmkzt
@@ -172,4 +172,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: 238e7154-f8c3-4068-9477-c4453e7505ce
+featured_image: portfolio/a-couple-of-litlle-things/a-couple-of-little-things-3.jpg
+summary: 'How to make people experience migration through food?'
 ---

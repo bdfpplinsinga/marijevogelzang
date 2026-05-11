@@ -1,4 +1,4 @@
-title: Page
+title: Portfolio
 tabs:
   main:
     display: Main
@@ -12,6 +12,19 @@ tabs:
               required: true
               validate:
                 - required
+          -
+            handle: summary
+            field:
+              type: textarea
+              display: Summary
+          -
+            handle: featured_image
+            field:
+              container: assets
+              folder: portfolio
+              max_files: 1
+              type: assets
+              display: 'Featured Image'
       -
         display: 'Page Builder'
         fields:

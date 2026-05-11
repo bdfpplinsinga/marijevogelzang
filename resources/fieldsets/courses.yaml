@@ -1,0 +1,22 @@
+title: Courses
+fields:
+  -
+    handle: selection_method
+    field:
+      type: toggle
+      display: 'Selection Method'
+      instructions: 'Manually select courses to show'
+  -
+    handle: number_of_courses_to_show
+    field:
+      default: '4'
+      type: integer
+      display: 'Number of courses to show'
+  -
+    handle: courses
+    field:
+      collections:
+        - courses
+      create: false
+      type: entries
+      display: Courses

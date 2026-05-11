@@ -1,20 +1,10 @@
 <div class="bg-white border border-black p-6 lg:px-14 lg:py-10 flex -mt-px {{ switch between='| xl:-ml-px' }} flex-col @2xl:flex-row gap-6 relative">
-    {{partial:components/vertical_label label="agenda"}}
     
     <figure class="h-56 @2xl:aspect-square @2xl:w-56 flex-none bg-slate-200 border border-black">
         {{ partial:media/picture :image="featured_image" cover="true" lazy="true" sizes="(min-width: 768px) 33vw, 90vw" }}
     </figure>
     
     <div class="">
-        <div class="flex items-center gap-2 mb-2">
-            
-            {{ if categories }}
-                {{categories}}
-                    <div class="bg-black inline-flex text-xs text-white font-bold tracking-wide px-2 py-1">{{ title }}</div>
-                {{ /categories }}
-            {{ /if }}
-            {{partial:components/date}}
-        </div>
         <h3 class="font-bold text-lg">{{ title }}</h3>
         <p>{{summary}}</p>
         

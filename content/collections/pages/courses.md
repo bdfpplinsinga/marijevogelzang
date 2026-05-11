@@ -12,6 +12,12 @@ page_builder:
     enabled: true
     image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
   -
+    id: uaNwG31yA43x9h8xwQYvp
+    selection_method: false
+    number_of_courses_to_show: 4
+    type: courses
+    enabled: true
+  -
     id: 03BC1u9RXlrkWCTbOcHju
     text:
       -
@@ -589,6 +595,6 @@ page_builder:
     type: streamer
     enabled: true
     image: portfolio/seeds/caesarstone_ids2019_0485.jpg
-updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778067941
+updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
+updated_at: 1778486282
 ---

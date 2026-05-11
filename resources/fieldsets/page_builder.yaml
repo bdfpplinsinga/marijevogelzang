@@ -73,3 +73,8 @@ fields:
               fields:
                 -
                   import: image_gallery
+            courses:
+              display: Courses
+              fields:
+                -
+                  import: courses

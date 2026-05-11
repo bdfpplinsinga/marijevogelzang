@@ -1,8 +1,9 @@
 title: Courses
 icon: collections
-template: default
+template: courses/show
 layout: layout
 revisions: false
+route: 'courses/{slug}'
 sort_dir: asc
 date_behavior:
   past: null
