@@ -5,7 +5,7 @@ title: Volumes
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1774517769
+updated_at: 1778837544
 page_builder:
   -
     id: mljbmkzt
@@ -289,4 +289,6 @@ page_builder:
                     type: text
                     text: 'CID Grand Hornu, Belgium'
 duplicated_from: 546213f2-afb4-415d-9597-c7ddebc09411
+summary: 'How to prevent over-eating?'
+featured_image: portfolio/volumes/volumes.-2017.-img.-180.jpg
 ---
