@@ -5,7 +5,7 @@ title: 'Eat Shit'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772017115
+updated_at: 1778835181
 page_builder:
   -
     id: mljbmkzt
@@ -231,4 +231,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: 81a194db-69f7-49d5-967e-4d7a51e4b33b
+summary: 'How can we start a new narrative in design?'
+featured_image: portfolio/eat-shit/eat-shit.jpg
 ---
