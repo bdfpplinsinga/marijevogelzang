@@ -5,7 +5,7 @@ title: 'Food Massage Salon'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772018838
+updated_at: 1778835719
 page_builder:
   -
     id: mljbmkzt
@@ -300,4 +300,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
+summary: 'How can we reconnect people to their senses?'
+featured_image: portfolio/food-massage-salon/_22a4545.jpg
 ---
