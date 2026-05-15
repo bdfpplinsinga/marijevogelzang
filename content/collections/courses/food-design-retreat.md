@@ -12,5 +12,5 @@ long_form_content:
         text: 'The very first food design retreat at the Food Design Playground in Dordrecht, the Netherlands.'
 date: '2026-05-14 22:00'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778840868
+updated_at: 1778840988
 ---
