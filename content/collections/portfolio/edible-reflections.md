@@ -5,7 +5,7 @@ title: 'Edible Reflections'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772017731
+updated_at: 1778835218
 page_builder:
   -
     id: mljbmkzt
@@ -391,4 +391,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: 2e2ef765-1c67-4e30-8305-e4b238e57426
+summary: 'How can we accept others if we do not accept ourselves first?'
+featured_image: portfolio/edible-reflections/edible-reflections-7.jpg
 ---
