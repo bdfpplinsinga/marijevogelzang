@@ -12,12 +12,6 @@ page_builder:
     enabled: true
     image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
   -
-    id: uaNwG31yA43x9h8xwQYvp
-    selection_method: false
-    number_of_courses_to_show: 4
-    type: courses
-    enabled: true
-  -
     id: 03BC1u9RXlrkWCTbOcHju
     text:
       -
@@ -28,6 +22,65 @@ page_builder:
             text: 'Online - Offline'
     type: text
     enabled: true
+  -
+    id: 6Nqqsx5U5xlr-5XJAGEzo
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'CONNECTING AND LEARNING WITH LIKE-MINDED PEOPLE'
+          -
+            type: hardBreak
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'FROM AROUND THE GLOBE'
+    type: text
+    enabled: true
+  -
+    id: uaNwG31yA43x9h8xwQYvp
+    selection_method: false
+    number_of_courses_to_show: 4
+    type: courses
+    enabled: true
+  -
+    id: OCsmj1a0wOGUBuMr8C9Gz
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '"Absolutely yes! It was inspiring and stimulating. Thanks to it I understood what is food design, how one can be a food designer and how one can create anything with food. After the course, I searched out a master about it and I found one that is suitable for me."'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Martina Fiorito, Food and Design dive’ graduate'
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+    image: portfolio/intangible-bento/0720_161.jpg
   -
     id: efjFJWVv9Mlu-0yMYtKyX
     text:
@@ -144,35 +197,6 @@ page_builder:
             text: ', the circle completes itself. What we put on the table changes what’s possible in the world.'
     type: text
     enabled: true
-  -
-    id: OCsmj1a0wOGUBuMr8C9Gz
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '"Absolutely yes! It was inspiring and stimulating. Thanks to it I understood what is food design, how one can be a food designer and how one can create anything with food. After the course, I searched out a master about it and I found one that is suitable for me."'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-              -
-                type: italic
-            text: 'Martina Fiorito, Food and Design dive’ graduate'
-    align_content: left
-    link:
-      link_type: entry
-      target_blank: false
-      button_type: button
-    type: streamer
-    enabled: true
-    image: portfolio/intangible-bento/0720_161.jpg
   -
     id: rKmDd2gBoCu_7NgMHoTsA
     text:
@@ -383,7 +407,7 @@ page_builder:
                 type: italic
             text: 'Check it out'
     type: text
-    enabled: true
+    enabled: false
   -
     id: socmjidQ0DsyPu8otUMwR
     heading_type: h2
@@ -595,6 +619,6 @@ page_builder:
     type: streamer
     enabled: true
     image: portfolio/seeds/caesarstone_ids2019_0485.jpg
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1778486282
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1778840970
 ---
