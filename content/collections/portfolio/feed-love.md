@@ -5,7 +5,7 @@ title: 'Feed Love'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772018808
+updated_at: 1778835238
 page_builder:
   -
     id: mljbmkzt
@@ -222,4 +222,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: f2aed5b3-84dc-463a-98b6-f400ed92c4d8
+summary: 'Can we use feeding as a universal language?'
+featured_image: portfolio/feed-love/feed-love-img_6943.jpg
 ---
