@@ -5,7 +5,7 @@ title: 'Faked Meat'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772018512
+updated_at: 1778834953
 page_builder:
   -
     id: mljbmkzt
@@ -202,4 +202,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: 63744d27-92de-4691-94ac-898dee8dd148
+summary: 'Can we design vegetarian animals?'
+featured_image: portfolio/faked-meat/faked-meat-1.jpg
 ---
