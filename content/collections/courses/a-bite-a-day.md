@@ -4,7 +4,7 @@ blueprint: course
 title: 'A Bite a Day'
 author: a422e059-6afb-45c3-bc04-426efb7ceee0
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778841630
+updated_at: 1778855344
 long_form_content:
   -
     type: paragraph
@@ -474,4 +474,5 @@ summary: |-
 
   Join A Bite a Day for a year of inspiration through food, design, and life.
   It’s five minutes a day that might just change how you see everything.
+featured_image: illustrations/tel-voeren-1440x991.jpg
 ---
