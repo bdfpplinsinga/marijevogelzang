@@ -5,7 +5,7 @@ title: 'Plant Bones'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772040381
+updated_at: 1778837222
 page_builder:
   -
     id: mljbmkzt
@@ -360,4 +360,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
+summary: 'How can we start a new narrative about meat?'
+featured_image: portfolio/plant-bones/plantbones5.jpg
 ---
