@@ -5,7 +5,7 @@ title: 'Eat Love Budapest'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1772016803
+updated_at: 1778835151
 page_builder:
   -
     id: mljbmkzt
@@ -270,4 +270,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
+summary: 'How can we shift the power balance between majority and minority?'
+featured_image: portfolio/eat-love-budapest/eat-love-budapest-3.jpg
 ---
