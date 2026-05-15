@@ -4,8 +4,8 @@ blueprint: portfolio
 title: Seeds
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777038663
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1778837291
 page_builder:
   -
     id: mljbmkzt
@@ -257,4 +257,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
+summary: 'How can we create a sensorial view on solid quartz material?'
+featured_image: portfolio/seeds/caesarstone_ids2019_0391.jpg
 ---
