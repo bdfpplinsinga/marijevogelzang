@@ -5,7 +5,7 @@ title: 'The Eggchange'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1773416859
+updated_at: 1778837416
 page_builder:
   -
     id: mljbmkzt
@@ -311,4 +311,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
+summary: 'Is it ethical to industrially farm chickens?'
+featured_image: portfolio/the-eggchange/6fd0967c-c35b-4525-a1ba-b236161d8196-2.jpg
 ---
