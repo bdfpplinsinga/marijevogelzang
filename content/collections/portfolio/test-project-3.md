@@ -4,8 +4,8 @@ blueprint: portfolio
 title: 'Bastard Bread'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777037896
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1778834989
 page_builder:
   -
     id: mljbmkzt
@@ -214,4 +214,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: 0349c677-849c-4a12-9d39-e6b4a2dfe1f8
+summary: 'How can we use bread to address the topic of cultural wealth?'
+featured_image: portfolio/bastard-bread/img_7508.jpg
 ---
