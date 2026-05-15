@@ -4,8 +4,8 @@ blueprint: portfolio
 title: 'Bits ‘n Bytes'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777038277
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1778835092
 page_builder:
   -
     id: mljbmkzt
@@ -173,4 +173,6 @@ page_builder:
     type: text
     enabled: true
 duplicated_from: f7c08ebd-16a7-451f-80d5-476e0dfa4f94
+summary: 'How can we create a human conveyor belt?'
+featured_image: portfolio/bits-n-bytes/bits-n-bytes-1.jpg
 ---
