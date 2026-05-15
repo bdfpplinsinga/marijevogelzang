@@ -620,5 +620,5 @@ page_builder:
     enabled: true
     image: portfolio/seeds/caesarstone_ids2019_0485.jpg
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778840970
+updated_at: 1778842119
 ---
