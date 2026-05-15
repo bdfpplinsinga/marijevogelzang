@@ -1,5 +1,6 @@
 ---
 id: 52516766-3f64-4ad1-9a56-098b62114cff
+published: false
 blueprint: course
 title: 'Advanced Dive'
 summary: 'This is the natural next step after finishing the ‘Food and Design Dive’ course or when you want to professionalize.'
