@@ -4,7 +4,7 @@ blueprint: course
 title: 'A Bite a Day'
 author: a422e059-6afb-45c3-bc04-426efb7ceee0
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778857343
+updated_at: 1778857434
 long_form_content:
   -
     type: paragraph
@@ -469,8 +469,9 @@ page_builder:
     align_content: left
     link:
       label: "YES, LET'S GET STARTED!"
-      link_type: entry
-      target_blank: false
+      link_type: url
+      target_blank: true
+      url: 'https://marijevogelzang.samcart.com/products/a-bite-a-day'
       button_type: button
     type: streamer
     enabled: true
@@ -1345,8 +1346,9 @@ page_builder:
     align_content: right
     link:
       label: "YES, LET'S GET STARTED!"
-      link_type: entry
-      target_blank: false
+      link_type: url
+      target_blank: true
+      url: 'https://marijevogelzang.samcart.com/products/a-bite-a-day'
       button_type: button
     type: streamer
     enabled: true
@@ -1980,4 +1982,6 @@ summary: |-
   Join A Bite a Day for a year of inspiration through food, design, and life.
   It’s five minutes a day that might just change how you see everything.
 featured_image: illustrations/tel-voeren-1440x991.jpg
+categories:
+  - online-course
 ---
