@@ -4,8 +4,8 @@ blueprint: portfolio
 title: 'White Funeral Dinner'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
-updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1777039025
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1778837566
 page_builder:
   -
     id: mljbmkzt
@@ -60,4 +60,5 @@ page_builder:
     type: image_gallery
     enabled: true
 duplicated_from: 546213f2-afb4-415d-9597-c7ddebc09411
+featured_image: portfolio/white-funeral-dinner/2.1-white-funeral-dinner-300dpi.jpg
 ---
