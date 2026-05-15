@@ -12,7 +12,8 @@ long_form_content:
         text: 'The very first food design retreat at the Food Design Playground in Dordrecht, the Netherlands.'
 date: '2026-05-14 22:00'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778859572
+updated_at: 1778861184
+featured_image: playground/marijevogelzang75-1440x810.jpg
 page_builder:
   -
     id: LzcsNcLtkXTsnspQHaAsG
@@ -117,7 +118,7 @@ page_builder:
     enabled: true
   -
     id: yBUrdX_jjNgz350kXWfVS
-    image: illustrations/gesneden-brood.jpg
+    image: playground/marijevogelzang(51).jpg
     aspect_ratio: none
     type: image
     enabled: true
@@ -881,13 +882,14 @@ page_builder:
               -
                 type: bold
             text: 'Moa Marklund, Student'
-    align_content: left
+    align_content: right
     link:
       link_type: entry
       target_blank: false
       button_type: button
     type: streamer
     enabled: true
+    image: books/lick-it/marijevogelzang(9).jpg
   -
     id: DwuXgG9mTRS5f1f1VAlcJ
     text:
@@ -1062,4 +1064,5 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: playground/marijevogelzang(91).jpg
 ---
