@@ -13,7 +13,7 @@ preferences:
       after_save: listing
     courses:
       view: list
-      after_save: continue_editing
+      after_save: listing
   assets:
     assets:
       per_page: 500
