@@ -4,7 +4,7 @@ blueprint: course
 title: 'Summer School'
 date: '2026-06-15 22:00'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778858803
+updated_at: 1779875060
 summary: 'This is a Summer School — Create Your Own Conceptual Dinner'
 long_form_content:
   -
@@ -429,8 +429,8 @@ page_builder:
           -
             type: text
             text: 'A great choice if you want to gain a lot of insights in a really short time.'
-    image: portfolio/grazing-city-scapes/ape_1421.jpg
-    align_content: right
+    image: portfolio/sharing-dinner/sharing_lunch_2_24.kenjimasunaga.jpg
+    align_content: center
     link:
       label: 'JOIN TODAY FOR €997'
       link_type: url
@@ -705,9 +705,25 @@ page_builder:
     type: text
     enabled: true
   -
-    id: gemruHhuFRW5OZPaQqruP
-    image: illustrations/footer-people.png
-    aspect_ratio: none
-    type: image
+    id: 3kRGR9Ncnb7hPDEzcFvxv
+    heading: 'WHERE COULD YOU BE IN JUST 10 DAYS?'
+    heading_type: h2
+    text_old: 'Book your seat for the Summer school and start inviting your friends for your unique conceptual dinner this summer!'
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Book your seat for the Summer school and start inviting your friends for your unique conceptual dinner this summer!'
+    image: portfolio/white-funeral-dinner/2.1-white-funeral-dinner-300dpi.jpg
+    align_content: center
+    link:
+      label: 'DON’T MISS OUT'
+      link_type: url
+      target_blank: true
+      url: 'https://marijevogelzang.samcart.com/products/summer-school'
+      button_type: button
+    type: streamer
     enabled: true
 ---
