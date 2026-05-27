@@ -5,7 +5,7 @@ blueprint: course
 title: 'A Bite a Day'
 author: a422e059-6afb-45c3-bc04-426efb7ceee0
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778857434
+updated_at: 1779875256
 long_form_content:
   -
     type: paragraph
