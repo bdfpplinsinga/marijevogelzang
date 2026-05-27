@@ -4,7 +4,7 @@ blueprint: course
 title: 'Summer School'
 date: '2026-06-15 22:00'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1779875060
+updated_at: 1779875232
 summary: 'This is a Summer School — Create Your Own Conceptual Dinner'
 long_form_content:
   -
@@ -22,7 +22,7 @@ long_form_content:
           -
             type: italic
         text: 'in 10 fun days online'
-featured_image: portfolio/sharing-dinner/sharing_lunch28.kenjimasunaga.jpg
+featured_image: portfolio/feed-love/img_6926.jpg
 event_start: '2026-06-15 22:00'
 event_end: '2026-06-25 22:00'
 page_builder:
