@@ -2,8 +2,8 @@
 id: 5eedacd5-bde8-4c3a-bd88-5dc87ad1b6e9
 blueprint: portfolio
 title: 'A Couple of Little Things'
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1778485730
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1779871728
 page_builder:
   -
     id: mljbmkzt
