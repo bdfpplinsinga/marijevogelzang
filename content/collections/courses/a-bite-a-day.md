@@ -1,11 +1,10 @@
 ---
 id: 4d6d36b4-ab6a-4f5e-89a4-67d38bfe6837
-published: false
 blueprint: course
 title: 'A Bite a Day'
 author: a422e059-6afb-45c3-bc04-426efb7ceee0
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1779873149
+updated_at: 1779875269
 long_form_content:
   -
     type: paragraph
