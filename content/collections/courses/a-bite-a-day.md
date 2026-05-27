@@ -1,5 +1,6 @@
 ---
 id: a75c6658-014a-4a03-8827-4d4e64ec7469
+published: false
 blueprint: course
 title: 'A Bite a Day'
 author: a422e059-6afb-45c3-bc04-426efb7ceee0
