@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1779956086
+updated_at: 1779956144
 page_builder:
   -
     id: WjgNJrJpd4QFwdS3F8YL5
@@ -303,13 +303,7 @@ page_builder:
                 type: bold
               -
                 type: italic
-            text: 'Lidewij Edelkoort'
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: ', Parsons School of Design'
+            text: 'Lidewij Edelkoort, Parsons School of Design'
     align_content: left
     link:
       link_type: entry
