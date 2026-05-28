@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1779895428
+updated_at: 1779956086
 page_builder:
   -
     id: WjgNJrJpd4QFwdS3F8YL5
@@ -109,6 +109,8 @@ page_builder:
                   rel: null
                   target: null
                   title: null
+              -
+                type: bold
             text: 'EXPLORE PORTFOLIO'
     image: portfolio/volumes/volumes.-2017.-img.-111.jpeg
     image_position: left
@@ -146,6 +148,8 @@ page_builder:
                   rel: null
                   target: null
                   title: null
+              -
+                type: bold
             text: 'EXPLORE COURSES'
     image: illustrations/tel-voeren-1440x991.jpg
     image_position: left
@@ -187,10 +191,131 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::e4d84a72-0c8b-47e4-b608-40434d3785f6'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
             text: 'EXPLORE SPEAKING'
     image: portraits/marije-vogelzang-6.jpg
     image_position: left
     type: image_text
+    enabled: true
+  -
+    id: zSQWbU4P0dppZ40pJlzry
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Have a particular project in mind? Don’t know where to start?'
+    align_content: center
+    link:
+      label: 'DISCUSS WITH MARIJE >'
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: OwZC-pR3Pzqp-eV_64K2I
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'I am a pioneer in the field of Food and Design'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Food and Design has now become a global movement and my work is on display all over the world.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'From the Tokyo Metropolitan Art Museum to the Cooper Hewitt Design Museum in New York and it has been published extensively from the New York times to Wallpaper magazine and ICON magazine.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'I began my journey with food and design at Design Academy Eindhoven in 1999 and 2000 I opened my eating-design studio in addition to creating food-related experiences around the globe...'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::6de0328d-dca8-435a-8916-c5ea407fed9b'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'READ MORE ABOUT ME'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: 'Photo by Hilde Harshagen'
+    image: portraits/maria-vogelzang-hero.webp
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: wHyzy2mvkSTU9OQW7Uola
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '"Marije’s influence is enormous, her scope universal and her enthusiasm infectious… she will liberate in you unsuspected and hidden talents."'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Lidewij Edelkoort'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ', Parsons School of Design'
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
     enabled: true
 ---
 ## Welcome to your brand new Statamic site!
