@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1779956856
+updated_at: 1779958530
 page_builder:
   -
     id: WjgNJrJpd4QFwdS3F8YL5
@@ -218,12 +218,13 @@ page_builder:
             text: 'Have a particular project in mind? Don’t know where to start?'
     align_content: center
     link:
-      label: 'DISCUSS WITH MARIJE >'
+      label: 'DISCUSS IT WITH MARIJE'
       link_type: entry
       target_blank: false
       button_type: button
     type: streamer
     enabled: true
+    image: illustrations/kromkommers.jpg
   -
     id: OwZC-pR3Pzqp-eV_64K2I
     heading_type: h2
@@ -364,6 +365,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: illustrations/ask-for-more-bigger-size.jpg
 ---
 ## Welcome to your brand new Statamic site!
 
