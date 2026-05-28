@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1779956144
+updated_at: 1779956856
 page_builder:
   -
     id: WjgNJrJpd4QFwdS3F8YL5
@@ -292,6 +292,38 @@ page_builder:
         content:
           -
             type: text
+            marks:
+              -
+                type: italic
+            text: 'Marije’s work resonates for its ability to use food as a narrative device, playfully experimenting with food rituals, forms, and experiences.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Andrea Lipps, Cooper Hewitt, Smithsonian Design Museum, New York'
+    align_content: right
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+    image: portfolio/the-national-tapwater-tasting/img_7336.jpg
+  -
+    id: c8uDRwCwfPKkMSswWy2vP
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
             text: '"Marije’s influence is enormous, her scope universal and her enthusiasm infectious… she will liberate in you unsuspected and hidden talents."'
       -
         type: paragraph
@@ -306,6 +338,27 @@ page_builder:
             text: 'Lidewij Edelkoort, Parsons School of Design'
     align_content: left
     link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+    image: portfolio/white-funeral-dinner/vogelzang_white_funeral_dinner_300dpi.jpg
+  -
+    id: DQljUODIBm27aG9pzyaiv
+    heading_type: h2
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ready to create your own success story?'
+    align_content: center
+    link:
+      label: "YES, LET'S GET STARTED"
       link_type: entry
       target_blank: false
       button_type: button
