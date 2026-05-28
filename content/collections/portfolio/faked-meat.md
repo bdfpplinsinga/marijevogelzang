@@ -5,7 +5,7 @@ title: 'Faked Meat'
 form_title: 'Request a quote'
 form_description: 'Please let us know the details of your request. We will contact you as soon as possible.'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778834953
+updated_at: 1779956096
 page_builder:
   -
     id: mljbmkzt
@@ -104,7 +104,13 @@ page_builder:
                 type: bold
               -
                 type: italic
-            text: 'Sonja Stummerer and Martin Hablesreiter, Honey and Bunny productions'
+            text: 'Sonja Stummerer and Martin Hablesreiter'
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: ', Honey and Bunny productions'
   -
     id: HLubTQ0nc6fgPuRzPgWou
     heading_type: h2
