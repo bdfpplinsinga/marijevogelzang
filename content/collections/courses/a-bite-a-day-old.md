@@ -1175,7 +1175,7 @@ page_builder:
   -
     id: lp3kD7HlcvRPbxFmKwlet
     images:
-      - illustrations/aiming.png
+      - illustrations/bietjes1.jpg
       - illustrations/excited.png
       - illustrations/searching.png
       - illustrations/determined.png
