@@ -1178,7 +1178,7 @@ page_builder:
       - illustrations/bietjes1.jpg
       - illustrations/excited.png
       - illustrations/searching.png
-      - illustrations/determined.png
+      - illustrations/chili1.jpg
     columns: 4
     aspect_ratio: none
     type: image_gallery
