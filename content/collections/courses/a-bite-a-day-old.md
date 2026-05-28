@@ -1709,7 +1709,7 @@ page_builder:
     enabled: true
   -
     id: k_Q7ciWjgDVSYCjBGnb_x
-    image: illustrations/ask-for-more.png
+    image: illustrations/ask-for-more.jpg
     aspect_ratio: none
     type: image
     enabled: true
