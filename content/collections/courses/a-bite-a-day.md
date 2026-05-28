@@ -1236,7 +1236,7 @@ page_builder:
     images:
       - illustrations/bietjes1.jpg
       - illustrations/spinazie1.jpg
-      - illustrations/searching.png
+      - illustrations/knoflook1.jpg
       - illustrations/chili1.jpg
     columns: 4
     aspect_ratio: none
