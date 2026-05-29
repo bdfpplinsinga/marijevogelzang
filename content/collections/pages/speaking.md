@@ -3,7 +3,7 @@ id: e4d84a72-0c8b-47e4-b608-40434d3785f6
 blueprint: page
 title: Speaking
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780046855
+updated_at: 1780048047
 page_builder:
   -
     id: Giezi8TnjSodpkT2Krct1
@@ -210,7 +210,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
-    image: portfolio/feed-love/img_6942-1780044030.jpg
+    image: portfolio/feed-love/img_6884.jpg
   -
     id: xFzUOmY__-LSpFJW0_b7R
     text:
@@ -315,24 +315,12 @@ page_builder:
     type: streamer
     enabled: true
   -
-    id: '-n9zQ8oJthRvMCgQXEqL4'
+    id: VHfMO9InKi2XlQXFRpy3w
+    newsletter: newsletter
+    heading: 'Get your project started with Marije'
     heading_type: h2
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Ready to create your own success story?'
-    image: illustrations/gesneden-brood.jpg
-    align_content: right
-    link:
-      label: 'Discuss it with Marije'
-      link_type: entry
-      target_blank: false
-      button_type: button
-    type: streamer
+    text: 'Complete the form or feel free to email me directly at studio@marijevogelzang.nl'
+    show_socials: false
+    type: newsletter
     enabled: true
 ---
