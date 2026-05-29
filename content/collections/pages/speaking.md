@@ -3,16 +3,17 @@ id: e4d84a72-0c8b-47e4-b608-40434d3785f6
 blueprint: page
 title: Speaking
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780044554
+updated_at: 1780046045
 page_builder:
   -
     id: Giezi8TnjSodpkT2Krct1
     heading: Speaking
     heading_type: h2
     text: 'What if we can change the way we perceive the value of food?'
-    overlap: false
+    overlap: true
     type: hero
     enabled: true
+    image: portraits/marije-vogelzang-6.jpg
   -
     id: n607aoJd7OM9cdYiuScVO
     text:
@@ -63,7 +64,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Marije Vogelzang is a design pioneer. Her explorations of eating and design has inspired a greater consciousness of our relationship with food and food as a medium for positive change. At Design Indaba, we were early adopters to the storytelling and speaking powers of Marije when she first spoke here in 2008. Since then, she is always on our roster for collaborations, commissions, and workshops which has now manifested itself on three continents to date.'
+            text: '"Marije Vogelzang is a design pioneer. Her explorations of eating and design has inspired a greater consciousness of our relationship with food and food as a medium for positive change. At Design Indaba, we were early adopters to the storytelling and speaking powers of Marije when she first spoke here in 2008. Since then, she is always on our roster for collaborations, commissions, and workshops which has now manifested itself on three continents to date."'
       -
         type: paragraph
         content:
@@ -72,6 +73,8 @@ page_builder:
             marks:
               -
                 type: bold
+              -
+                type: italic
             text: 'Ravi Naidoo, Ceo and Founder, Design Indaba Conference, South Africa'
     align_content: left
     link:
@@ -80,6 +83,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
+    image: illustrations/losse-illustratie2.jpg
   -
     id: glgRMAPePzjXOJ4IGSxJw
     text:
@@ -132,6 +136,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
+    image: portraits/marije-vogelzang-6.png
   -
     id: ONfRyIXTdDlFoXvqs_vO3
     heading: 'Live Teaching'
@@ -168,6 +173,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
+    image: portraits/marije-vogelzang-1.jpg
   -
     id: Cztd7wVf43D7BidQKf9mU
     heading: Workshops
@@ -205,4 +211,128 @@ page_builder:
     type: image_text
     enabled: true
     image: portfolio/feed-love/img_6942-1780044030.jpg
+  -
+    id: xFzUOmY__-LSpFJW0_b7R
+    text:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: 'Taste future food while listening, interact with the audience or become part of the story you hear'
+    type: text
+    enabled: true
+  -
+    id: dPECog1GFLFFoo7Z9tnn1
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '"Marije gave insights into her unconventional work, and shared valuable and very thought-provoking approach to ‘breaking off to new shores’."'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Susann Ruscher, Art Directors Club, Berlin'
+    image: portfolio/one-bite/img_4304.jpg
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: VXGHjdBgKyzoL5aYhpFgw
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "\"Marije inspires a greater consciousness of our relationship with food as a medium for positive change.\_Since 2008 she’s always on our roster\""
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Ravi Naidoo, Design Indaba, Cape Town'
+    image: portfolio/teardrop/teardrop.jpg
+    align_content: right
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: 49KHpsmFOgMD8CBoQMiKJ
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '"Marije created a series of talks to see food in a new way, always surprising & without moral judgement, with knowledge and details to inspire perspectives."'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: bold
+              -
+                type: italic
+            text: 'Moniek Merkx, Maas Theatre and Dance, Rotterdam'
+    image: portfolio/pasta-sauna/img_6338.jpg
+    align_content: left
+    link:
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
+  -
+    id: '-n9zQ8oJthRvMCgQXEqL4'
+    heading_type: h2
+    text:
+      -
+        type: heading
+        attrs:
+          level: 3
+        content:
+          -
+            type: text
+            text: 'Ready to create your own success story?'
+    image: illustrations/gesneden-brood.jpg
+    align_content: right
+    link:
+      label: 'Discuss it with Marije'
+      link_type: entry
+      target_blank: false
+      button_type: button
+    type: streamer
+    enabled: true
 ---
