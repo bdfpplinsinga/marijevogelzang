@@ -3,7 +3,7 @@ id: e4d84a72-0c8b-47e4-b608-40434d3785f6
 blueprint: page
 title: Speaking
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780043705
+updated_at: 1780044190
 page_builder:
   -
     id: Giezi8TnjSodpkT2Krct1
@@ -98,7 +98,7 @@ page_builder:
     enabled: true
   -
     id: EzT3_mIM-V4d96QJNgjrO
-    heading: LECTURES
+    heading: Lectures
     heading_type: h2
     text:
       -
@@ -120,8 +120,87 @@ page_builder:
             type: text
             marks:
               -
+                type: link
+                attrs:
+                  href: 'statamic://entry::918f6a96-a23b-40cd-b37f-817d14eefc90'
+                  rel: null
+                  target: null
+                  title: null
+              -
                 type: bold
             text: 'EXPLORE LECTURES'
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: CikfEWAaSBoPVfdP6yO36
+    heading: 'Live Teaching'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Education is not about dropping instructions upon students, forcing them to copy what I do.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'I believe good education is setting up a framework to explore and engage with, permission to fail, to be smarter…'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::7e92083b-6bda-425d-9cca-f5d1ee40f1d5'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'EXPLORE LIVE TEACHING'
+    image_position: left
+    type: image_text
+    enabled: true
+  -
+    id: Cupl5-9C9jN_8NTcWh1j3
+    heading: Workshops
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Touching food and engaging all the senses in new ways gets you out of a regular thinking pattern.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Doing hands-on workshops with professionals is a great way to connect and create new neurological pathways…'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'statamic://entry::abe3cb10-835b-4c26-a8ad-8474b0dbc2d6'
+                  rel: null
+                  target: null
+                  title: null
+              -
+                type: bold
+            text: 'EXPLORE WORKSHOPS'
     image_position: left
     type: image_text
     enabled: true
