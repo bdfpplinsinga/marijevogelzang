@@ -4,7 +4,7 @@ blueprint: course
 title: 'Summer School'
 date: '2026-06-15 22:00'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1779875232
+updated_at: 1780045048
 summary: 'This is a Summer School — Create Your Own Conceptual Dinner'
 long_form_content:
   -
@@ -459,212 +459,170 @@ page_builder:
           -
             type: text
             text: 'In 10 days you become a food experience creator.'
-      -
-        type: heading
-        attrs:
-          level: 2
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Still on the fence?!'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: italic
-            text: 'More reasons you should book a Summer School spot now!'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Is it only for food creatives?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'In past courses, we’ve had:'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '• A florist'
-          -
-            type: text
-            text: ' who now works with edible flowers as protest signs'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '• A permaculture gardener'
-          -
-            type: text
-            text: ' who uses food rituals to teach soil literacy'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '• A brand manager'
-          -
-            type: text
-            text: ' who speaks to clients in the language of food (and gets better results)'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '• An interior shop owner'
-          -
-            type: text
-            text: ' who now hosts secret tastings — and sells more products'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '• Scientists'
-          -
-            type: text
-            text: ' who make their research edible and therefore more understandable'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: '• A psychologist'
-          -
-            type: text
-            text: ' who uses food to help clients connect with their bodies'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'what is the time investment?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'It will cost you less time than it will cost you to do nothing and figure everything out yourself. Having said that, it’s 10 days, two hours a day (you get a recording if you can’t join the live session) and any extra time you want to work on your project (between 30 min to 4 hours) depending on how much time you’ve got.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Do I need to show myself on zoom?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'It is not mandatory to show yourself on zoom, so if you feel more safe without your camera on, that’s completely fine. However, you will notice it’s more fun to engage and communicate while showing yourself.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Will I make a huge dinner in 10 days?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'You will create a dinner for 2 to 4 people which, after the Winter School is over, you can easily scale and execute in any size you want.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Will we create one of your dinners?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'You will create your own, very unique and personal dinner that doesn’t exist anywhere else in the world.'
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: 'Will there be another moment for this course?'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Right now, the Summer school is happening once a year. Sign up for the newsletter if you’d like to be kept updated. We also have hands -on retreats and courses at '
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: www.fooddesignplayground.nl
-                  rel: null
-                  target: _blank
-                  title: null
-            text: www.fooddesignplayground.nl
     type: text
+    enabled: true
+  -
+    id: Dv9-4gdBoZ1PrUUyYUQL8
+    faq_items:
+      -
+        id: P3pukwRqCZmYp8ExEvetk
+        question: 'Is it only for food creatives?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'In past courses, we’ve had:'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '• A florist'
+              -
+                type: text
+                text: ' who now works with edible flowers as protest signs'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '• A permaculture gardener'
+              -
+                type: text
+                text: ' who uses food rituals to teach soil literacy'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '• A brand manager'
+              -
+                type: text
+                text: ' who speaks to clients in the language of food (and gets better results)'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '• An interior shop owner'
+              -
+                type: text
+                text: ' who now hosts secret tastings — and sells more products'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '• Scientists'
+              -
+                type: text
+                text: ' who make their research edible and therefore more understandable'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: '• A psychologist'
+              -
+                type: text
+                text: ' who uses food to help clients connect with their bodies'
+        type: faq
+        enabled: true
+      -
+        id: 07xWrCj8j57eX6fdT5KD3
+        question: 'What is the time investment?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'It will cost you less time than it will cost you to do nothing and figure everything out yourself. Having said that, it’s 10 days, two hours a day (you get a recording if you can’t join the live session) and any extra time you want to work on your project (between 30 min to 4 hours) depending on how much time you’ve got.'
+        type: faq
+        enabled: true
+      -
+        id: dBx5b77l6UsEMGOLK1-70
+        question: 'Do I need to show myself on zoom?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'It is not mandatory to show yourself on zoom, so if you feel more safe without your camera on, that’s completely fine. However, you will notice it’s more fun to engage and communicate while showing yourself.'
+        type: faq
+        enabled: true
+      -
+        id: KyR1XoduKcd4FKSEScVev
+        question: 'Will I make a huge dinner in 10 days?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'You will create a dinner for 2 to 4 people which, after the Summer School is over, you can easily scale and execute in any size you want.'
+        type: faq
+        enabled: true
+      -
+        id: yOX5dk2a6GbXzRpEQX32O
+        question: 'Will we create one of your dinners?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'You will create your own, very unique and personal dinner that doesn’t exist anywhere else in the world.'
+        type: faq
+        enabled: true
+      -
+        id: Qgj2z46qqB9aIg-H_utsR
+        question: 'Will there be another moment for this course?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Right now, the Summer school is happening once a year.'
+              -
+                type: hardBreak
+              -
+                type: text
+                text: 'We also have hands -on retreats and courses at www.fooddesignplayground.nl'
+        type: faq
+        enabled: true
+    heading: 'Still on the fence?!'
+    heading_type: h2
+    text:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'More reasons you should book a Summer School spot now!'
+    type: faq
     enabled: true
   -
     id: Zxc6lCag_vtU4hzxcf6cP
@@ -703,7 +661,7 @@ page_builder:
                 type: bold
             text: 'DON’T MISS OUT'
     type: text
-    enabled: true
+    enabled: false
   -
     id: 3kRGR9Ncnb7hPDEzcFvxv
     heading: 'WHERE COULD YOU BE IN JUST 10 DAYS?'
