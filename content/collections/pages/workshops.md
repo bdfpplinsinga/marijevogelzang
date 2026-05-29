@@ -3,7 +3,7 @@ id: abe3cb10-835b-4c26-a8ad-8474b0dbc2d6
 blueprint: page
 title: Workshops
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780047948
+updated_at: 1780048078
 page_builder:
   -
     id: 8mDvZtzdRwC1w6A_ny0v8
@@ -39,7 +39,7 @@ page_builder:
     newsletter: newsletter
     heading: 'Get your project started with Marije'
     heading_type: h2
-    text: 'Complete the form below or feel free to email me directly at studio@marijevogelzang.nl'
+    text: 'Complete the form or feel free to email me directly at studio@marijevogelzang.nl'
     show_socials: true
     type: newsletter
     enabled: true
