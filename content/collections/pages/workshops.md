@@ -1,10 +1,9 @@
 ---
 id: abe3cb10-835b-4c26-a8ad-8474b0dbc2d6
-published: false
 blueprint: page
 title: Workshops
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780047941
+updated_at: 1780047948
 page_builder:
   -
     id: 8mDvZtzdRwC1w6A_ny0v8
