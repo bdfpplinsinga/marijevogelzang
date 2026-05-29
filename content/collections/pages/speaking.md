@@ -3,7 +3,7 @@ id: e4d84a72-0c8b-47e4-b608-40434d3785f6
 blueprint: page
 title: Speaking
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780044190
+updated_at: 1780044306
 page_builder:
   -
     id: Giezi8TnjSodpkT2Krct1
@@ -133,7 +133,7 @@ page_builder:
     type: image_text
     enabled: true
   -
-    id: CikfEWAaSBoPVfdP6yO36
+    id: ONfRyIXTdDlFoXvqs_vO3
     heading: 'Live Teaching'
     heading_type: h2
     text:
@@ -169,7 +169,7 @@ page_builder:
     type: image_text
     enabled: true
   -
-    id: Cupl5-9C9jN_8NTcWh1j3
+    id: Cztd7wVf43D7BidQKf9mU
     heading: Workshops
     heading_type: h2
     text:
