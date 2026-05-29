@@ -4,14 +4,14 @@ published: false
 blueprint: page
 title: Lectures
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780046547
+updated_at: 1780047000
 page_builder:
   -
     id: D22ZXhOThKbd3WT0nOo6C
     heading: Lectures
     heading_type: h2
     text: 'Can stories create true change?'
-    image: portraits/marije-vogelzang-6.png
+    image: portraits/marije-vogelzang-6.jpg
     overlap: true
     type: hero
     enabled: true
@@ -261,8 +261,9 @@ page_builder:
           -
             type: text
             text: 'All with the same goal: to spark an internal shift and to empower the audience to start embracing a new way of thinking in their own life.'
-    image: portraits/marije-vogelzang-1.jpg
+    image: portraits/zx620_2518948-285x380.jpg
     image_position: left
     type: image_text
     enabled: true
+    heading: 'Immersive Storytelling'
 ---
