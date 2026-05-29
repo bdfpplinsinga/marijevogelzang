@@ -3,7 +3,7 @@ id: 918f6a96-a23b-40cd-b37f-817d14eefc90
 blueprint: page
 title: Lectures
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780047090
+updated_at: 1780048068
 page_builder:
   -
     id: D22ZXhOThKbd3WT0nOo6C
@@ -270,7 +270,7 @@ page_builder:
     newsletter: newsletter
     heading: 'Get your project started with Marije'
     heading_type: h2
-    text: 'Complete the form below or feel free to email me directly at: studio@marijevogelzang.nl'
+    text: 'Complete the form or feel free to email me directly at: studio@marijevogelzang.nl'
     show_socials: true
     type: newsletter
     enabled: true
