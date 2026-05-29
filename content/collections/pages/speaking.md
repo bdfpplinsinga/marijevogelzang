@@ -3,7 +3,7 @@ id: e4d84a72-0c8b-47e4-b608-40434d3785f6
 blueprint: page
 title: Speaking
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780046045
+updated_at: 1780046855
 page_builder:
   -
     id: Giezi8TnjSodpkT2Krct1
@@ -13,7 +13,7 @@ page_builder:
     overlap: true
     type: hero
     enabled: true
-    image: portraits/marije-vogelzang-6.jpg
+    image: portraits/marije-vogelzang-1.jpg
   -
     id: n607aoJd7OM9cdYiuScVO
     text:
@@ -136,7 +136,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
-    image: portraits/marije-vogelzang-6.png
+    image: portraits/marije-vogelzang-6.jpg
   -
     id: ONfRyIXTdDlFoXvqs_vO3
     heading: 'Live Teaching'
@@ -173,7 +173,7 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
-    image: portraits/marije-vogelzang-1.jpg
+    image: portraits/marije-vogelzang-6.png
   -
     id: Cztd7wVf43D7BidQKf9mU
     heading: Workshops
