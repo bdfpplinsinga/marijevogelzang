@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1779958624
+updated_at: 1781622179
 page_builder:
   -
     id: WjgNJrJpd4QFwdS3F8YL5
@@ -365,7 +365,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-    image: illustrations/ask-for-more-bigger-size.jpg
+    image: illustrations/pringles-1180x1108.jpg
 ---
 ## Welcome to your brand new Statamic site!
 
