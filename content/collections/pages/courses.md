@@ -409,36 +409,16 @@ page_builder:
     type: text
     enabled: false
   -
-    id: socmjidQ0DsyPu8otUMwR
+    id: mXTnQ1OE5rcF_LePv2HhE
+    newsletter: newsletter
+    heading: 'Have a project in mind?'
     heading_type: h2
-    align_content: left
-    link:
-      label: 'DISCUSS WITH MARIJE >'
-      link_type: entry
-      target_blank: false
-      entry: f31e5144-e7d3-4d4d-93b9-d15f08d4d92e
-      button_type: button
-    type: streamer
+    text: |-
+      Don’t know where to start? 
+      Discuss with Marije
+    show_socials: false
+    type: newsletter
     enabled: true
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Have a particular project in mind?'
-          -
-            type: hardBreak
-          -
-            type: text
-            text: 'Don’t know where to start?'
-          -
-            type: hardBreak
-          -
-            type: hardBreak
-    image: portfolio/the-national-tapwater-tasting/img_7309.jpg
   -
     id: y4PV_T9FLzBBIWWbuNwqH
     heading: 'I am a pioneer in the field of Food Design'
@@ -612,13 +592,14 @@ page_builder:
     heading_type: h2
     align_content: left
     link:
-      label: "YES, LET'S GET STARTED >"
+      label: "YES, LET'S GET STARTED!"
       link_type: entry
       target_blank: false
+      entry: ce711085-6ca2-4e74-8b2b-d674729498eb
       button_type: button
     type: streamer
     enabled: true
     image: portfolio/seeds/caesarstone_ids2019_0485.jpg
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778842119
+updated_at: 1781622514
 ---
