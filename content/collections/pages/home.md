@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1781622179
+updated_at: 1781622549
 page_builder:
   -
     id: WjgNJrJpd4QFwdS3F8YL5
@@ -359,9 +359,10 @@ page_builder:
             text: 'Ready to create your own success story?'
     align_content: center
     link:
-      label: "YES, LET'S GET STARTED"
+      label: "YES, LET'S GET STARTED!"
       link_type: entry
-      target_blank: false
+      target_blank: true
+      entry: ce711085-6ca2-4e74-8b2b-d674729498eb
       button_type: button
     type: streamer
     enabled: true
