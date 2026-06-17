@@ -3,7 +3,7 @@ id: 7e92083b-6bda-425d-9cca-f5d1ee40f1d5
 blueprint: page
 title: Teaching
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1781685413
+updated_at: 1781685532
 page_builder:
   - id: 8LK1EMrCJfwLzD5yh6C7s
     heading: Teaching
@@ -91,6 +91,11 @@ page_builder:
     image_position: left
     type: image_text
     enabled: true
+  - id: XAYvQt_mO_aiEBkK1wsa1
+    selection_method: false
+    number_of_courses_to_show: 4
+    type: courses
+    enabled: true
   -
     id: ul6rKb8Oemooe9ZfdpYgI
     heading_type: h2
@@ -114,11 +119,6 @@ page_builder:
       entry: c2b5f933-202d-4fdd-98dd-170e0a1013e6
       button_type: button
     type: streamer
-    enabled: true
-  - id: XAYvQt_mO_aiEBkK1wsa1
-    selection_method: false
-    number_of_courses_to_show: 4
-    type: courses
     enabled: true
   - id: hXY58RxvSgfxdx_k1ZClU
     newsletter: newsletter
