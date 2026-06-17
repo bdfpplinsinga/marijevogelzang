@@ -8,7 +8,7 @@
             <div class="lg:row-[1/1] {{overlap ? 'lg:col-[1/8] break-words hyphens-auto' : 'lg:col-[1/8]'}}">
                 {{ block:heading ?= { partial:typography/display :as="block:heading_type" :content="block:heading" } }}
             </div>
-            <div class="mt-4 lg:mt-0 lg:row-[1/1] col-[8/13]">
+            <div class="mt-4 lg:mt-0 lg:col-[8/13]">
                 {{ block:text ?= { partial:typography/p class="sm:text-lg xl:text-2xl 2xl:text-3xl xl:leading-[135%]" :content="block:text" } }}
             </div>
         </div>
