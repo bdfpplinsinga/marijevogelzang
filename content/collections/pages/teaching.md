@@ -1,13 +1,12 @@
 ---
 id: 7e92083b-6bda-425d-9cca-f5d1ee40f1d5
 blueprint: page
-title: 'Live Teaching'
+title: Teaching
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780048058
+updated_at: 1781685532
 page_builder:
-  -
-    id: 8LK1EMrCJfwLzD5yh6C7s
-    heading: 'Live Teaching'
+  - id: 8LK1EMrCJfwLzD5yh6C7s
+    heading: Teaching
     heading_type: h2
     text: 'Challenge minds allowing hands to create new realities'
     image: portfolio/the-blind-date-project/sdc11094.jpg
@@ -25,8 +24,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Why live teaching is so important:'
     type: text
     enabled: true
@@ -40,14 +38,12 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'The experience connects people'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Learning in a way that’s both theoretical and tangible builds on top of each other and provides deep insight and experience.'
     image: illustrations/fm-23.jpg
     image_position: left
@@ -63,14 +59,12 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Provide a unique window to the world'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Having an outsider join students for a few days helps them to reassess their practice and get active.'
     image: illustrations/ask-for-more.jpg
     image_position: left
@@ -86,18 +80,21 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Finding your own way, on your terms'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Power Workshops that address you as a consuming and inquisitive human helps you to reflect on your own position as a creative in the world of food and design.'
     image: illustrations/losse-illustratie.jpg
     image_position: left
     type: image_text
+    enabled: true
+  - id: XAYvQt_mO_aiEBkK1wsa1
+    selection_method: false
+    number_of_courses_to_show: 4
+    type: courses
     enabled: true
   -
     id: ul6rKb8Oemooe9ZfdpYgI
@@ -111,8 +108,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'And here’s an example of what’s possible'
     image: portfolio/the-blind-date-project/sdc11093-760x570.jpg
     align_content: left
@@ -124,8 +120,7 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-  -
-    id: hXY58RxvSgfxdx_k1ZClU
+  - id: hXY58RxvSgfxdx_k1ZClU
     newsletter: newsletter
     heading: 'Get your project started with Marije'
     heading_type: h2

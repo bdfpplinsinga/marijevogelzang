@@ -1,29 +1,14 @@
 tree:
-  -
-    entry: home
-  -
-    entry: 6de0328d-dca8-435a-8916-c5ea407fed9b
-  -
-    entry: f31e5144-e7d3-4d4d-93b9-d15f08d4d92e
-  -
-    entry: ce711085-6ca2-4e74-8b2b-d674729498eb
-  -
-    entry: 290c2731-0296-416a-88f4-0fc3ecb10c95
-  -
-    entry: 56ca143d-c212-41ea-8444-5f0168978983
-  -
-    entry: aeccacec-3051-46d6-8bc0-45dc62f2b3ec
-  -
-    entry: 3f1244b1-f33d-40f3-b1c6-c081068f8c12
-  -
-    entry: 9892dfce-94d1-4921-acbc-0ee103830f6d
-  -
-    entry: fe4e2998-d0ef-4cf5-bb97-ee6d589c5dbb
-  -
-    entry: e4d84a72-0c8b-47e4-b608-40434d3785f6
-  -
-    entry: 918f6a96-a23b-40cd-b37f-817d14eefc90
-  -
-    entry: 7e92083b-6bda-425d-9cca-f5d1ee40f1d5
-  -
-    entry: abe3cb10-835b-4c26-a8ad-8474b0dbc2d6
+  - entry: home
+  - entry: 6de0328d-dca8-435a-8916-c5ea407fed9b
+  - entry: f31e5144-e7d3-4d4d-93b9-d15f08d4d92e
+  - entry: ce711085-6ca2-4e74-8b2b-d674729498eb
+  - entry: 290c2731-0296-416a-88f4-0fc3ecb10c95
+  - entry: 56ca143d-c212-41ea-8444-5f0168978983
+  - entry: aeccacec-3051-46d6-8bc0-45dc62f2b3ec
+  - entry: 3f1244b1-f33d-40f3-b1c6-c081068f8c12
+  - entry: 9892dfce-94d1-4921-acbc-0ee103830f6d
+  - entry: fe4e2998-d0ef-4cf5-bb97-ee6d589c5dbb
+  - entry: e4d84a72-0c8b-47e4-b608-40434d3785f6
+  - entry: 918f6a96-a23b-40cd-b37f-817d14eefc90
+  - entry: 7e92083b-6bda-425d-9cca-f5d1ee40f1d5
