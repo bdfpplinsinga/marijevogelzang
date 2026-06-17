@@ -193,31 +193,7 @@ page_builder:
     enabled: true
     heading: 'take a look at'
     image: playground/marijevogelzang(85).jpg
-  -
-    id: os4tRe2iyNSMgaBQ41nkb
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::56ca143d-c212-41ea-8444-5f0168978983'
-                  rel: privacy-policy
-                  target: null
-                  title: null
-            text: 'Privacy Policy'
-      -
-        type: paragraph
-        content:
-          - type: text
-            text: '© 2026 Studio Marije Vogelzang'
-    type: text
-    enabled: true
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1781688404
+updated_at: 1781689040
 duplicated_from: f43d5dd0-a771-4b6c-a72f-48fff3b74c23
 ---
