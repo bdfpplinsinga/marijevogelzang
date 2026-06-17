@@ -3,10 +3,9 @@ id: e4d84a72-0c8b-47e4-b608-40434d3785f6
 blueprint: page
 title: Speaking
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1780048047
+updated_at: 1781687138
 page_builder:
-  -
-    id: Giezi8TnjSodpkT2Krct1
+  - id: Giezi8TnjSodpkT2Krct1
     heading: Speaking
     heading_type: h2
     text: 'What if we can change the way we perceive the value of food?'
@@ -20,38 +19,32 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Food is such a versatile topic, it connects to everything. From politics to culture to rituals to economics and the future.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'But, as it connects to everything, it also connects to one single thing: the eating human being.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'We all eat and we all connect to food in a very rudimentary and crucial way. Because food is such a close to the heart topic, I have found that everybody can relate to it.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'In addition, human beings are the only species that are sensitive to storytelling and imagination.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'So when food and imagination start to merge and bring new visions on how we eat, on what we eat, on how food can be used to shape new connections between people, I see that it grabs the attention. It captivates because it is always about you.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Food is simply the conductor I use to connect you to everything outside.'
     type: text
     enabled: true
@@ -62,8 +55,7 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: '"Marije Vogelzang is a design pioneer. Her explorations of eating and design has inspired a greater consciousness of our relationship with food and food as a medium for positive change. At Design Indaba, we were early adopters to the storytelling and speaking powers of Marije when she first spoke here in 2008. Since then, she is always on our roster for collaborations, commissions, and workshops which has now manifested itself on three continents to date."'
       -
         type: paragraph
@@ -71,10 +63,8 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
-              -
-                type: italic
+              - type: bold
+              - type: italic
             text: 'Ravi Naidoo, Ceo and Founder, Design Indaba Conference, South Africa'
     align_content: left
     link:
@@ -95,8 +85,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Philosophy, inspiration, engaging examples, and tactical tools all in one'
     type: text
     enabled: true
@@ -108,14 +97,12 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Of course! But how?!'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'By creating a situation where an audience feels inspired, touched, energized, and most importantly, able to transfer the story to their own life…'
       -
         type: paragraph
@@ -130,30 +117,27 @@ page_builder:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bold
+              - type: bold
             text: 'EXPLORE LECTURES'
     image_position: left
     type: image_text
     enabled: true
     image: portraits/marije-vogelzang-6.jpg
   -
-    id: ONfRyIXTdDlFoXvqs_vO3
-    heading: 'Live Teaching'
+    id: Cztd7wVf43D7BidQKf9mU
+    heading: Teaching
     heading_type: h2
     text:
       -
         type: paragraph
         content:
-          -
-            type: text
-            text: 'Education is not about dropping instructions upon students, forcing them to copy what I do.'
+          - type: text
+            text: 'Touching food and engaging all the senses in new ways gets you out of a regular thinking pattern.'
       -
         type: paragraph
         content:
-          -
-            type: text
-            text: 'I believe good education is setting up a framework to explore and engage with, permission to fail, to be smarter…'
+          - type: text
+            text: 'Doing hands-on workshops with professionals is a great way to connect and create new neurological pathways…'
       -
         type: paragraph
         content:
@@ -167,46 +151,8 @@ page_builder:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bold
-            text: 'EXPLORE LIVE TEACHING'
-    image_position: left
-    type: image_text
-    enabled: true
-    image: portraits/marije-vogelzang-6.png
-  -
-    id: Cztd7wVf43D7BidQKf9mU
-    heading: Workshops
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Touching food and engaging all the senses in new ways gets you out of a regular thinking pattern.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Doing hands-on workshops with professionals is a great way to connect and create new neurological pathways…'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'statamic://entry::abe3cb10-835b-4c26-a8ad-8474b0dbc2d6'
-                  rel: null
-                  target: null
-                  title: null
-              -
-                type: bold
-            text: 'EXPLORE WORKSHOPS'
+              - type: bold
+            text: 'EXPLORE TEACHING'
     image_position: left
     type: image_text
     enabled: true
@@ -222,8 +168,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Taste future food while listening, interact with the audience or become part of the story you hear'
     type: text
     enabled: true
@@ -234,8 +179,7 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: '"Marije gave insights into her unconventional work, and shared valuable and very thought-provoking approach to ‘breaking off to new shores’."'
       -
         type: paragraph
@@ -243,10 +187,8 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
-              -
-                type: italic
+              - type: bold
+              - type: italic
             text: 'Susann Ruscher, Art Directors Club, Berlin'
     image: portfolio/one-bite/img_4304.jpg
     align_content: left
@@ -263,8 +205,7 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: "\"Marije inspires a greater consciousness of our relationship with food as a medium for positive change.\_Since 2008 she’s always on our roster\""
       -
         type: paragraph
@@ -272,10 +213,8 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
-              -
-                type: italic
+              - type: bold
+              - type: italic
             text: 'Ravi Naidoo, Design Indaba, Cape Town'
     image: portfolio/teardrop/teardrop.jpg
     align_content: right
@@ -292,8 +231,7 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: '"Marije created a series of talks to see food in a new way, always surprising & without moral judgement, with knowledge and details to inspire perspectives."'
       -
         type: paragraph
@@ -301,10 +239,8 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
-              -
-                type: italic
+              - type: bold
+              - type: italic
             text: 'Moniek Merkx, Maas Theatre and Dance, Rotterdam'
     image: portfolio/pasta-sauna/img_6338.jpg
     align_content: left
@@ -314,9 +250,8 @@ page_builder:
       button_type: button
     type: streamer
     enabled: true
-  -
-    id: VHfMO9InKi2XlQXFRpy3w
-    newsletter: newsletter
+  - id: VHfMO9InKi2XlQXFRpy3w
+    newsletter: contact
     heading: 'Get your project started with Marije'
     heading_type: h2
     text: 'Complete the form or feel free to email me directly at studio@marijevogelzang.nl'
