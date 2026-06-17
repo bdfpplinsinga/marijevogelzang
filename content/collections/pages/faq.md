@@ -4,30 +4,16 @@ published: false
 blueprint: page
 title: FAQ
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1781684101
+updated_at: 1781687328
 page_builder:
-  - id: mbf33wlp
-    aspect_ratio: 1
-    type: image
-    enabled: true
-    image: portraits/marije-vogelzang-1.jpg
-  -
-    id: mbf34hfx
-    text:
-      -
-        type: paragraph
-        content:
-          - type: text
-            text: FAQ
-    type: text
-    enabled: false
   - id: mbcm0mls
     heading: faq
     heading_type: h2
-    text: 'Do you have questions? That is not surprising. Food Design is still very unknown and not everything you do is displayed in the website.  Below you will find a list of frequently asked questions. Is your question not included? Then feel free to contact us.'
+    text: 'Do you have questions? That is not surprising. Food Design is still very unknown and not everything I do is displayed in the website.  Below you will find a list of frequently asked questions. Is your question not included? Then feel free to contact us.'
     type: hero
-    enabled: false
+    enabled: true
     overlap: false
+    image: portraits/marije-vogelzang-1.jpg
   -
     id: mbcmb9d6
     text:
@@ -68,7 +54,7 @@ page_builder:
           - type: text
             text: 'We create our own programme but are certainly open to suggestions. Send a message with visual material to studio@marijevogelzang.nl'
     type: text
-    enabled: false
+    enabled: true
   -
     id: mbf2o9ns
     faq_items:
@@ -105,14 +91,14 @@ page_builder:
                 text: 'We create our own programme but are certainly open to suggestions. Send a message with visual material to studio@marijevogelzang.nl'
         type: faq
         enabled: true
-    heading: 'Questions?'
+    heading: FAQ
     heading_type: h1
     text:
       -
         type: paragraph
         content:
           - type: text
-            text: 'Do you have questions? That is not surprising. There is only one Food Design Playground in the world, and we often do things just a little differently. Below you will find a list of frequently asked questions. Is your question not included? Then feel free to contact us.'
+            text: "This website offers a glimpse into Marije's work, but not the whole story. If you have a specific question, are looking for a particular kind of project, or simply wonder whether an idea might fit, feel free to get in touch. We'd love to hear from you."
       -
         type: paragraph
         content:
