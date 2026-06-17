@@ -2,19 +2,17 @@
 id: f31e5144-e7d3-4d4d-93b9-d15f08d4d92e
 blueprint: page
 title: Contact
-updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1778068262
+updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
+updated_at: 1781683773
 page_builder:
-  -
-    id: mav2het5
+  - id: mav2het5
     heading: contact
     heading_type: h2
     type: hero
     enabled: true
     image: portraits/marije-vogelzang-5.png
     overlap: false
-  -
-    id: mbclzl05
+  - id: mbclzl05
     heading_type: h2
     type: newsletter
     enabled: true

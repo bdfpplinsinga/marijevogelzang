@@ -21,3 +21,8 @@ tabs:
               input_type: email
               type: text
               display: Email
+          -
+            handle: image
+            field: image.image
+            config:
+              display: Logo
