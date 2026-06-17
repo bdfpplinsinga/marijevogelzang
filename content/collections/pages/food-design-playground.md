@@ -4,7 +4,7 @@ published: false
 blueprint: page
 title: 'Food Design Playground'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1781708788
+updated_at: 1781708829
 page_builder:
   - id: maw6d499
     heading: 'FOOD <br> DESIGN PLAYGROUND'
@@ -97,7 +97,11 @@ page_builder:
           - type: hardBreak
           - type: text
             text: 'To be moved — through your mouth.'
-    image: playground/img_7082.jpeg
+          - type: hardBreak
+          - type: hardBreak
+          - type: text
+            text: 'Photo: Daisy Tuinder'
+    image: portfolio/mind-mouth/bonenfestival-361.jpg
     image_position: right
     type: image_text
     enabled: true
