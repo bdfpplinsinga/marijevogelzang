@@ -2,9 +2,9 @@
 id: 9892dfce-94d1-4921-acbc-0ee103830f6d
 published: false
 blueprint: page
-title: FAQ
+title: Questions
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1781687328
+updated_at: 1781688889
 page_builder:
   - id: mbcm0mls
     heading: faq
@@ -54,7 +54,7 @@ page_builder:
           - type: text
             text: 'We create our own programme but are certainly open to suggestions. Send a message with visual material to studio@marijevogelzang.nl'
     type: text
-    enabled: true
+    enabled: false
   -
     id: mbf2o9ns
     faq_items:
@@ -66,7 +66,7 @@ page_builder:
             type: paragraph
             content:
               - type: text
-                text: 'Subscribe to the newsletter and follow us on Instagram @fooddesignplayground to stay up to date on vacancies.'
+                text: 'Subscribe to the newsletter and follow us on Instagram @Marije_Vogelzang to stay up to date on vacancies.'
         type: faq
         enabled: true
       -
@@ -89,6 +89,9 @@ page_builder:
             content:
               - type: text
                 text: 'We create our own programme but are certainly open to suggestions. Send a message with visual material to studio@marijevogelzang.nl'
+        type: faq
+        enabled: true
+      - id: C5ekPSDJZ1VjmkOgOr7Df
         type: faq
         enabled: true
     heading: FAQ
