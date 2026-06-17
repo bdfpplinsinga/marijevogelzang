@@ -10,7 +10,7 @@ preferences:
       after_save: listing
     portfolio:
       view: list
-      after_save: listing
+      after_save: continue_editing
     courses:
       view: list
       after_save: listing

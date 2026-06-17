@@ -4,7 +4,7 @@ blueprint: pages
 title: Home
 template: default
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1781622549
+updated_at: 1781683362
 page_builder:
   -
     id: WjgNJrJpd4QFwdS3F8YL5
@@ -14,20 +14,17 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'I’m Marije Vogelzang. I’m excited to inspire you, to guide you, to help you explore your passion as you create experiences and projects for business and personally, fuelled with your love of food and design.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'I can’t wait to see what you create!'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Love, Marije'
     image: portraits/streamer.png
     type: streamer
@@ -54,8 +51,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'I’m a pioneer, a creator, an educator...'
     type: text
     enabled: true
@@ -69,32 +65,27 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: Design
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Find the essence of what we do and then shift perspective.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'How can this be done?'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'By shifting the power balance between a minority group and the general public.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'By changing perspective from outside the box to inside the bento box, revealing all intangible things about bento…'
       -
         type: paragraph
@@ -109,8 +100,7 @@ page_builder:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bold
+              - type: bold
             text: 'EXPLORE PORTFOLIO'
     image: portfolio/volumes/volumes.-2017.-img.-111.jpeg
     image_position: left
@@ -126,14 +116,12 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Online and offline courses!'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'After 27 years of working as a creative professional, having taught at schools and in private coaching situations, I decided to transform my knowledge and experience into two tracks of curriculums…'
       -
         type: paragraph
@@ -148,8 +136,7 @@ page_builder:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bold
+              - type: bold
             text: 'EXPLORE COURSES'
     image: illustrations/tel-voeren-1440x991.jpg
     image_position: left
@@ -165,26 +152,22 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: Speaking
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'What if we can change the way we perceive the value of food?'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Food is such a versatile topic, it connects to everything. From politics to culture to rituals to economics and the future.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'But, as it connects to everything, it also connects to one single thing: the eating human being…'
       -
         type: paragraph
@@ -199,32 +182,12 @@ page_builder:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bold
+              - type: bold
             text: 'EXPLORE SPEAKING'
     image: portraits/marije-vogelzang-6.jpg
     image_position: left
     type: image_text
     enabled: true
-  -
-    id: zSQWbU4P0dppZ40pJlzry
-    heading_type: h2
-    text:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Have a particular project in mind? Don’t know where to start?'
-    align_content: center
-    link:
-      label: 'DISCUSS IT WITH MARIJE'
-      link_type: entry
-      target_blank: false
-      button_type: button
-    type: streamer
-    enabled: true
-    image: illustrations/kromkommers.jpg
   -
     id: OwZC-pR3Pzqp-eV_64K2I
     heading_type: h2
@@ -235,25 +198,20 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'I am a pioneer in the field of Food and Design'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'Food and Design has now become a global movement and my work is on display all over the world.'
-          -
-            type: hardBreak
-          -
-            type: text
+          - type: hardBreak
+          - type: text
             text: 'From the Tokyo Metropolitan Art Museum to the Cooper Hewitt Design Museum in New York and it has been published extensively from the New York times to Wallpaper magazine and ICON magazine.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'I began my journey with food and design at Design Academy Eindhoven in 1999 and 2000 I opened my eating-design studio in addition to creating food-related experiences around the globe...'
       -
         type: paragraph
@@ -268,8 +226,7 @@ page_builder:
                   rel: null
                   target: null
                   title: null
-              -
-                type: bold
+              - type: bold
             text: 'READ MORE ABOUT ME'
       -
         type: paragraph
@@ -277,8 +234,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: italic
+              - type: italic
             text: 'Photo by Hilde Harshagen'
     image: portraits/maria-vogelzang-hero.webp
     image_position: left
@@ -294,8 +250,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: italic
+              - type: italic
             text: 'Marije’s work resonates for its ability to use food as a narrative device, playfully experimenting with food rituals, forms, and experiences.'
       -
         type: paragraph
@@ -303,10 +258,8 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
-              -
-                type: italic
+              - type: bold
+              - type: italic
             text: 'Andrea Lipps, Cooper Hewitt, Smithsonian Design Museum, New York'
     align_content: right
     link:
@@ -323,8 +276,7 @@ page_builder:
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: '"Marije’s influence is enormous, her scope universal and her enthusiasm infectious… she will liberate in you unsuspected and hidden talents."'
       -
         type: paragraph
@@ -332,10 +284,8 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
-              -
-                type: italic
+              - type: bold
+              - type: italic
             text: 'Lidewij Edelkoort, Parsons School of Design'
     align_content: left
     link:
@@ -345,28 +295,12 @@ page_builder:
     type: streamer
     enabled: true
     image: portfolio/white-funeral-dinner/vogelzang_white_funeral_dinner_300dpi.jpg
-  -
-    id: DQljUODIBm27aG9pzyaiv
+  - id: REYsFt7SHrtQV6ezQuEIM
+    newsletter: newsletter
     heading_type: h2
-    text:
-      -
-        type: heading
-        attrs:
-          level: 3
-        content:
-          -
-            type: text
-            text: 'Ready to create your own success story?'
-    align_content: center
-    link:
-      label: "YES, LET'S GET STARTED!"
-      link_type: entry
-      target_blank: true
-      entry: ce711085-6ca2-4e74-8b2b-d674729498eb
-      button_type: button
-    type: streamer
+    show_socials: false
+    type: newsletter
     enabled: true
-    image: illustrations/pringles-1180x1108.jpg
 ---
 ## Welcome to your brand new Statamic site!
 
