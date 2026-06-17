@@ -8,18 +8,18 @@ tabs:
             handle: naam
             field:
               type: text
-              display: Naam
-              placeholder: 'Uw naam'
+              display: Name
+              placeholder: Name
           -
             handle: email
             field:
               input_type: email
-              placeholder: 'Email Adres'
+              placeholder: Email
               type: text
               display: Email
           -
             handle: message
             field:
-              placeholder: 'Vraag of opmerking'
+              placeholder: Message
               type: textarea
-              display: 'Vraag of opmerking'
+              display: Message

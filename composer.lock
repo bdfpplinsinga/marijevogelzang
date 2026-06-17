@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "958334868ac484f5c0312bd69c99ef37",
+    "content-hash": "f6c5b2e689961eedb7abd8324cb66318",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -2816,6 +2816,65 @@
                 }
             ],
             "time": "2026-03-08T20:05:35+00:00"
+        },
+        {
+            "name": "lwekuiper/statamic-activecampaign",
+            "version": "v3.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/lwekuiper/statamic-activecampaign.git",
+                "reference": "25ce1eb08adc5905d80f2236e887d0efcbf4658e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/lwekuiper/statamic-activecampaign/zipball/25ce1eb08adc5905d80f2236e887d0efcbf4658e",
+                "reference": "25ce1eb08adc5905d80f2236e887d0efcbf4658e",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.3",
+                "statamic/cms": "^6.5"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^10.0 || ^11.0"
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Lwekuiper\\StatamicActivecampaign\\ServiceProvider"
+                    ]
+                },
+                "statamic": {
+                    "name": "Statamic ActiveCampaign",
+                    "editions": [
+                        "lite",
+                        "pro"
+                    ],
+                    "description": "ActiveCampaign integration for Statamic"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Lwekuiper\\StatamicActivecampaign\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Laurens Kuiper",
+                    "email": "l@urens.me"
+                }
+            ],
+            "description": "Subscribe registrations or contact forms to ActiveCampaign",
+            "support": {
+                "issues": "https://github.com/lwekuiper/statamic-activecampaign/issues",
+                "source": "https://github.com/lwekuiper/statamic-activecampaign/tree/v3.4.0"
+            },
+            "time": "2026-05-27T14:46:28+00:00"
         },
         {
             "name": "maennchen/zipstream-php",

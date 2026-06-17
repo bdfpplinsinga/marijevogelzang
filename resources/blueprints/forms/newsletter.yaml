@@ -8,14 +8,14 @@ tabs:
             handle: first_name
             field:
               type: text
-              display: Voornaam
+              display: 'First Name'
               placeholder: Voornaam
               prepend: Voornaam
           -
             handle: last_name
             field:
               type: text
-              display: Achternaam
+              display: 'Last Name'
               placeholder: Achternaam
           -
             handle: emailaddress
@@ -30,11 +30,9 @@ tabs:
             handle: mailing_lists
             field:
               options:
-                -
-                  key: 1
-                  value: 'Nieuwsbrief Marije Vogelzang'
-                -
-                  key: 14
+                - key: 1
+                  value: 'Newsletter Marije Vogelzang'
+                - key: 14
                   value: 'Weekly updates Food Design Playground'
               type: checkboxes
-              display: 'Ik wil me inschrijven voor:'
+              display: 'I would like to subscribe to:'
