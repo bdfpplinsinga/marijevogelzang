@@ -4,12 +4,12 @@ published: false
 blueprint: page
 title: 'Food Design Playground'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1781682693
+updated_at: 1781688861
 page_builder:
   - id: maw6d499
     heading: 'FOOD DESIGN PLAYGROUND'
     heading_type: h1
-    text: 'Food Design Playground is een plek waar je anders leert kijken naar iets heel gewoons: eten. In deze monumentale locatie in het centrum van Dordrecht draait het niet om luxe tafels of perfect opgemaakte borden, maar om jouw zintuigen. Hier draait het om wat eten doet — met je lijf, je gedachten, je herinneringen.'
+    text: 'Food Design Playground is a place where you learn to look at something very ordinary—food—differently. In this monumental location in the center of Dordrecht, it is not about luxury tables or perfectly presented plates, but about your senses. Here, it is about what food does—to your body, your thoughts, your memories.'
     type: hero
     enabled: true
     overlap: true
@@ -20,12 +20,12 @@ page_builder:
         type: paragraph
         content:
           - type: text
-            text: 'We organiseren pop-up diners met radicale chefs en ontwerpers. Je kunt bijvoorbeeld een audioproeverij beleven waarbij je geblinddoekt luistert naar een verhaal dat zich in je mond afspeelt. Er zijn tentoonstellingen en installaties over food design, een food-book club ‘eat what you read’, en kindertheater met eetbare workshops.'
+            text: 'We organize pop-up dinners with radical chefs and designers. For example, you can experience an audio tasting where you listen blindfolded to a story unfolding inside your mouth. There are exhibitions and installations on food design, a bean festival, and food design lunches.'
       -
         type: paragraph
         content:
           - type: text
-            text: "Daarnaast is dit ook de plek waar je zelf aan de slag kunt. Tijdens retraites en workshops leer je hoe je eten inzet als ontwerp materiaal — of als middel om een verhaal te vertellen, een ritueel te ontwerpen, en om mensen écht te raken.\_"
+            text: 'In addition, this is also the place where you can get to work yourself. During retreats and workshops, you learn how to use food as design material — or as a means to tell a story, design a ritual, and truly touch people.'
     type: text
     enabled: true
   - id: mc5v1ftu
@@ -40,13 +40,11 @@ page_builder:
     text:
       -
         type: paragraph
-        attrs:
-          textAlign: left
         content:
           - type: text
             text: |-
-              Er is een bibliotheek vol boeken over food design, eetcultuur, systeem, taal, vormen en filosofie. En een kleine concept shop waar je zintuiglijke cadeaus, bijzondere objecten en eetbare ideeën vindt.Food Design Playground is geen normaal restaurant. Je kunt hier niet zomaar binnenlopen voor een lunch. We werken op event-basis — voorstellingen, diners, workshops en andere momenten waarop de deur wijd open staat.
-              En goed om te weten: je hoeft geen ontwerper te zijn om je thuis te voelen. Juist ‘gewone’ mensen met nieuwsgierigheid en een mond zijn hier meer dan welkom.Voor iedereen die genoeg heeft van voedsel als product, en zin heeft in voedsel als proces.Voor dromers, denkers, makers, twijfelaars en fijnproevers.Voor wie het lef heeft om zijn smaakpapillen mee te nemen op onbekend terrein.
+              There is a library full of books on food design, food culture, systems, language, forms, and philosophy. And a small concept shop where you can find sensory gifts, unique objects, and edible ideas. Food Design Playground is not a normal restaurant. You cannot just walk in for lunch. We work on an event basis — performances, dinners, workshops, and other moments when the door is wide open.
+              And good to know: you don't have to be a designer to feel at home. In fact, 'ordinary' people with curiosity and a mouth are more than welcome here. For everyone who has had enough of food as a product and is craving food as a process. For dreamers, thinkers, makers, doubters, and connoisseurs. For those who have the guts to take their taste buds into unknown territory.
     image_position: left
     type: image_text
     enabled: true
@@ -67,7 +65,7 @@ page_builder:
         type: paragraph
         content:
           - type: text
-            text: 'Wil je zelf iets organiseren? De verschillende ruimtes zijn te huur voor creatieve bijeenkomsten, vergaderingen, diners, lezingen of inspiratiesessies. Met of zonder catering, altijd met karakter. Food design Playground is een initiatief van Marije Vogelzang. Marije is in 1999 begonnen als ontwerper en is een van de pioniers van het vakgebied. Food Design Playground is een plek om te proeven, te denken en te maken. Om geraakt te worden — via je tong.'
+            text: 'Would you like to organize something yourself? The various spaces are available for rent for creative gatherings, meetings, dinners, lectures, or inspiration sessions. With or without catering, always with character. Food Design Playground is an initiative of Marije Vogelzang. Marije started as a designer in 1999 and is one of the pioneers of the field. Food Design Playground is a place to taste, to think, and to create. To be touched — via your tongue.'
     image: playground/img_7082.jpeg
     image_position: right
     type: image_text

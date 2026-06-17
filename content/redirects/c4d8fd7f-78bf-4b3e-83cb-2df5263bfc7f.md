@@ -1,3 +1,3 @@
 source: /venue/live-training/
-destination: /
+destination: /teaching
 status_code: 301
