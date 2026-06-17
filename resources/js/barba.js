@@ -3,8 +3,11 @@ import { initEventbriteWidgets } from './eventbrite';
 
 initEventbriteWidgets();
 
+barba.hooks.after(() => {
+    window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+});
 
- barba.init({
+barba.init({
     transitions: [
         {
             name: "opacity-transition",
