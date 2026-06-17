@@ -4,18 +4,26 @@ published: false
 blueprint: page
 title: 'Food Design Playground'
 updated_by: 79296801-252d-4afa-98db-926f50d63dff
-updated_at: 1781688861
+updated_at: 1781708341
 page_builder:
   - id: maw6d499
-    heading: 'FOOD DESIGN PLAYGROUND'
+    heading: 'FOOD <br> DESIGN PLAYGROUND'
     heading_type: h1
-    text: 'Food Design Playground is a place where you learn to look at something very ordinary—food—differently. In this monumental location in the center of Dordrecht, it is not about luxury tables or perfectly presented plates, but about your senses. Here, it is about what food does—to your body, your thoughts, your memories.'
+    text: |-
+      This is not a restaurant.
+      This is a place where food becomes a question.
     type: hero
     enabled: true
     overlap: true
+    image: playground/marijevogelzang(60).jpg
   -
     id: maw6j9d7
     text:
+      -
+        type: paragraph
+        content:
+          - type: text
+            text: 'Housed in a monumental building in the heart of Dordrecht, Food Design Playground is a studio, a stage, and a playground — for anyone who has ever wondered why we eat the way we eat, and what it could become.'
       -
         type: paragraph
         content:
@@ -35,16 +43,19 @@ page_builder:
     enabled: true
   -
     id: mbjdme13
-    heading: 'een thuis voor food design'
+    heading: 'A home for food design'
     heading_type: h2
     text:
       -
         type: paragraph
         content:
           - type: text
-            text: |-
-              There is a library full of books on food design, food culture, systems, language, forms, and philosophy. And a small concept shop where you can find sensory gifts, unique objects, and edible ideas. Food Design Playground is not a normal restaurant. You cannot just walk in for lunch. We work on an event basis — performances, dinners, workshops, and other moments when the door is wide open.
-              And good to know: you don't have to be a designer to feel at home. In fact, 'ordinary' people with curiosity and a mouth are more than welcome here. For everyone who has had enough of food as a product and is craving food as a process. For dreamers, thinkers, makers, doubters, and connoisseurs. For those who have the guts to take their taste buds into unknown territory.
+            text: "You don't have to be a designer. You just need to be curious — and have a mouth."
+      -
+        type: paragraph
+        content:
+          - type: text
+            text: "Food Design Playground is for those who've grown tired of food as a product and are hungry for food as a process. Dreamers, thinkers, makers, doubters, connoisseurs. Anyone brave enough to take their taste buds somewhere new."
     image_position: left
     type: image_text
     enabled: true
@@ -58,14 +69,33 @@ page_builder:
     enabled: true
   -
     id: mbjdo4fb
-    heading: 'eten met al je zintuigen'
+    heading: 'Eating with all your senses'
     heading_type: h2
     text:
       -
         type: paragraph
         content:
           - type: text
-            text: 'Would you like to organize something yourself? The various spaces are available for rent for creative gatherings, meetings, dinners, lectures, or inspiration sessions. With or without catering, always with character. Food Design Playground is an initiative of Marije Vogelzang. Marije started as a designer in 1999 and is one of the pioneers of the field. Food Design Playground is a place to taste, to think, and to create. To be touched — via your tongue.'
+            text: "We work on an event basis: dinners, performances, workshops, and other moments when the door swings open. You can't just walk in for lunch — but you "
+          -
+            type: text
+            marks:
+              - type: italic
+            text: can
+          - type: text
+            text: ' come for something far more interesting.'
+      -
+        type: paragraph
+        content:
+          - type: text
+            text: 'Want to bring your own gathering? Our spaces are available for rent — for creative meetings, lectures, dinners, or inspiration sessions. With or without catering. Always with character.'
+          - type: hardBreak
+          - type: hardBreak
+          - type: text
+            text: 'A place to taste, think, and make.'
+          - type: hardBreak
+          - type: text
+            text: 'To be moved — through your mouth.'
     image: playground/img_7082.jpeg
     image_position: right
     type: image_text
