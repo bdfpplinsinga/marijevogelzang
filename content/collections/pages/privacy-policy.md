@@ -3,8 +3,8 @@ id: 56ca143d-c212-41ea-8444-5f0168978983
 published: false
 blueprint: page
 title: 'Privacy Policy'
-updated_by: 7ca6cd2d-3700-4485-bdd7-46e4df1a56c4
-updated_at: 1747726370
+updated_by: 79296801-252d-4afa-98db-926f50d63dff
+updated_at: 1781689757
 page_builder:
   -
     id: maw70u4p
@@ -17,8 +17,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Privacy Policy (Placeholder)'
       -
         type: paragraph
@@ -26,20 +25,38 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
-            text: 'Last updated: [May 20, 2025]'
+              - type: bold
+            text: 'Last updated: [June 17, 2026]'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
+            text: 'Studio Marije Vogelzang, located at Wijnstraat 153 3311BV Dordrecht, is responsible for the processing of personal data as shown in this privacy statement.'
+      -
+        type: paragraph
+        content:
+          - type: text
+            text: !!binary Q29udGFjdCBkZXRhaWxzOiAD
+          - type: hardBreak
+          - type: text
+            text: !!binary d3d3Lm1hcmlqZXZvZ2VsemFuZy5ubCAD
+          - type: hardBreak
+          - type: text
+            text: !!binary V2lqbnN0cmFhdCAxNTMgMzMxMUJWIERvcmRyZWNodCAD
+      -
+        type: paragraph
+        content:
+          - type: text
+            text: 'Marije Vogelzang is the Data Protection Officer of Studio Marije Vogelzang and can be reached via studio@marijevogelzang.nl'
+      -
+        type: paragraph
+        content:
+          - type: text
             text: 'This is a placeholder privacy policy. The website owner is currently in the process of preparing a full and legally compliant privacy policy.'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'We value your privacy and are committed to protecting your personal data. While we do not currently collect or process any sensitive personal information, we encourage users to avoid submitting personal data until a full privacy policy is in place.'
       -
         type: heading
@@ -49,8 +66,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'What We Collect (for demonstration purposes only)'
       -
         type: bulletList
@@ -61,8 +77,7 @@ page_builder:
               -
                 type: paragraph
                 content:
-                  -
-                    type: text
+                  - type: text
                     text: 'Basic information submitted via forms (e.g., name, email)'
           -
             type: listItem
@@ -70,8 +85,7 @@ page_builder:
               -
                 type: paragraph
                 content:
-                  -
-                    type: text
+                  - type: text
                     text: 'Anonymous analytics data to understand how visitors use the site'
           -
             type: listItem
@@ -79,8 +93,7 @@ page_builder:
               -
                 type: paragraph
                 content:
-                  -
-                    type: text
+                  - type: text
                     text: 'Cookies for basic functionality and performance tracking'
       -
         type: heading
@@ -90,8 +103,7 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'How We Use It'
       -
         type: bulletList
@@ -102,8 +114,7 @@ page_builder:
               -
                 type: paragraph
                 content:
-                  -
-                    type: text
+                  - type: text
                     text: 'To improve user experience'
           -
             type: listItem
@@ -111,8 +122,7 @@ page_builder:
               -
                 type: paragraph
                 content:
-                  -
-                    type: text
+                  - type: text
                     text: 'To provide responses to inquiries'
           -
             type: listItem
@@ -120,8 +130,7 @@ page_builder:
               -
                 type: paragraph
                 content:
-                  -
-                    type: text
+                  - type: text
                     text: 'To analyze general usage trends'
       -
         type: heading
@@ -131,14 +140,12 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Third-Party Services'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'This website may use third-party services such as Google Analytics, embedded social media content, or email marketing platforms. These services may collect their own data according to their own privacy policies.'
       -
         type: heading
@@ -148,14 +155,12 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Your Rights'
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'If you are located in the EU or another region with data protection laws, you may have the right to access, correct, or delete your personal data. Please contact us if you have questions.'
       -
         type: heading
@@ -165,32 +170,27 @@ page_builder:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: Contact
       -
         type: paragraph
         content:
-          -
-            type: text
+          - type: text
             text: 'For any privacy-related questions, please contact: '
           -
             type: text
             marks:
-              -
-                type: bold
-            text: '[placeholder@example.com]'
+              - type: bold
+            text: studio@marijevogelzang.nl
       -
         type: paragraph
         content:
           -
             type: text
             marks:
-              -
-                type: bold
+              - type: bold
             text: 'Note:'
-          -
-            type: text
+          - type: text
             text: ' This is not a legally binding policy and is intended as a placeholder only. A proper privacy policy, compliant with applicable laws (such as GDPR or CCPA), should be drafted and published as soon as possible.'
     type: text
     enabled: true

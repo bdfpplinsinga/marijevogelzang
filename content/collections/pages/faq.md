@@ -2,9 +2,9 @@
 id: 9892dfce-94d1-4921-acbc-0ee103830f6d
 published: false
 blueprint: page
-title: Questions
+title: FAQ
 updated_by: a422e059-6afb-45c3-bc04-426efb7ceee0
-updated_at: 1781688889
+updated_at: 1781688979
 page_builder:
   - id: mbcm0mls
     heading: faq
